@@ -43,3 +43,5 @@ int result = previous * 10 + 8 // = 258 this will overflow
 
 lastDigit = 5;
 ```
+
+# O(n) = n
