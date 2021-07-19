@@ -1,3 +1,3 @@
 # Leet Rabbits Codes
 
-- [Day 1](/day1/README.md) 
+- [Day 1](/day1/) 
