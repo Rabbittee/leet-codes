@@ -1,11 +1,26 @@
 # Solution
 
-```javascript
-var reverse = function (x) {
-  const scalar = Number(String(Math.abs(x)).split("").reverse().join(""));
+Reversing an integer and check before overflow
 
-  if (scalar > 2 ** 31) return 0;
+## Digit Pop and Push
 
-  return Math.sign(x) * scalar;
-};
+### Pop
+```c
+pop = x % 10;
+x /= 10;
 ```
+
+### Push
+```c
+temp = rev * 10 + pop;
+rev = temp
+```
+
+### Check Overflow
+
+- if `rev > INTMAX / 10` then `temp = rev * 10 + pop`,
+then `temp = rev * 10 + pop` is guaranteed to overflow.
+
+- if `rev == INTMAX / 10`, then `temp = rev * 10 + pop` will overflow if `pop > 7`.
+​
+
