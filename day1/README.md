@@ -39,4 +39,4 @@ Output: 0
 
 ---
 
-##### origin question : https://leetcode.com/problems/reverse-integer/description/
+##### origin question : [https://leetcode.com/problems/reverse-integer/description/]
