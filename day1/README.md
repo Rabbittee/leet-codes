@@ -1,3 +1,6 @@
+##### origin: https://leetcode.com/problems/reverse-integer/description/
+---
+
 # 7. Reverse Integer
 
 Easy
