@@ -1,6 +1,3 @@
-##### origin: https://leetcode.com/problems/reverse-integer/description/
----
-
 # 7. Reverse Integer
 
 Easy
@@ -39,3 +36,7 @@ Output: 0
 ```
 -231 <= x <= 231 - 1
 ```
+
+---
+
+##### origin question : https://leetcode.com/problems/reverse-integer/description/
