@@ -1,3 +1,3 @@
 # Leet Rabbits Codes
 
-- [Day 1](./day1) (Reverse Integer)
+- [2021-07-19 (Day 1)](./2021-07-19%20(day1)) (Reverse Integer)
