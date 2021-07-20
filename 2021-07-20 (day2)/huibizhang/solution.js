@@ -20,7 +20,7 @@
     })
     
     if(x< -1*Math.pow(2,31) || x > ((Math.pow(2,31) - 1))){
-        return 0
+      return 0
     }else{
     	return x===num
     }
