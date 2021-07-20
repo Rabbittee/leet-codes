@@ -5,7 +5,6 @@
 - Cause by **without convert to string** rule, unsing `mod operator` to get lowest digit of current number and save it to an array.
 - run over all digit in array and let the digit you get multiply its digit count - 1. ( For example, number have 3 digits, first digit'll be multiply by 100 , second digit multiply by 10 , and the lastest digit multiply by 1. )
 
-
 ### compelete source code
 ```javascript
 var isPalindrome = function(x) {
