@@ -43,3 +43,7 @@ Output: false
 
 ## Follow up
 Could you solve it without converting the integer to a string?
+
+---
+
+##### [original question](https://leetcode.com/problems/palindrome-number/)
