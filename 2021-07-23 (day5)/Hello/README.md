@@ -1,0 +1,3 @@
+# Solution
+
+Binary Search
