@@ -6,3 +6,4 @@
 - [2021-07-22 (Day 4)](./2021-07-22%20(day4)) (Valid Parentheses)
 - [2021-07-23 (Day 5)](./2021-07-23%20(day5)) (Search Insert Position)
 - [2021-07-24 (Day 6)](./2021-07-24%20(day6)) (Longest Substring Without Repeating Characters)
+- [2021-07-25 (Day 7)](./2021-07-25%20(day7)) (Median of Two Sorted Arrays)
