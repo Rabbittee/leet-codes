@@ -18,15 +18,9 @@ function romanToInt(s) {
 
   while (0 <= index) {
     const current = map[s[index]];
-    const next = map[s[index - 1]];
+    const next = map[s[index + 1]] || 0;
 
-    if (current > next) {
-      result += current - next;
-
-      index -= 1;
-    } else {
-      result += current;
-    }
+    result += next > current ? -current : current;
 
     index -= 1;
   }
