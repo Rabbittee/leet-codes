@@ -14,10 +14,8 @@
 var deleteDuplicates = function(head) {
   let node = head
   let nextNode
-  
-  if (node===null) { return node }
 
-  while (node.next!=null) {
+  while (node!==nul && node.next!=null) {
     nextNode = node.next
 
     if (node.val === nextNode.val)
