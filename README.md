@@ -8,3 +8,4 @@
 - [2021-07-24 (Day 6)](./2021-07-24%20(day6)) (Longest Substring Without Repeating Characters)
 - [2021-07-25 (Day 7)](./2021-07-25%20(day7)) (Median of Two Sorted Arrays)
 - [2021-07-26 (Day 8)](./2021-07-26%20(day8)) (Roman to Integer)
+- [2021-07-27 (Day 9)](./2021-07-27%20(day9)) (Remove Duplicates from Sorted List)
