@@ -1,3 +1,3 @@
 ## Solution
 
-**for loop and judge string**
+**for loop and judge string** 
