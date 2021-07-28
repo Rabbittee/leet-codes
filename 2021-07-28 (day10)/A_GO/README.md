@@ -30,9 +30,13 @@ Given an integer, convert it to a roman numeral
 ## My Thoghts
 
 This is to map the decimal value to roman.
+
 Then get quotient of each roman decimal.
+
 Espcially, we let `4`, `9`,`40`,`90`,`400`,`900` to be one of character.
+
 But actually, this problem can be solved in O(1) time just use `if else`
 or `switch case`.
+
 
 ## O(n)
