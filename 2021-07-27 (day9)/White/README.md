@@ -1,7 +1,11 @@
 # 解題想法
-1. 把數字和羅馬字用兩個list做對應，特殊的如4和9的寫法也放進去
-2. 依序比較數字是否存在list中，有的話就減掉，比到數字減至0為止
+1. 逐一檢查有無下一個node，和下一個node比較val是否相同
+2. 失去link的node即不存在於list
+3. 測試資料裡有陷阱 []，用了哈奇之前教的early return 避開
 
 # leecode 提交結果
-Runtime: 36 ms, faster than 98.58% of Python3 online submissions for Integer to Roman.
-Memory Usage: 14.3 MB, less than 59.06% of Python3 online submissions for Integer to Roman.
+Runtime: 44 ms, faster than 57.80% of Python3 online submissions for Remove Duplicates from Sorted List.
+Memory Usage: 14.2 MB, less than 81.15% of Python3 online submissions for Remove Duplicates from Sorted List.
+
+# 時間複雜度
+O(n)
