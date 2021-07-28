@@ -75,6 +75,8 @@ class Solution:
         return roman
 ```
 
+<img src="./solution.png">
+
 ---
 
 ## Big-O
