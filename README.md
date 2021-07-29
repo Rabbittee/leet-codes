@@ -13,4 +13,4 @@
 - [Day 8：Roman to Integer](./2021-07-26%20(day8)) ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 - [Day 9：Remove Duplicates from Sorted List](./2021-07-27%20(day9)) ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 - [Day 10：Integer to Roman](./2021-07-28%20(day10)) ![Medium](https://img.shields.io/badge/Difficulty-Medium-orange)
-- [Day 11：Same Tree](./2021-07-29%20(day11)) ![Easy](https://img.shields.io/badge/Difficulty-Medium-orange)
+- [Day 11：Same Tree](./2021-07-29%20(day11)) ![Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
