@@ -47,17 +47,17 @@
 [hard]: https://img.shields.io/badge/-Hard-red
 
 ### Tags
-[math]: https://img.shields.io/badge/-Math-brightgreen
-[string]: https://img.shields.io/badge/-String-green
-[dynamic-programming]: https://img.shields.io/badge/-Dynamic%20Programming-yellowgreen
-[stack]: https://img.shields.io/badge/-Stack-yellow
-[array]: https://img.shields.io/badge/-Array-orange
-[binary-search]: https://img.shields.io/badge/-Binary%20Search-red
-[hash-table]: https://img.shields.io/badge/-Hash%20Table-blue
-[sliding-window]: https://img.shields.io/badge/-Sliding%20Window-lightgrey
-[divide-and-conquer]: https://img.shields.io/badge/-Divide%20and%20Conquer-blueviolet
-[link-list]: https://img.shields.io/badge/-Link%20List-ff69b4
-[binary-tree]: https://img.shields.io/badge/-Binary%20Tree-brightgreen
+[math]: https://img.shields.io/badge/-Math-FFCDD2
+[string]: https://img.shields.io/badge/-String-F8BBD0
+[dynamic-programming]: https://img.shields.io/badge/-Dynamic%20Programming-E1BEE7
+[stack]: https://img.shields.io/badge/-Stack-D1C4E9
+[array]: https://img.shields.io/badge/-Array-C5CAE9
+[binary-search]: https://img.shields.io/badge/-Binary%20Search-BBDEFB
+[hash-table]: https://img.shields.io/badge/-Hash%20Table-B3E5FC
+[sliding-window]: https://img.shields.io/badge/-Sliding%20Window-B2EBF2
+[divide-and-conquer]: https://img.shields.io/badge/-Divide%20and%20Conquer-B2DFDB
+[link-list]: https://img.shields.io/badge/-Link%20List-C8E6C9
+[binary-tree]: https://img.shields.io/badge/-Binary%20Tree-DCEDC8
 
 ![Math][math]
 ![String][string]
