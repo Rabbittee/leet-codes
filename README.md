@@ -35,8 +35,8 @@
 |08|[13][13]|[Roman to Integer](./2021-07-26%20(day8))|![Easy][easy]|![Hash Table][hash-table] ![Math][math] ![String][string]|
 |09|[83][83]|[Remove Duplicates from Sorted List](./2021-07-27%20(day9))|![Easy][easy]|![Link List][link-list]|
 |10|[12][12]|[Integer to Roman](./2021-07-28%20(day10))|![Medium][medium]|![Hash Table][hash-table] ![Math][math] ![String][string]|
-|11|[100][100]|[Same Tree](./2021-07-29%20(day11))|![Easy][easy]|![Binary Tree][binary-tree]|
-|12|[104][104]|[Maximum Depth of Binary Tree](./2021-07-30%20(day12))|![Easy][easy]|![Binary Tree][binary-tree]|
+|11|[100][100]|[Same Tree](./2021-07-29%20(day11))|![Easy][easy]|![Tree][tree] ![Depth-First search][depth-first-search] ![Breadth-First search][breadth-first-search] ![Binary Tree][binary-tree]|
+|12|[104][104]|[Maximum Depth of Binary Tree](./2021-07-30%20(day12))|![Easy][easy]|![Tree][tree] ![Depth-First search][depth-first-search] ![Breadth-First search][breadth-first-search] ![Binary Tree][binary-tree]|
 |13||[](./2021-07-31%20(day13))|![Medium][medium]||
 |14||[](./2021-08-01%20(day14))|![Hard][hard]||
 
@@ -57,7 +57,10 @@
 [sliding-window]: https://img.shields.io/badge/-Sliding%20Window-B2EBF2
 [divide-and-conquer]: https://img.shields.io/badge/-Divide%20and%20Conquer-B2DFDB
 [link-list]: https://img.shields.io/badge/-Link%20List-C8E6C9
-[binary-tree]: https://img.shields.io/badge/-Binary%20Tree-DCEDC8
+[tree]: https://img.shields.io/badge/-Tree-DCEDC8
+[depth-first-search]: https://img.shields.io/badge/-Depth%20First%20Search-F0F4C3
+[breadth-first-search]: https://img.shields.io/badge/-breadth%20First%20Search-FFF9C4
+[binary-tree]: https://img.shields.io/badge/-Binary%20Tree-FFECB3
 
 ![Math][math]
 ![String][string]
@@ -71,4 +74,7 @@
 ![Divide and Conquer][divide-and-conquer]
 ![Link List][link-list]
 
+![Tree][tree]
+![Depth-First search][depth-first-search]
+![Breadth-First search][breadth-first-search]
 ![Binary Tree][binary-tree]
