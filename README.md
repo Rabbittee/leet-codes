@@ -80,3 +80,4 @@
 ![Depth-First search][depth-first-search]
 ![Breadth-First search][breadth-first-search]
 ![Binary Tree][binary-tree]
+![Greedy][greedy]
