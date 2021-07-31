@@ -38,7 +38,7 @@
 | 10  |  [12][12]  | [Integer to Roman](<./2021-07-28%20(day10)>)                  | ![Medium][medium] |                                     ![Hash Table][hash-table] ![Math][math] ![String][string]                                     |
 | 11  | [100][100] | [Same Tree](<./2021-07-29%20(day11)>)                         |   ![Easy][easy]   | ![Tree][tree] ![Depth-First search][depth-first-search] ![Breadth-First search][breadth-first-search] ![Binary Tree][binary-tree] |
 | 12  | [104][104] | [Maximum Depth of Binary Tree](<./2021-07-30%20(day12)>)      |   ![Easy][easy]   | ![Tree][tree] ![Depth-First search][depth-first-search] ![Breadth-First search][breadth-first-search] ![Binary Tree][binary-tree] |
-| 13  |  [45][45]  | [Jump Game I](<./2021-07-31%20(day13)>)                       | ![Medium][medium] |                           ![Array][array] ![Dynamic Programming][dynamic-programming] ![Greedy][greedy]                           |
+| 13  |  [45][45]  | [Jump Game II](<./2021-07-31%20(day13)>)                       | ![Medium][medium] |                           ![Array][array] ![Dynamic Programming][dynamic-programming] ![Greedy][greedy]                           |
 | 14  |            | [](<./2021-08-01%20(day14)>)                                  |   ![Hard][hard]   |                                                                                                                                   |
 
 ---
