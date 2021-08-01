@@ -15,4 +15,3 @@ Just use a same size array to store the best wight to some point.
 Finally to end is result.
 
 ## O(n^2) DP
-## O(n) **greedy**
