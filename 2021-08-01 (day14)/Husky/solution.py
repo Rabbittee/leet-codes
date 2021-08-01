@@ -17,7 +17,6 @@ class Solution:
                 value = sum_t[c_y][c_x]
 
                 if c_x < n - 1:
-                    right = sum_t[c_y][c_x + 1]
                     n_currs.add((c_x + 1, c_y))
                     if sum_t[c_y][c_x + 1] == 0:
                         sum_t[c_y][c_x + 1] = value
@@ -25,7 +24,6 @@ class Solution:
                         sum_t[c_y][c_x + 1] = value
 
                 if c_y < m - 1:
-                    down = sum_t[c_y + 1][c_x]
                     n_currs.add((c_x, c_y + 1))
                     if sum_t[c_y + 1][c_x] == 0:
                         sum_t[c_y + 1][c_x] = value
