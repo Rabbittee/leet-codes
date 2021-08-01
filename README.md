@@ -65,7 +65,7 @@
 [breadth-first-search]: https://img.shields.io/badge/-breadth%20First%20Search-FFF9C4
 [binary-tree]: https://img.shields.io/badge/-Binary%20Tree-FFECB3
 [greedy]: https://img.shields.io/badge/-Greedy-FFE0B2
-[matrix]: https://img.shields.io/badge/-Matrix-FFE0B2
+[matrix]: https://img.shields.io/badge/-Matrix-FFCCBC
 
 ![Math][math]
 ![String][string]
