@@ -44,6 +44,17 @@
 
 ---
 
+#### `Week 3 (2021-08-02 ~ 2021-08-08)`
+
+[21]: https://leetcode.com/problems/merge-two-sorted-lists/
+
+| Day |    id    | Title                                    |  Difficulty   |               Related Topics                |
+| :-: | :------: | :--------------------------------------- | :-----------: | :-----------------------------------------: |
+| 15  | [21][21] | [Jump Game II](<./2021-08-02%20(day15)>) | ![Easy][easy] | ![Link List][array] ![Recursion][recursion] |
+|     |          |                                          |               |                                             |
+
+---
+
 [easy]: https://img.shields.io/badge/-Easy-brightgreen
 [medium]: https://img.shields.io/badge/-Medium-orange
 [hard]: https://img.shields.io/badge/-Hard-red
@@ -66,6 +77,7 @@
 [binary-tree]: https://img.shields.io/badge/-Binary%20Tree-FFECB3
 [greedy]: https://img.shields.io/badge/-Greedy-FFE0B2
 [matrix]: https://img.shields.io/badge/-Matrix-FFCCBC
+[recursion]: https://img.shields.io/badge/-Matrix-FFCCBC
 
 ![Math][math]
 ![String][string]
@@ -85,3 +97,4 @@
 ![Binary Tree][binary-tree]
 ![Greedy][greedy]
 ![Matrix][matrix]
+![Recursion][recursion]
