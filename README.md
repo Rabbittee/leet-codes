@@ -82,7 +82,7 @@
 [binary-tree]: https://img.shields.io/badge/-Binary%20Tree-FFECB3
 [greedy]: https://img.shields.io/badge/-Greedy-FFE0B2
 [matrix]: https://img.shields.io/badge/-Matrix-FFCCBC
-[recursion]: https://img.shields.io/badge/-Matrix-FFCCBC
+[recursion]: https://img.shields.io/badge/-Recursion-D7CCC8
 
 ![Math][math]
 ![String][string]
