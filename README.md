@@ -101,5 +101,6 @@
 ![Breadth-First search][breadth-first-search]
 ![Binary Tree][binary-tree]
 ![Greedy][greedy]
+
 ![Matrix][matrix]
 ![Recursion][recursion]
