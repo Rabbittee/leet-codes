@@ -46,18 +46,19 @@
 
 #### `Week 3 (2021-08-02 ~ 2021-08-08)`
 
+[2]: https://leetcode.com/problems/add-two-numbers/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [48]: https://leetcode.com/problems/rotate-image/
 
-| Day |    id    | Title                                              |    Difficulty     |                 Related Topics                  |
-| :-: | :------: | :------------------------------------------------- | :---------------: | :---------------------------------------------: |
-| 15  | [21][21] | [Merge Two Sorted Lists](<./2021-08-02%20(day15)>) |   ![Easy][easy]   | ![Link List][link-list] ![Recursion][recursion] |
-| 16  | [48][48] | [Rotate Image](<./2021-08-03%20(day16)>)           | ![Medium][medium] | ![Array][array] ![Math][math] ![Matrix][matrix] |
-| 17  |          | [](<./2021-08-04%20(day17)>)                       |                   |                                                 |
-| 18  |          | [](<./2021-08-05%20(day18)>)                       |                   |                                                 |
-| 19  |          | [](<./2021-08-06%20(day19)>)                       |                   |                                                 |
-| 20  |          | [](<./2021-08-07%20(day20)>)                       |                   |                                                 |
-| 21  |          | [](<./2021-08-08%20(day21)>)                       |                   |                                                 |
+| Day |    id    | Title                                              |    Difficulty     |                        Related Topics                         |
+| :-: | :------: | :------------------------------------------------- | :---------------: | :-----------------------------------------------------------: |
+| 15  | [21][21] | [Merge Two Sorted Lists](<./2021-08-02%20(day15)>) |   ![Easy][easy]   |        ![Link List][link-list] ![Recursion][recursion]        |
+| 16  | [48][48] | [Rotate Image](<./2021-08-03%20(day16)>)           | ![Medium][medium] |        ![Array][array] ![Math][math] ![Matrix][matrix]        |
+| 17  |  [2][2]  | [Add Two Numbers](<./2021-08-04%20(day17)>)        | ![Medium][medium] | ![Link List][link-list] ![Math][math] ![Recursion][recursion] |
+| 18  |          | [](<./2021-08-05%20(day18)>)                       |                   |                                                               |
+| 19  |          | [](<./2021-08-06%20(day19)>)                       |                   |                                                               |
+| 20  |          | [](<./2021-08-07%20(day20)>)                       |                   |                                                               |
+| 21  |          | [](<./2021-08-08%20(day21)>)                       |                   |                                                               |
 
 ---
 
