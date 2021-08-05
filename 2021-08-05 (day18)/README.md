@@ -3,30 +3,59 @@ Easy
 
 
 ## Description
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-You can return the answer in any order.
+<p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
 
-## Examples
-### Example 1:
+<p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
 
-Input: nums = [2,7,11,15], target = 9
-Output: [0,1]
-Output: Because nums[0] + nums[1] == 9, we return [0, 1].
+<p>You can return the answer in any order.</p>
 
-### Example 2:
-Input: nums = [3,2,4], target = 6
-Output: [1,2]
+<p>&nbsp;</p>
+<p><strong>Example 1:</strong></p>
 
-### Example 3:
-Input: nums = [3,3], target = 6
-Output: [0,1]
+<pre>
+<strong>Input:</strong> nums = [2,7,11,15], target = 9
+<strong>Output:</strong> [0,1]
+<strong>Output:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
+</pre>
 
-### Constraints:
+<p><strong>Example 2:</strong></p>
 
-2 <= nums.length <= 104
--109 <= nums[i] <= 109
--109 <= target <= 109
-Only one valid answer exists.
+<pre>
+<strong>Input:</strong> nums = [3,2,4], target = 6
+<strong>Output:</strong> [1,2]
+</pre>
 
-##### [original question](https://leetcode.com/problems/two-sum/)
+<p><strong>Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [3,3], target = 6
+<strong>Output:</strong> [0,1]
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>2 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
+	<li><strong>Only one valid answer exists.</strong></li>
+</ul>
+
+<p>&nbsp;</p>
+<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than&nbsp;<code>O(n<sup>2</sup>)&nbsp;</code>time complexity?
+
+
+---
+
+Topic Tags
+
+[array]: https://img.shields.io/badge/-Array-EF9A9A
+![Array][array]
+
+[hash-table]: https://img.shields.io/badge/-Hash%20Table-B39DDB
+![Hash Table][hash-table]
+
+---
+
+##### [original question](https://leetcode.com/problems/two-sum)
