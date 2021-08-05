@@ -107,3 +107,13 @@
 
 ![Matrix][matrix]
 ![Recursion][recursion]
+
+---
+
+### Create Daily Task
+> if leetcode problems url path is https://leetcode.com/problems/two-sum/<br>
+> [INPUT] -> "two-sum"
+
+```
+python3 script/createREADME.py [INPUT]
+```
