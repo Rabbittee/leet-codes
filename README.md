@@ -50,6 +50,7 @@
 [2]: https://leetcode.com/problems/add-two-numbers/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [48]: https://leetcode.com/problems/rotate-image/
+[23]: https://leetcode.com/problems/merge-k-sorted-lists/
 
 | Day |    id    | Title                                              |    Difficulty     |                        Related Topics                         |
 | :-: | :------: | :------------------------------------------------- | :---------------: | :-----------------------------------------------------------: |
@@ -57,7 +58,7 @@
 | 16  | [48][48] | [Rotate Image](<./2021-08-03%20(day16)>)           | ![Medium][medium] |        ![Array][array] ![Math][math] ![Matrix][matrix]        |
 | 17  |  [2][2]  | [Add Two Numbers](<./2021-08-04%20(day17)>)        | ![Medium][medium] | ![Link List][link-list] ![Math][math] ![Recursion][recursion] |
 | 18  |  [1][1]  | [Two Sum](<./2021-08-05%20(day18)>)                |   ![Easy][easy]   |           ![Array][array] ![Hash Table][hash-table]           |
-| 19  |          | [](<./2021-08-06%20(day19)>)                       |                   |                                                               |
+| 19  | [23][23] | [merge-k-sorted-lists](<./2021-08-06%20(day19)>)                       |   ![Hard][hard]   |![Link List][link-list] ![Divide and Conquer][divide-and-conquer] ![Heap (Priority Queue)][heap-priority-queue] ![Merge Sort][merge-sort]|
 | 20  |          | [](<./2021-08-07%20(day20)>)                       |                   |                                                               |
 | 21  |          | [](<./2021-08-08%20(day21)>)                       |                   |                                                               |
 
@@ -86,13 +87,17 @@
 [greedy]: https://img.shields.io/badge/-Greedy-FFE0B2
 [matrix]: https://img.shields.io/badge/-Matrix-FFCCBC
 [recursion]: https://img.shields.io/badge/-Recursion-D7CCC8
+[heap-priority-queue]: https://img.shields.io/badge/-Heap%20(Priority%20Queue)-81D4FA
+[merge-sort]: https://img.shields.io/badge/-Merge%20Sort-A5D6A7
 
 ![Math][math]
 ![String][string]
 ![Dynamic Programming][dynamic-programming]
 ![Stack][stack]
 ![Array][array]
+![Heap (Priority Queue)][heap-priority-queue]
 
+![Merge Sort][merge-sort]
 ![Binary Search][binary-search]
 ![Hash Table][hash-table]
 ![Sliding Window][sliding-window]
@@ -107,3 +112,13 @@
 
 ![Matrix][matrix]
 ![Recursion][recursion]
+
+---
+
+### Create Daily Task
+> if leetcode problems url path is https://leetcode.com/problems/two-sum/<br>
+> [INPUT] -> "two-sum"
+
+```
+python3 script/createREADME.py [INPUT]
+```
