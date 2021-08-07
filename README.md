@@ -90,8 +90,8 @@
 [recursion]: https://img.shields.io/badge/-Recursion-D7CCC8
 [heap-priority-queue]: https://img.shields.io/badge/-Heap%20(Priority%20Queue)-F5F5F5
 [merge-sort]: https://img.shields.io/badge/-Merge%20Sort-CFD8DC
-[queue]: https://img.shields.io/badge/-Queue-CFD8DC
-[counting]: https://img.shields.io/badge/-Counting-CFD8DC
+[queue]: https://img.shields.io/badge/-Queue-FFFFFF
+[counting]: https://img.shields.io/badge/-Counting-EF9A9A
 
 ![Math][math]
 ![String][string]
@@ -116,6 +116,7 @@
 ![Heap (Priority Queue)][heap-priority-queue]
 ![Merge Sort][merge-sort]
 ![Queue][queue]
+
 ![Counting][counting]
 
 ---
