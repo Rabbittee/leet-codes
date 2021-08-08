@@ -51,6 +51,7 @@
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [48]: https://leetcode.com/problems/rotate-image/
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
+[341]: https://leetcode.com/problems/flatten-nested-list-iterator/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 
 | Day |     id     | Title                                                          |    Difficulty     |                                                              Related Topics                                                               |
@@ -61,7 +62,7 @@
 | 18  |   [1][1]   | [Two Sum](<./2021-08-05%20(day18)>)                            |   ![Easy][easy]   |                                                 ![Array][array] ![Hash Table][hash-table]                                                 |
 | 19  |  [23][23]  | [Merge k Sorted Lists](<./2021-08-06%20(day19)>)               |   ![Hard][hard]   | ![Link List][link-list] ![Divide and Conquer][divide-and-conquer] ![Heap (Priority Queue)][heap-priority-queue] ![Merge Sort][merge-sort] |
 | 20  | [387][387] | [First Unique Character in a String](<./2021-08-07%20(day20)>) |   ![Easy][easy]   |                             ![Hash Table][hash-table] ![string][string] ![Queue][queue] ![Counting][counting]                             |
-| 21  |            | [](<./2021-08-08%20(day21)>)                                   |                   |                                                                                                                                           |
+| 21  | [341][341] | [Flatten Nested List Iterator](<./2021-08-08%20(day21)>)       | ![Medium][medium] |      ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Design][design] ![Queue][queue] ![Iterator][iterator]      |
 
 ---
 
@@ -92,6 +93,8 @@
 [merge-sort]: https://img.shields.io/badge/-Merge%20Sort-CFD8DC
 [queue]: https://img.shields.io/badge/-Queue-FFFFFF
 [counting]: https://img.shields.io/badge/-Counting-EF9A9A
+[design]: https://img.shields.io/badge/-Design-F48FB1
+[iterator]: https://img.shields.io/badge/-Iterator-F48FB1
 
 ![Math][math]
 ![String][string]
@@ -118,6 +121,8 @@
 ![Queue][queue]
 
 ![Counting][counting]
+![Design][design]
+![Iterator][iterator]
 
 ---
 
