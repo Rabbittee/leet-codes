@@ -1,8 +1,9 @@
 # 341. Flatten Nested List Iterator
+
 Medium
 
-
 ## Description
+
 <p>You are given a nested list of integers <code>nestedList</code>. Each element is either an integer or a list whose elements may also be integers or other lists. Implement an iterator to flatten it.</p>
 
 <p>Implement the <code>NestedIterator</code> class:</p>
@@ -50,8 +51,6 @@ return res
 	<li>The values of the integers in the nested list is in the range <code>[-10<sup>6</sup>, 10<sup>6</sup>]</code>.</li>
 </ul>
 
-
-
 ---
 
 Topic Tags
@@ -62,7 +61,7 @@ Topic Tags
 [tree]: https://img.shields.io/badge/-Tree-B39DDB
 ![Tree][tree]
 
-[depth-first-search]: https://img.shields.io/badge/-Depth-First%20Search-81D4FA
+[depth-first-search]: https://img.shields.io/badge/-Depth%20First%20Search-81D4FA
 ![Depth-First Search][depth-first-search]
 
 [design]: https://img.shields.io/badge/-Design-A5D6A7
