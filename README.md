@@ -94,7 +94,7 @@
 [queue]: https://img.shields.io/badge/-Queue-FFFFFF
 [counting]: https://img.shields.io/badge/-Counting-EF9A9A
 [design]: https://img.shields.io/badge/-Design-F48FB1
-[iterator]: https://img.shields.io/badge/-Iterator-F48FB1
+[iterator]: https://img.shields.io/badge/-Iterator-CE93D8
 
 ![Math][math]
 ![String][string]
