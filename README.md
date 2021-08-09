@@ -112,7 +112,7 @@
 [design]: https://img.shields.io/badge/-Design-F48FB1
 [iterator]: https://img.shields.io/badge/-Iterator-CE93D8
 [two-pointers]: https://img.shields.io/badge/-Two%20Pointers-B39DDB
-[sorting]: https://img.shields.io/badge/-Sorting-A5D6A7
+[sorting]: https://img.shields.io/badge/-Sorting-9FA8DA
 
 ![Math][math]
 ![String][string]
