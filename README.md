@@ -66,6 +66,22 @@
 
 ---
 
+#### `Week 4 (2021-08-09 ~ 2021-08-15)`
+
+[148]: https://leetcode.com/problems/sort-list/
+
+| Day |     id     | Title                                 |    Difficulty     |                                                                Related Topics                                                                 |
+| :-: | :--------: | :------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>) | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
+|     |            |                                       |                   |                                                                                                                                               |
+|     |            |                                       |                   |                                                                                                                                               |
+|     |            |                                       |                   |                                                                                                                                               |
+|     |            |                                       |                   |                                                                                                                                               |
+|     |            |                                       |                   |                                                                                                                                               |
+|     |            |                                       |                   |                                                                                                                                               |
+
+---
+
 [easy]: https://img.shields.io/badge/-Easy-brightgreen
 [medium]: https://img.shields.io/badge/-Medium-orange
 [hard]: https://img.shields.io/badge/-Hard-red
@@ -95,6 +111,8 @@
 [counting]: https://img.shields.io/badge/-Counting-EF9A9A
 [design]: https://img.shields.io/badge/-Design-F48FB1
 [iterator]: https://img.shields.io/badge/-Iterator-CE93D8
+[two-pointers]: https://img.shields.io/badge/-Two%20Pointers-B39DDB
+[sorting]: https://img.shields.io/badge/-Sorting-A5D6A7
 
 ![Math][math]
 ![String][string]
@@ -123,6 +141,8 @@
 ![Counting][counting]
 ![Design][design]
 ![Iterator][iterator]
+![Two Pointers][two-pointers]
+![Sorting][sorting]
 
 ---
 
