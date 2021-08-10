@@ -18,7 +18,3 @@ class Solution:
         inLDR(root)
 
         return ldr_list == sorted(set(ldr_list))
-
-
-Runtime: 44 ms, faster than 69.67 % of Python3 online submissions for Validate Binary Search Tree.
-Memory Usage: 17.8 MB, less than 7.19 % of Python3 online
