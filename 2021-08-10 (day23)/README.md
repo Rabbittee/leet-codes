@@ -1,14 +1,17 @@
 # 98. Validate Binary Search Tree
-`Medium`
+Medium
 
-Share
-Given the `root` of a binary tree, determine if it is a valid binary search tree (BST).
 
-A **valid BST** is defined as follows:
+## Description
+<p>Given the <code>root</code> of a binary tree, <em>determine if it is a valid binary search tree (BST)</em>.</p>
 
-- The left subtree of a node contains only nodes with keys **less than** the node's key.
-- The right subtree of a node contains only nodes with keys **greater than** the node's key.
-- Both the left and right subtrees must also be binary search trees.
+<p>A <strong>valid BST</strong> is defined as follows:</p>
+
+<ul>
+	<li>The left subtree of a node contains only nodes with keys <strong>less than</strong> the node&#39;s key.</li>
+	<li>The right subtree of a node contains only nodes with keys <strong>greater than</strong> the node&#39;s key.</li>
+	<li>Both the left and right subtrees must also be binary search trees.</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
@@ -43,7 +46,7 @@ Topic Tags
 [tree]: https://img.shields.io/badge/-Tree-EF9A9A
 ![Tree][tree]
 
-[depth-first-search]: https://img.shields.io/badge/-Depth-First%20Search-B39DDB
+[depth-first-search]: https://img.shields.io/badge/-Depth%20First%20Search-B39DDB
 ![Depth-First Search][depth-first-search]
 
 [binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-81D4FA

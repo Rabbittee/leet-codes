@@ -51,7 +51,7 @@ def create_readme(folder, info):
              "A5D6A7", "FFF59D", "FFAB91", "B0BEC5"]
 
     def tag_label(index, tag):
-        declare = f'[{tag["slug"]}]: {shieldsUrl}-{tag["name"].replace(" ", "%20")}-{color[index]}'
+        declare = f'[{tag["slug"]}]: {shieldsUrl}-{tag["name"].replace(" ", "%20").replace("-", "%20")}-{color[index]}'
 
         return f'{declare}\n![{tag["name"]}][{tag["slug"]}]'
 
