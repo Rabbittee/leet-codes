@@ -69,16 +69,17 @@
 #### `Week 4 (2021-08-09 ~ 2021-08-15)`
 
 [148]: https://leetcode.com/problems/sort-list/
+[98]: https://leetcode.com/problems/validate-binary-search-tree/
 
-| Day |     id     | Title                                 |    Difficulty     |                                                                Related Topics                                                                 |
-| :-: | :--------: | :------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
-| 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>) | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
-|     |            |                                       |                   |                                                                                                                                               |
-|     |            |                                       |                   |                                                                                                                                               |
-|     |            |                                       |                   |                                                                                                                                               |
-|     |            |                                       |                   |                                                                                                                                               |
-|     |            |                                       |                   |                                                                                                                                               |
-|     |            |                                       |                   |                                                                                                                                               |
+| Day |     id     | Title                                                   |    Difficulty     |                                                                Related Topics                                                                 |
+| :-: | :--------: | :------------------------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>)                   | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
+| 23  |  [98][98]  | [Validate Binary Search Tree](<./2021-08-10%20(day23)>) | ![Medium][medium] |         ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Search Tree][binary-search-tree] ![Binary Tree][binary-tree]         |
+|     |            |                                                         |                   |                                                                                                                                               |
+|     |            |                                                         |                   |                                                                                                                                               |
+|     |            |                                                         |                   |                                                                                                                                               |
+|     |            |                                                         |                   |                                                                                                                                               |
+|     |            |                                                         |                   |                                                                                                                                               |
 
 ---
 
@@ -113,6 +114,7 @@
 [iterator]: https://img.shields.io/badge/-Iterator-CE93D8
 [two-pointers]: https://img.shields.io/badge/-Two%20Pointers-B39DDB
 [sorting]: https://img.shields.io/badge/-Sorting-9FA8DA
+[binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-81D4FA
 
 ![Math][math]
 ![String][string]
@@ -143,6 +145,8 @@
 ![Iterator][iterator]
 ![Two Pointers][two-pointers]
 ![Sorting][sorting]
+
+![Binary Search Tree][binary-search-tree]
 
 ---
 
