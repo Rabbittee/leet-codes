@@ -70,12 +70,13 @@
 
 [148]: https://leetcode.com/problems/sort-list/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
+[101]: https://leetcode.com/problems/symmetric-tree/
 
 | Day |     id     | Title                                                   |    Difficulty     |                                                                Related Topics                                                                 |
 | :-: | :--------: | :------------------------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 | 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>)                   | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
 | 23  |  [98][98]  | [Validate Binary Search Tree](<./2021-08-10%20(day23)>) | ![Medium][medium] |         ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Search Tree][binary-search-tree] ![Binary Tree][binary-tree]         |
-|     |            |                                                         |                   |                                                                                                                                               |
+| 24  | [101][101] | [Symmetric Tree](<./2021-08-11%20(day24)>)              |   ![Easy][easy]   | ![Tree][tree] ![Depth-First Search][depth-first-search] ![Breadth-First Search][breadth-first-search] ![Binary Tree][binary-tree]             |
 |     |            |                                                         |                   |                                                                                                                                               |
 |     |            |                                                         |                   |                                                                                                                                               |
 |     |            |                                                         |                   |                                                                                                                                               |
