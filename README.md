@@ -115,7 +115,7 @@
 [iterator]: https://img.shields.io/badge/-Iterator-CE93D8
 [two-pointers]: https://img.shields.io/badge/-Two%20Pointers-B39DDB
 [sorting]: https://img.shields.io/badge/-Sorting-9FA8DA
-[binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-81D4FA
+[binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-90CAF9
 
 ![Math][math]
 ![String][string]
