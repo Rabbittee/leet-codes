@@ -71,13 +71,14 @@
 [148]: https://leetcode.com/problems/sort-list/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
 [101]: https://leetcode.com/problems/symmetric-tree/
+[49]: https://leetcode.com/problems/group-anagrams/
 
 | Day |     id     | Title                                                   |    Difficulty     |                                                                Related Topics                                                                 |
 | :-: | :--------: | :------------------------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 | 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>)                   | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
 | 23  |  [98][98]  | [Validate Binary Search Tree](<./2021-08-10%20(day23)>) | ![Medium][medium] |         ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Search Tree][binary-search-tree] ![Binary Tree][binary-tree]         |
 | 24  | [101][101] | [Symmetric Tree](<./2021-08-11%20(day24)>)              |   ![Easy][easy]   | ![Tree][tree] ![Depth-First Search][depth-first-search] ![Breadth-First Search][breadth-first-search] ![Binary Tree][binary-tree]             |
-|     |            |                                                         |                   |                                                                                                                                               |
+| 25  |  [49][49]  | [Group Anagrams](<./2021-08-12%20(day25)>)              | ![Medium][medium] |  ![Hash Table][hash-table] ![String][string] ![Sorting][sorting]                                                                              |
 |     |            |                                                         |                   |                                                                                                                                               |
 |     |            |                                                         |                   |                                                                                                                                               |
 |     |            |                                                         |                   |                                                                                                                                               |
@@ -102,7 +103,7 @@
 [link-list]: https://img.shields.io/badge/-Link%20List-C8E6C9
 [tree]: https://img.shields.io/badge/-Tree-DCEDC8
 [depth-first-search]: https://img.shields.io/badge/-Depth%20First%20Search-F0F4C3
-[breadth-first-search]: https://img.shields.io/badge/-breadth%20First%20Search-FFF9C4
+[breadth-first-search]: https://img.shields.io/badge/-Breadth%20First%20Search-FFF9C4
 [binary-tree]: https://img.shields.io/badge/-Binary%20Tree-FFECB3
 [greedy]: https://img.shields.io/badge/-Greedy-FFE0B2
 [matrix]: https://img.shields.io/badge/-Matrix-FFCCBC
