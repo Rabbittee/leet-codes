@@ -72,14 +72,15 @@
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
 [101]: https://leetcode.com/problems/symmetric-tree/
 [49]: https://leetcode.com/problems/group-anagrams/
+[141]: https://leetcode.com/problems/linked-list-cycle/
 
 | Day |     id     | Title                                                   |    Difficulty     |                                                                Related Topics                                                                 |
 | :-: | :--------: | :------------------------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 | 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>)                   | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
 | 23  |  [98][98]  | [Validate Binary Search Tree](<./2021-08-10%20(day23)>) | ![Medium][medium] |         ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Search Tree][binary-search-tree] ![Binary Tree][binary-tree]         |
-| 24  | [101][101] | [Symmetric Tree](<./2021-08-11%20(day24)>)              |   ![Easy][easy]   | ![Tree][tree] ![Depth-First Search][depth-first-search] ![Breadth-First Search][breadth-first-search] ![Binary Tree][binary-tree]             |
-| 25  |  [49][49]  | [Group Anagrams](<./2021-08-12%20(day25)>)              | ![Medium][medium] |  ![Hash Table][hash-table] ![String][string] ![Sorting][sorting]                                                                              |
-|     |            |                                                         |                   |                                                                                                                                               |
+| 24  | [101][101] | [Symmetric Tree](<./2021-08-11%20(day24)>)              |   ![Easy][easy]   |       ![Tree][tree] ![Depth-First Search][depth-first-search] ![Breadth-First Search][breadth-first-search] ![Binary Tree][binary-tree]       |
+| 25  |  [49][49]  | [Group Anagrams](<./2021-08-12%20(day25)>)              | ![Medium][medium] |                                        ![Hash Table][hash-table] ![String][string] ![Sorting][sorting]                                        |
+| 26  | [141][141] | [Linked List Cycle](<./2021-08-13%20(day26)>)           |   ![Easy][easy]   |                              ![Hash Table][hash-table] ![Linked List][linked-list] ![Two Pointers][two-pointers]                              |
 |     |            |                                                         |                   |                                                                                                                                               |
 |     |            |                                                         |                   |                                                                                                                                               |
 
@@ -117,6 +118,7 @@
 [two-pointers]: https://img.shields.io/badge/-Two%20Pointers-B39DDB
 [sorting]: https://img.shields.io/badge/-Sorting-9FA8DA
 [binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-90CAF9
+[linked-list]: https://img.shields.io/badge/-Linked%20List-B39DDB
 
 ![Math][math]
 ![String][string]
@@ -149,6 +151,7 @@
 ![Sorting][sorting]
 
 ![Binary Search Tree][binary-search-tree]
+![Linked List][linked-list]
 
 ---
 
