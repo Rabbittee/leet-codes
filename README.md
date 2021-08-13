@@ -118,7 +118,7 @@
 [two-pointers]: https://img.shields.io/badge/-Two%20Pointers-B39DDB
 [sorting]: https://img.shields.io/badge/-Sorting-9FA8DA
 [binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-90CAF9
-[linked-list]: https://img.shields.io/badge/-Linked%20List-B39DDB
+[linked-list]: https://img.shields.io/badge/-Linked%20List-81D4FA
 
 ![Math][math]
 ![String][string]
