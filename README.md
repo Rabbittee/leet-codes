@@ -84,7 +84,7 @@
 | 25  |  [49][49]  | [Group Anagrams](<./2021-08-12%20(day25)>)                      | ![Medium][medium] |                                        ![Hash Table][hash-table] ![String][string] ![Sorting][sorting]                                        |
 | 26  | [141][141] | [Linked List Cycle](<./2021-08-13%20(day26)>)                   |   ![Easy][easy]   |                              ![Hash Table][hash-table] ![Linked List][linked-list] ![Two Pointers][two-pointers]                              |
 | 27  |  [22][22]  | [Generate Parentheses](<./2021-08-14%20(day27)>)                | ![Medium][medium] |                          ![String][string] ![Dynamic Programming][dynamic-programming] ![Backtracking][backtracking]                          |
-| 26  |  [26][26]  | [Remove Duplicates from Sorted Array](<./2021-08-15%20(day28)>) |   ![Easy][easy]   |                                                 ![Array][array] ![Two Pointers][two-pointers]                                                 |
+| 28  |  [26][26]  | [Remove Duplicates from Sorted Array](<./2021-08-15%20(day28)>) |   ![Easy][easy]   |                                                 ![Array][array] ![Two Pointers][two-pointers]                                                 |
 
 ---
 
