@@ -7,7 +7,7 @@
         positive_keys = {}
   
   nums.forEach((num) =>{
-    (num >= 0?positive_keys:nagtive_keys)[num.toString()]=num
+    (num >= 0?positive_keys:nagtive_keys)[num]=num
   })
 
   const keys = Object.keys(nagtive_keys).concat(Object.keys(positive_keys))
