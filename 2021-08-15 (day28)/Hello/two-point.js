@@ -16,5 +16,5 @@ function removeDuplicates(nums) {
     nums[point] = nums[cursor];
   }
 
-  return point;
+  return point + 1;
 }
