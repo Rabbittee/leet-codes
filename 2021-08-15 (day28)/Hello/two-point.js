@@ -2,19 +2,14 @@
  * @param {number[]} nums
  * @return {number}
  */
-function removeDuplicates(nums) {
-  let point = 0;
+function removeDuplicates(nums, point = 0) {
+  const cursor = nums.lastIndexOf(nums[point]) + 1;
 
-  while (true) {
-    let cursor = nums.lastIndexOf(nums[point]) + 1;
+  if (cursor >= nums.length) return point + 1;
 
-    if (cursor >= nums.length) break;
-
-    if (cursor === point) continue;
-
-    point += 1;
-    nums[point] = nums[cursor];
+  if (cursor !== point) {
+    nums[++point] = nums[cursor];
   }
 
-  return point + 1;
+  return removeDuplicates(nums, point);
 }
