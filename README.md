@@ -74,16 +74,17 @@
 [49]: https://leetcode.com/problems/group-anagrams/
 [141]: https://leetcode.com/problems/linked-list-cycle/
 [22]: https://leetcode.com/problems/generate-parentheses/
+[26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-| Day |     id     | Title                                                   |    Difficulty     |                                                                Related Topics                                                                 |
-| :-: | :--------: | :------------------------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
-| 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>)                   | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
-| 23  |  [98][98]  | [Validate Binary Search Tree](<./2021-08-10%20(day23)>) | ![Medium][medium] |         ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Search Tree][binary-search-tree] ![Binary Tree][binary-tree]         |
-| 24  | [101][101] | [Symmetric Tree](<./2021-08-11%20(day24)>)              |   ![Easy][easy]   |       ![Tree][tree] ![Depth-First Search][depth-first-search] ![Breadth-First Search][breadth-first-search] ![Binary Tree][binary-tree]       |
-| 25  |  [49][49]  | [Group Anagrams](<./2021-08-12%20(day25)>)              | ![Medium][medium] |                                        ![Hash Table][hash-table] ![String][string] ![Sorting][sorting]                                        |
-| 26  | [141][141] | [Linked List Cycle](<./2021-08-13%20(day26)>)           |   ![Easy][easy]   |                              ![Hash Table][hash-table] ![Linked List][linked-list] ![Two Pointers][two-pointers]                              |
-| 27  |  [22][22]  | [Generate Parentheses](<./2021-08-14%20(day27)>)        | ![Medium][medium] |                          ![String][string] ![Dynamic Programming][dynamic-programming] ![Backtracking][backtracking]                          |
-|     |            |                                                         |                   |                                                                                                                                               |
+| Day |     id     | Title                                                           |    Difficulty     |                                                                Related Topics                                                                 |
+| :-: | :--------: | :-------------------------------------------------------------- | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>)                           | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
+| 23  |  [98][98]  | [Validate Binary Search Tree](<./2021-08-10%20(day23)>)         | ![Medium][medium] |         ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Search Tree][binary-search-tree] ![Binary Tree][binary-tree]         |
+| 24  | [101][101] | [Symmetric Tree](<./2021-08-11%20(day24)>)                      |   ![Easy][easy]   |       ![Tree][tree] ![Depth-First Search][depth-first-search] ![Breadth-First Search][breadth-first-search] ![Binary Tree][binary-tree]       |
+| 25  |  [49][49]  | [Group Anagrams](<./2021-08-12%20(day25)>)                      | ![Medium][medium] |                                        ![Hash Table][hash-table] ![String][string] ![Sorting][sorting]                                        |
+| 26  | [141][141] | [Linked List Cycle](<./2021-08-13%20(day26)>)                   |   ![Easy][easy]   |                              ![Hash Table][hash-table] ![Linked List][linked-list] ![Two Pointers][two-pointers]                              |
+| 27  |  [22][22]  | [Generate Parentheses](<./2021-08-14%20(day27)>)                | ![Medium][medium] |                          ![String][string] ![Dynamic Programming][dynamic-programming] ![Backtracking][backtracking]                          |
+| 26  |  [26][26]  | [Remove Duplicates from Sorted Array](<./2021-08-15%20(day28)>) |   ![Easy][easy]   |                                                 ![Array][array] ![Two Pointers][two-pointers]                                                 |
 
 ---
 
@@ -120,7 +121,7 @@
 [sorting]: https://img.shields.io/badge/-Sorting-9FA8DA
 [binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-90CAF9
 [linked-list]: https://img.shields.io/badge/-Linked%20List-81D4FA
-[backtracking]: https://img.shields.io/badge/-Backtracking-81D4FA
+[backtracking]: https://img.shields.io/badge/-Backtracking-80DEEA
 
 ![Math][math]
 ![String][string]
