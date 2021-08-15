@@ -28,6 +28,10 @@ function removeDuplicates(nums) {
     nums[point] = nums[cursor];
   }
 
+<<<<<<< HEAD
   return point;
 >>>>>>> bb9e6be (add two pointer)
+=======
+  return point + 1;
+>>>>>>> 8bf3d19 (fix)
 }
