@@ -88,6 +88,22 @@
 
 ---
 
+#### `Week 5 (2021-08-16 ~ 2021-08-22)`
+
+[94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+| Day |    id    | Title                                 |  Difficulty   |                                           Related Topics                                            |
+| :-: | :------: | :------------------------------------ | :-----------: | :-------------------------------------------------------------------------------------------------: |
+| 29  | [94][94] | [Sort List](<./2021-08-16%20(day29)>) | ![Easy][easy] | ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Tree][binary-tree] |
+|     |          |                                       |               |                                                                                                     |
+|     |          |                                       |               |                                                                                                     |
+|     |          |                                       |               |                                                                                                     |
+|     |          |                                       |               |                                                                                                     |
+|     |          |                                       |               |                                                                                                     |
+|     |          |                                       |               |                                                                                                     |
+
+---
+
 [easy]: https://img.shields.io/badge/-Easy-brightgreen
 [medium]: https://img.shields.io/badge/-Medium-orange
 [hard]: https://img.shields.io/badge/-Hard-red
