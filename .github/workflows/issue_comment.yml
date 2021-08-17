@@ -1,0 +1,29 @@
+name: A workflow for issue comment
+on:
+  issue_comment:
+    types: [created]
+jobs:
+  create_daily:
+    name: create daily folder
+    if: ${{ !github.event.issue.pull_request && github.event.issue.title == 'create daily folder' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.X
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
+      - name: Run Python Script
+        run: |
+          python script/createREADME.py "${{ github.event.comment.body }}"
+      - name: Git Commit and Push
+        run: |
+          git config --global user.email "rabbittee@github.com"
+          git config --global user.name "rabbittee"
+          git add .
+          git commit -m "create daily folder $(date +%Y-%m-%d)"
+          git push

@@ -1,0 +1,19 @@
+# {{questionId}}. {{title}}
+
+`{{difficulty}}`
+
+## Description
+
+{{content}}
+
+---
+
+### Topic Tags
+
+{{def_tag}}
+
+{{topic_tags}}
+
+---
+
+##### [original question](https://leetcode.com/problems/{{titleSlug}})
