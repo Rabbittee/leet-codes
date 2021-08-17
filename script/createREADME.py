@@ -71,14 +71,14 @@ def create_readme(folder, info):
     info['def_tag'] = '\n'.join(topic_tags)
     info['topic_tags'] = backslash_char.join(labels)
 
-    with open('script/README.tempate', 'r') as fin:
-        tempate = fin.read()
+    with open('script/README.template', 'r') as fin:
+        template = fin.read()
 
     for key in ['questionId', 'title', 'difficulty', 'content', 'def_tag', 'topic_tags']:
-        tempate = tempate.replace(f'{{{{{key}}}}}', info[key])
+        template = template.replace(f'{{{{{key}}}}}', info[key])
 
     with open(f'{folder}/README.md', 'wt') as fout:
-        fout.write(tempate)
+        fout.write(template)
 
 
 if __name__ == '__main__':
