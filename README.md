@@ -91,16 +91,17 @@
 #### `Week 5 (2021-08-16 ~ 2021-08-22)`
 
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[326]: https://leetcode.com/problems/power-of-three/
 
-| Day |    id    | Title                                 |  Difficulty   |                                           Related Topics                                            |
-| :-: | :------: | :------------------------------------ | :-----------: | :-------------------------------------------------------------------------------------------------: |
-| 29  | [94][94] | [Sort List](<./2021-08-16%20(day29)>) | ![Easy][easy] | ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Tree][binary-tree] |
-|     |          |                                       |               |                                                                                                     |
-|     |          |                                       |               |                                                                                                     |
-|     |          |                                       |               |                                                                                                     |
-|     |          |                                       |               |                                                                                                     |
-|     |          |                                       |               |                                                                                                     |
-|     |          |                                       |               |                                                                                                     |
+| Day |     id     | Title                                      |  Difficulty   |                                           Related Topics                                            |
+| :-: | :--------: | :----------------------------------------- | :-----------: | :-------------------------------------------------------------------------------------------------: |
+| 29  |  [94][94]  | [Sort List](<./2021-08-16%20(day29)>)      | ![Easy][easy] | ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Tree][binary-tree] |
+| 30  | [326][326] | [Power of Three](<./2021-08-17%20(day30)>) | ![Easy][easy] |                                ![Math][math] ![Recursion][recursion]                                |
+|     |            |                                            |               |                                                                                                     |
+|     |            |                                            |               |                                                                                                     |
+|     |            |                                            |               |                                                                                                     |
+|     |            |                                            |               |                                                                                                     |
+|     |            |                                            |               |                                                                                                     |
 
 ---
 
