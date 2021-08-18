@@ -92,12 +92,13 @@
 
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [326]: https://leetcode.com/problems/power-of-three/
+[136]: https://leetcode.com/problems/single-number/
 
 | Day |     id     | Title                                      |  Difficulty   |                                           Related Topics                                            |
 | :-: | :--------: | :----------------------------------------- | :-----------: | :-------------------------------------------------------------------------------------------------: |
 | 29  |  [94][94]  | [Sort List](<./2021-08-16%20(day29)>)      | ![Easy][easy] | ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Tree][binary-tree] |
 | 30  | [326][326] | [Power of Three](<./2021-08-17%20(day30)>) | ![Easy][easy] |                                ![Math][math] ![Recursion][recursion]                                |
-|     |            |                                            |               |                                                                                                     |
+| 31  | [136][136] | [Single Number](<./2021-08-18%20(day31)>)  | ![Easy][easy] |                        ![Array][array] ![Bit Manipulation][bit-manipulation]                        |
 |     |            |                                            |               |                                                                                                     |
 |     |            |                                            |               |                                                                                                     |
 |     |            |                                            |               |                                                                                                     |
@@ -139,6 +140,7 @@
 [binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-90CAF9
 [linked-list]: https://img.shields.io/badge/-Linked%20List-81D4FA
 [backtracking]: https://img.shields.io/badge/-Backtracking-80DEEA
+[bit-manipulation]: https://img.shields.io/badge/-Bit%20Manipulation-80CBC4
 
 ![Math][math]
 ![String][string]
@@ -173,6 +175,7 @@
 ![Binary Search Tree][binary-search-tree]
 ![Linked List][linked-list]
 ![Backtracking][backtracking]
+![Bit Manipulation][bit-manipulation]
 
 ---
 
@@ -183,3 +186,6 @@
 ```
 python3 script/createREADME.py [INPUT]
 ```
+
+or to [`create daily folder #249`](https://github.com/Rabbittee/leet-codes/issues/249)
+to commented leetcode problems url

@@ -74,7 +74,7 @@ def create_readme(folder, info):
     with open('script/README.template', 'r') as fin:
         template = fin.read()
 
-    for key in ['questionId', 'title', 'difficulty', 'content', 'def_tag', 'topic_tags']:
+    for key in ['questionId', 'title', 'titleSlug', 'difficulty', 'content', 'def_tag', 'topic_tags']:
         template = template.replace(f'{{{{{key}}}}}', info[key])
 
     with open(f'{folder}/README.md', 'wt') as fout:
