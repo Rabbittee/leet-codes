@@ -21,8 +21,48 @@ CXPhoenix's Solutions
 
 <img src="./solution1.png">
 
+<br /><br />
+
+### :::UPDATE:::
+
+看完妖精的 XOR 解法，重新推演了一次，發現這真是好恐怖的方法！
+
+但是卻很能快速處理問題！
+
+簡單來說，利用 XOR 的特性，碰到交集或都不包含就回 `False` ，其他回 `True`。
+
+|  p  |  q  |  result  |
+|-----|-----|----------|
+|true |true |  false   |
+|true |false|  true    |
+|false|true |  true    |
+|false|false|  false   |
+
+<img src="./XOR-display.png" width=200>
+
+理解完 XOR 的概念後，我們先來看 Code
+
+```python
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        single = 0
+        for num in nums:
+            single ^= num
+        return single
+```
+
+我們就是藉由 XOR 的特性，來達到 solution1 的解法：
+
+- 將值與 `single` 進行 `XOR` 運算，並存回 `single` 中。
+- 當直接 `single` 中之前有過的值，也會因為 `XOR` 被刪除。
+- 剩下來的就是單一存在的值了。
+
+<img src="./XOR-solution.gif">
+
+<img src="./solution2.png">
+
 ---
 
 ## Big-O
 
-solution -> O(n)
+solutions -> O(n)
