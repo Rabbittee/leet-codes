@@ -183,3 +183,6 @@
 ```
 python3 script/createREADME.py [INPUT]
 ```
+
+or to [`create daily folder #249`](https://github.com/Rabbittee/leet-codes/issues/249)
+to commented leetcode problems url
