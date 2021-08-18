@@ -42,4 +42,4 @@
 
 ---
 
-##### [original question](https://leetcode.com/problems/{{titleSlug}})
+##### [original question](https://leetcode.com/problems/single-number)
