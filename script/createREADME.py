@@ -5,6 +5,11 @@ import sys
 
 import requests
 
+shieldsUrl = "https://img.shields.io/badge/"
+color = ["EF9A9A", "B39DDB", "81D4FA",
+         "A5D6A7", "FFF59D", "FFAB91", "B0BEC5"]
+backslash_char = "\n\n"
+
 
 def get_leetcode(title):
     payload = {
@@ -31,9 +36,12 @@ def mkdir_today():
     )
 
     day = len(file_paths)
-    last = file_paths[-1]
     today_iso = today.isoformat()
-    if today_iso not in last:
+    if day != 0:
+        last = file_paths[-1]
+        if today_iso not in last:
+            day += 1
+    else:
         day += 1
 
     folder = f'{today_iso} (day{day})'
@@ -43,36 +51,42 @@ def mkdir_today():
     return folder
 
 
+def declare_tag(index, tag):
+    name = tag["name"].replace(" ", "%20").replace("-", "%20")
+    return f'[{tag["slug"]}]: {shieldsUrl}-{name}-{color[index]}'
+
+
+def tag_label(tag):
+    return f'![{tag["name"]}][{tag["slug"]}]'
+
+
 def create_readme(folder, info):
-    shieldsUrl = "https://img.shields.io/badge/"
-    backslash_char = "\n\n"
 
-    color = ["EF9A9A", "B39DDB", "81D4FA",
-             "A5D6A7", "FFF59D", "FFAB91", "B0BEC5"]
+    topic_tags = [declare_tag(i, tag)
+                  for i, tag in enumerate(info["topicTags"])]
 
-    def tag_label(index, tag):
-        declare = f'[{tag["slug"]}]: {shieldsUrl}-{tag["name"].replace(" ", "%20").replace("-", "%20")}-{color[index]}'
+    labels = [tag_label(tag)
+              for i, tag in enumerate(info["topicTags"])]
 
-        return f'{declare}\n![{tag["name"]}][{tag["slug"]}]'
+    info['def_tag'] = '\n'.join(topic_tags)
+    info['topic_tags'] = backslash_char.join(labels)
 
-    topic_tags = [tag_label(i, tag) for i, tag in enumerate(info["topicTags"])]
+    with open('script/README.template', 'r') as fin:
+        template = fin.read()
 
-    poem = f'''# {info["questionId"]}. {info["title"]}
-{info["difficulty"]}\n\n
-## Description
-{info["content"]}\n\n
----\n
-Topic Tags\n
-{backslash_char.join(topic_tags)}\n
----\n
-##### [original question](https://leetcode.com/problems/{info["titleSlug"]})
-'''
+    for key in ['questionId', 'title', 'titleSlug', 'difficulty', 'content', 'def_tag', 'topic_tags']:
+        template = template.replace(f'{{{{{key}}}}}', info[key])
 
     with open(f'{folder}/README.md', 'wt') as fout:
-        fout.write(poem)
+        fout.write(template)
 
 
 if __name__ == '__main__':
     folder = mkdir_today()
-    leetcode_info = get_leetcode(sys.argv[1])
+    leetcode_url = sys.argv[1]
+    url_list = leetcode_url.split('/')
+    problem = url_list[-2] if url_list[-1] == '' else url_list[-1]
+    leetcode_info = get_leetcode(problem)
     create_readme(folder, leetcode_info)
+
+    print('over')
