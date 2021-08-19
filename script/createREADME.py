@@ -1,7 +1,10 @@
-from datetime import date
-from os import listdir, mkdir
-from os.path import isfile, isdir, join
+from datetime import datetime, timezone, timedelta
+from os import mkdir
+from os.path import isdir, join
 import sys
+from typing import List
+import csv
+# import json
 
 import requests
 
@@ -11,7 +14,40 @@ color = ["EF9A9A", "B39DDB", "81D4FA",
 backslash_char = "\n\n"
 
 
-def get_leetcode(title):
+def get_problem_list() -> List[List[str]]:
+    with open('problem_list.log', 'r') as fin:
+        cin = csv.reader(fin)
+        logs = [row for row in cin if len(row) > 0]
+
+    return logs
+
+
+def add__problem_list(logs) -> None:
+    with open('problem_list.log', 'wt') as fout:
+        csvout = csv.writer(fout)
+        csvout.writerows(logs)
+
+
+def format_log_list(logs, leetcode_info, y_m_d) -> dict:
+    if logs[-1][3] == y_m_d:
+        return logs
+
+    difficulty = leetcode_info['difficulty']
+    leetcode_url = f'https://leetcode.com/problems/{leetcode_info["titleSlug"]}/'
+    topic_tags = ';'.join([tag['name'] for tag in leetcode_info['topicTags']])
+
+    logs.append([len(logs), int(leetcode_info['questionId']),
+                leetcode_url, y_m_d, difficulty, topic_tags])
+
+    return logs
+
+
+def get_problem_name(url: str) -> str:
+    url_list = url.split('/')
+    return url_list[-2] if url_list[-1] == '' else url_list[-1]
+
+
+def get_leetcode(title: str) -> dict:
     payload = {
         "operationName": "questionData",
         "variables": {"titleSlug": title},
@@ -26,41 +62,35 @@ def get_leetcode(title):
     return r.json()["data"]["question"]
 
 
-def mkdir_today():
-    today = date.today()
-    my_path = '.'
+def mkdir_today(day: int, last_log_date) -> str:
+    tz = timezone(timedelta(hours=+8))
+    now = datetime.now(tz).isoformat(timespec="seconds")
+    y_m = now[:7]
+    y_m_d = now[:10]
 
-    file_paths = [join(my_path, f) for f in listdir(my_path)]
-    file_paths = sorted(
-        [path[2:] for path in file_paths if isdir(path) and '(day' in path]
-    )
+    if last_log_date == y_m_d:
+        return join(y_m, f'{y_m_d} (day{day-1})')
 
-    day = len(file_paths)
-    today_iso = today.isoformat()
-    if day != 0:
-        last = file_paths[-1]
-        if today_iso not in last:
-            day += 1
-    else:
-        day += 1
+    if not isdir(y_m):
+        mkdir(y_m)
 
-    folder = f'{today_iso} (day{day})'
+    folder = join(y_m, f'{y_m_d} (day{day})')
     if not isdir(folder):
         mkdir(folder)
 
     return folder
 
 
-def declare_tag(index, tag):
+def declare_tag(index: int, tag: dict) -> str:
     name = tag["name"].replace(" ", "%20").replace("-", "%20")
     return f'[{tag["slug"]}]: {shieldsUrl}-{name}-{color[index]}'
 
 
-def tag_label(tag):
+def tag_label(tag: dict) -> str:
     return f'![{tag["name"]}][{tag["slug"]}]'
 
 
-def create_readme(folder, info):
+def create_readme(folder: str, info: dict) -> None:
 
     topic_tags = [declare_tag(i, tag)
                   for i, tag in enumerate(info["topicTags"])]
@@ -81,12 +111,22 @@ def create_readme(folder, info):
         fout.write(template)
 
 
+def create_cover_readme(logs) -> None:
+    pass
+
+
 if __name__ == '__main__':
-    folder = mkdir_today()
+
     leetcode_url = sys.argv[1]
-    url_list = leetcode_url.split('/')
-    problem = url_list[-2] if url_list[-1] == '' else url_list[-1]
-    leetcode_info = get_leetcode(problem)
+    leetcode_info = get_leetcode(get_problem_name(leetcode_url))
+    # print(json.dumps(leetcode_info))
+
+    logs = get_problem_list()
+    folder = mkdir_today(len(logs), logs[-1][3])
+
     create_readme(folder, leetcode_info)
+
+    logs = format_log_list(logs, leetcode_info, folder[8:18])
+    add__problem_list(logs)
 
     print('over')
