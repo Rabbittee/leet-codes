@@ -93,16 +93,17 @@
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [326]: https://leetcode.com/problems/power-of-three/
 [136]: https://leetcode.com/problems/single-number/
+[268]: https://leetcode.com/problems/missing-number/
 
-| Day |     id     | Title                                      |  Difficulty   |                                           Related Topics                                            |
-| :-: | :--------: | :----------------------------------------- | :-----------: | :-------------------------------------------------------------------------------------------------: |
-| 29  |  [94][94]  | [Sort List](<./2021-08-16%20(day29)>)      | ![Easy][easy] | ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Tree][binary-tree] |
-| 30  | [326][326] | [Power of Three](<./2021-08-17%20(day30)>) | ![Easy][easy] |                                ![Math][math] ![Recursion][recursion]                                |
-| 31  | [136][136] | [Single Number](<./2021-08-18%20(day31)>)  | ![Easy][easy] |                        ![Array][array] ![Bit Manipulation][bit-manipulation]                        |
-|     |            |                                            |               |                                                                                                     |
-|     |            |                                            |               |                                                                                                     |
-|     |            |                                            |               |                                                                                                     |
-|     |            |                                            |               |                                                                                                     |
+| Day |     id     | Title                                      |  Difficulty   |                                                  Related Topics                                                   |
+| :-: | :--------: | :----------------------------------------- | :-----------: | :---------------------------------------------------------------------------------------------------------------: |
+| 29  |  [94][94]  | [Sort List](<./2021-08-16%20(day29)>)      | ![Easy][easy] |        ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Tree][binary-tree]        |
+| 30  | [326][326] | [Power of Three](<./2021-08-17%20(day30)>) | ![Easy][easy] |                                       ![Math][math] ![Recursion][recursion]                                       |
+| 31  | [136][136] | [Single Number](<./2021-08-18%20(day31)>)  | ![Easy][easy] |                               ![Array][array] ![Bit Manipulation][bit-manipulation]                               |
+| 32  | [268][268] | [Missing Number](<./2021-08-19%20(day32)>) | ![Easy][easy] | ![Array][array] ![Hash Table][hash-table] ![Math][math] ![Bit Manipulation][bit-manipulation] ![Sorting][sorting] |
+|     |            |                                            |               |                                                                                                                   |
+|     |            |                                            |               |                                                                                                                   |
+|     |            |                                            |               |                                                                                                                   |
 
 ---
 
