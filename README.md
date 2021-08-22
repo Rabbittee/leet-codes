@@ -3,41 +3,41 @@
 
 |  Day | Id | Title | Difficulty | Related Topics |
 |-------------- | -------------- | -------------- | -------------- | -------------- | 
-| 001 | [7][0007] | [Reverse Integer](<.2021-072021-07-19%20(day1)>) | ![Easy][Easy] | Math | 
-| 002 | [9][0009] | [Palindrome Number](<.2021-072021-07-20%20(day2)>) | ![Easy][Easy] | Math | 
-| 003 | [5][0005] | [Longest Palindromic Substring](<.2021-072021-07-21%20(day3)>) | ![Medium][Medium] | String; Dynamic Programming | 
-| 004 | [20][0020] | [Valid Parentheses](<.2021-072021-07-22%20(day4)>) | ![Easy][Easy] | String; Stack | 
-| 005 | [35][0035] | [Search Insert Position](<.2021-072021-07-23%20(day5)>) | ![Easy][Easy] | Array; Binary Search | 
-| 006 | [3][0003] | [Longest Substring Without Repeating Characters](<.2021-072021-07-24%20(day6)>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
-| 007 | [4][0004] | [Median of Two Sorted Arrays](<.2021-072021-07-25%20(day7)>) | ![Hard][Hard] | Array; Binary Search; Divide and Conquer | 
-| 008 | [13][0013] | [Roman to Integer](<.2021-072021-07-26%20(day8)>) | ![Easy][Easy] | Hash Table; Math; String | 
-| 009 | [83][0083] | [Remove Duplicates from Sorted List](<.2021-072021-07-27%20(day9)>) | ![Easy][Easy] | Linked List | 
-| 010 | [12][0012] | [Integer to Roman](<.2021-072021-07-28%20(day10)>) | ![Medium][Medium] | Hash Table; Math; String | 
-| 011 | [100][0100] | [Same Tree](<.2021-072021-07-29%20(day11)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
-| 012 | [104][0104] | [Maximum Depth of Binary Tree](<.2021-072021-07-30%20(day12)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
-| 013 | [45][0045] | [Jump Game II](<.2021-072021-07-31%20(day13)>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
-| 014 | [64][0064] | [Minimum Path Sum](<.2021-082021-08-01%20(day14)>) | ![Medium][Medium] | Array; Dynamic Programming; Matrix | 
-| 015 | [21][0021] | [Merge Two Sorted Lists](<.2021-082021-08-02%20(day15)>) | ![Easy][Easy] | Linked List; Recursion | 
-| 016 | [48][0048] | [Rotate Image](<.2021-082021-08-03%20(day16)>) | ![Medium][Medium] | Array; Math; Matrix | 
-| 017 | [2][0002] | [Add Two Numbers](<.2021-082021-08-04%20(day17)>) | ![Medium][Medium] | Linked List; Math; Recursion | 
-| 018 | [1][0001] | [Two Sum](<.2021-082021-08-05%20(day18)>) | ![Easy][Easy] | Array; Hash Table | 
-| 019 | [23][0023] | [Merge k Sorted Lists](<.2021-082021-08-06%20(day19)>) | ![Hard][Hard] | Linked List; Divide and Conquer; Heap (Priority Queue); Merge Sort | 
-| 020 | [387][0387] | [First Unique Character in a String](<.2021-082021-08-07%20(day20)>) | ![Easy][Easy] | Hash Table; String; Queue; Counting | 
-| 021 | [341][0341] | [Flatten Nested List Iterator](<.2021-082021-08-08%20(day21)>) | ![Medium][Medium] | Stack; Tree; Depth-First Search; Design; Queue; Iterator | 
-| 022 | [148][0148] | [Sort List](<.2021-082021-08-09%20(day22)>) | ![Medium][Medium] | Linked List; Two Pointers; Divide and Conquer; Sorting; Merge Sort | 
-| 023 | [98][0098] | [Validate Binary Search Tree](<.2021-082021-08-10%20(day23)>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
-| 024 | [101][0101] | [Symmetric Tree](<.2021-082021-08-11%20(day24)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
-| 025 | [49][0049] | [Group Anagrams](<.2021-082021-08-12%20(day25)>) | ![Medium][Medium] | Hash Table; String; Sorting | 
-| 026 | [141][0141] | [Linked List Cycle](<.2021-082021-08-13%20(day26)>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
-| 027 | [22][0022] | [Generate Parentheses](<.2021-082021-08-14%20(day27)>) | ![Medium][Medium] | String; Dynamic Programming; Backtracking | 
-| 028 | [26][0026] | [Remove Duplicates from Sorted Array](<.2021-082021-08-15%20(day28)>) | ![Easy][Easy] | Array; Two Pointers | 
-| 029 | [94][0094] | [Binary Tree Inorder Traversal](<.2021-082021-08-16%20(day29)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Tree | 
-| 030 | [326][0326] | [Power of Three](<.2021-082021-08-17%20(day30)>) | ![Easy][Easy] | Math; Recursion | 
-| 031 | [136][0136] | [Single Number](<.2021-082021-08-18%20(day31)>) | ![Easy][Easy] | Array; Bit Manipulation | 
-| 032 | [268][0268] | [Missing Number](<.2021-082021-08-19%20(day32)>) | ![Easy][Easy] | Array; Hash Table; Math; Bit Manipulation; Sorting | 
-| 033 | [287][0287] | [Find the Duplicate Number](<.2021-082021-08-20%20(day33)>) | ![Medium][Medium] | Array; Two Pointers; Binary Search; Bit Manipulation | 
-| 034 | [215][0215] | [Kth Largest Element in an Array](<.2021-082021-08-21%20(day34)>) | ![Medium][Medium] | Array; Divide and Conquer; Sorting; Heap (Priority Queue); Quickselect | 
-| 035 | [1039][1039] | [Find the Town Judge](<.2021-082021-08-22%20(day35)>) | ![Easy][Easy] | Array; Hash Table; Graph | 
+| 001 | [7][0007] | [Reverse Integer](<.2021-07/2021-07-19%20(day1)>) | ![Easy][Easy] | Math | 
+| 002 | [9][0009] | [Palindrome Number](<.2021-07/2021-07-20%20(day2)>) | ![Easy][Easy] | Math | 
+| 003 | [5][0005] | [Longest Palindromic Substring](<.2021-07/2021-07-21%20(day3)>) | ![Medium][Medium] | String; Dynamic Programming | 
+| 004 | [20][0020] | [Valid Parentheses](<.2021-07/2021-07-22%20(day4)>) | ![Easy][Easy] | String; Stack | 
+| 005 | [35][0035] | [Search Insert Position](<.2021-07/2021-07-23%20(day5)>) | ![Easy][Easy] | Array; Binary Search | 
+| 006 | [3][0003] | [Longest Substring Without Repeating Characters](<.2021-07/2021-07-24%20(day6)>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
+| 007 | [4][0004] | [Median of Two Sorted Arrays](<.2021-07/2021-07-25%20(day7)>) | ![Hard][Hard] | Array; Binary Search; Divide and Conquer | 
+| 008 | [13][0013] | [Roman to Integer](<.2021-07/2021-07-26%20(day8)>) | ![Easy][Easy] | Hash Table; Math; String | 
+| 009 | [83][0083] | [Remove Duplicates from Sorted List](<.2021-07/2021-07-27%20(day9)>) | ![Easy][Easy] | Linked List | 
+| 010 | [12][0012] | [Integer to Roman](<.2021-07/2021-07-28%20(day10)>) | ![Medium][Medium] | Hash Table; Math; String | 
+| 011 | [100][0100] | [Same Tree](<.2021-07/2021-07-29%20(day11)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 012 | [104][0104] | [Maximum Depth of Binary Tree](<.2021-07/2021-07-30%20(day12)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 013 | [45][0045] | [Jump Game II](<.2021-07/2021-07-31%20(day13)>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
+| 014 | [64][0064] | [Minimum Path Sum](<.2021-08/2021-08-01%20(day14)>) | ![Medium][Medium] | Array; Dynamic Programming; Matrix | 
+| 015 | [21][0021] | [Merge Two Sorted Lists](<.2021-08/2021-08-02%20(day15)>) | ![Easy][Easy] | Linked List; Recursion | 
+| 016 | [48][0048] | [Rotate Image](<.2021-08/2021-08-03%20(day16)>) | ![Medium][Medium] | Array; Math; Matrix | 
+| 017 | [2][0002] | [Add Two Numbers](<.2021-08/2021-08-04%20(day17)>) | ![Medium][Medium] | Linked List; Math; Recursion | 
+| 018 | [1][0001] | [Two Sum](<.2021-08/2021-08-05%20(day18)>) | ![Easy][Easy] | Array; Hash Table | 
+| 019 | [23][0023] | [Merge k Sorted Lists](<.2021-08/2021-08-06%20(day19)>) | ![Hard][Hard] | Linked List; Divide and Conquer; Heap (Priority Queue); Merge Sort | 
+| 020 | [387][0387] | [First Unique Character in a String](<.2021-08/2021-08-07%20(day20)>) | ![Easy][Easy] | Hash Table; String; Queue; Counting | 
+| 021 | [341][0341] | [Flatten Nested List Iterator](<.2021-08/2021-08-08%20(day21)>) | ![Medium][Medium] | Stack; Tree; Depth-First Search; Design; Queue; Iterator | 
+| 022 | [148][0148] | [Sort List](<.2021-08/2021-08-09%20(day22)>) | ![Medium][Medium] | Linked List; Two Pointers; Divide and Conquer; Sorting; Merge Sort | 
+| 023 | [98][0098] | [Validate Binary Search Tree](<.2021-08/2021-08-10%20(day23)>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
+| 024 | [101][0101] | [Symmetric Tree](<.2021-08/2021-08-11%20(day24)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 025 | [49][0049] | [Group Anagrams](<.2021-08/2021-08-12%20(day25)>) | ![Medium][Medium] | Hash Table; String; Sorting | 
+| 026 | [141][0141] | [Linked List Cycle](<.2021-08/2021-08-13%20(day26)>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
+| 027 | [22][0022] | [Generate Parentheses](<.2021-08/2021-08-14%20(day27)>) | ![Medium][Medium] | String; Dynamic Programming; Backtracking | 
+| 028 | [26][0026] | [Remove Duplicates from Sorted Array](<.2021-08/2021-08-15%20(day28)>) | ![Easy][Easy] | Array; Two Pointers | 
+| 029 | [94][0094] | [Binary Tree Inorder Traversal](<.2021-08/2021-08-16%20(day29)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Tree | 
+| 030 | [326][0326] | [Power of Three](<.2021-08/2021-08-17%20(day30)>) | ![Easy][Easy] | Math; Recursion | 
+| 031 | [136][0136] | [Single Number](<.2021-08/2021-08-18%20(day31)>) | ![Easy][Easy] | Array; Bit Manipulation | 
+| 032 | [268][0268] | [Missing Number](<.2021-08/2021-08-19%20(day32)>) | ![Easy][Easy] | Array; Hash Table; Math; Bit Manipulation; Sorting | 
+| 033 | [287][0287] | [Find the Duplicate Number](<.2021-08/2021-08-20%20(day33)>) | ![Medium][Medium] | Array; Two Pointers; Binary Search; Bit Manipulation | 
+| 034 | [215][0215] | [Kth Largest Element in an Array](<.2021-08/2021-08-21%20(day34)>) | ![Medium][Medium] | Array; Divide and Conquer; Sorting; Heap (Priority Queue); Quickselect | 
+| 035 | [1039][1039] | [Find the Town Judge](<.2021-08/2021-08-22%20(day35)>) | ![Easy][Easy] | Array; Hash Table; Graph | 
 
 
 

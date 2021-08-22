@@ -161,7 +161,7 @@ def create_cover_readme(logs) -> None:
         [[
             f'{int(log[0]):03}',
             f'[{log[1]}][{int(log[1]):04}]',
-            f'[{log[4]}](<.{log[3][:7]}{log[3]}%20(day{log[0]})>)',
+            f'[{log[4]}](<.{log[3][:7]}/{log[3]}%20(day{log[0]})>)',
             f'![{log[5]}][{log[5]}]',
             f'{log[6].replace(";", "; ")}'
         ]
