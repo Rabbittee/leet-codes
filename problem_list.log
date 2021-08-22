@@ -33,3 +33,4 @@
 32,268,https://leetcode.com/problems/missing-number/,2021-08-19,Missing Number,Easy,Array;Hash Table;Math;Bit Manipulation;Sorting
 33,287,https://leetcode.com/problems/find-the-duplicate-number/,2021-08-20,Find the Duplicate Number,Medium,Array;Two Pointers;Binary Search;Bit Manipulation
 34,215,https://leetcode.com/problems/kth-largest-element-in-an-array/,2021-08-21,Kth Largest Element in an Array,Medium,Array;Divide and Conquer;Sorting;Heap (Priority Queue);Quickselect
+35,1039,https://leetcode.com/problems/find-the-town-judge/,2021-08-22,Find the Town Judge,Easy,Array;Hash Table;Graph
