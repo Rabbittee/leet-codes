@@ -1,191 +1,90 @@
 # Leet Rabbits Codes
 
-#### `Week 1 (2021-07-19 ~ 2021-07-25)`
 
-[7]: https://leetcode.com/problems/reverse-integer/
-[9]: https://leetcode.com/problems/palindrome-number/
-[5]: https://leetcode.com/problems/palindrome-number/
-[20]: https://leetcode.com/problems/valid-parentheses/
-[35]: https://leetcode.com/problems/search-insert-position/
-[3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-[4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
+|  Day | Id | Title | Difficulty | Related Topics |
+|-------------- | -------------- | -------------- | -------------- | -------------- | 
+| 001 | [7][0007] | [Reverse Integer](<.2021-072021-07-19%20(day1)>) | ![Easy][Easy] | Math | 
+| 002 | [9][0009] | [Palindrome Number](<.2021-072021-07-20%20(day2)>) | ![Easy][Easy] | Math | 
+| 003 | [5][0005] | [Longest Palindromic Substring](<.2021-072021-07-21%20(day3)>) | ![Medium][Medium] | String; Dynamic Programming | 
+| 004 | [20][0020] | [Valid Parentheses](<.2021-072021-07-22%20(day4)>) | ![Easy][Easy] | String; Stack | 
+| 005 | [35][0035] | [Search Insert Position](<.2021-072021-07-23%20(day5)>) | ![Easy][Easy] | Array; Binary Search | 
+| 006 | [3][0003] | [Longest Substring Without Repeating Characters](<.2021-072021-07-24%20(day6)>) | ![Medium][Medium] | Hash Table; String; Sliding Window | 
+| 007 | [4][0004] | [Median of Two Sorted Arrays](<.2021-072021-07-25%20(day7)>) | ![Hard][Hard] | Array; Binary Search; Divide and Conquer | 
+| 008 | [13][0013] | [Roman to Integer](<.2021-072021-07-26%20(day8)>) | ![Easy][Easy] | Hash Table; Math; String | 
+| 009 | [83][0083] | [Remove Duplicates from Sorted List](<.2021-072021-07-27%20(day9)>) | ![Easy][Easy] | Linked List | 
+| 010 | [12][0012] | [Integer to Roman](<.2021-072021-07-28%20(day10)>) | ![Medium][Medium] | Hash Table; Math; String | 
+| 011 | [100][0100] | [Same Tree](<.2021-072021-07-29%20(day11)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 012 | [104][0104] | [Maximum Depth of Binary Tree](<.2021-072021-07-30%20(day12)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 013 | [45][0045] | [Jump Game II](<.2021-072021-07-31%20(day13)>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
+| 014 | [64][0064] | [Minimum Path Sum](<.2021-082021-08-01%20(day14)>) | ![Medium][Medium] | Array; Dynamic Programming; Matrix | 
+| 015 | [21][0021] | [Merge Two Sorted Lists](<.2021-082021-08-02%20(day15)>) | ![Easy][Easy] | Linked List; Recursion | 
+| 016 | [48][0048] | [Rotate Image](<.2021-082021-08-03%20(day16)>) | ![Medium][Medium] | Array; Math; Matrix | 
+| 017 | [2][0002] | [Add Two Numbers](<.2021-082021-08-04%20(day17)>) | ![Medium][Medium] | Linked List; Math; Recursion | 
+| 018 | [1][0001] | [Two Sum](<.2021-082021-08-05%20(day18)>) | ![Easy][Easy] | Array; Hash Table | 
+| 019 | [23][0023] | [Merge k Sorted Lists](<.2021-082021-08-06%20(day19)>) | ![Hard][Hard] | Linked List; Divide and Conquer; Heap (Priority Queue); Merge Sort | 
+| 020 | [387][0387] | [First Unique Character in a String](<.2021-082021-08-07%20(day20)>) | ![Easy][Easy] | Hash Table; String; Queue; Counting | 
+| 021 | [341][0341] | [Flatten Nested List Iterator](<.2021-082021-08-08%20(day21)>) | ![Medium][Medium] | Stack; Tree; Depth-First Search; Design; Queue; Iterator | 
+| 022 | [148][0148] | [Sort List](<.2021-082021-08-09%20(day22)>) | ![Medium][Medium] | Linked List; Two Pointers; Divide and Conquer; Sorting; Merge Sort | 
+| 023 | [98][0098] | [Validate Binary Search Tree](<.2021-082021-08-10%20(day23)>) | ![Medium][Medium] | Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
+| 024 | [101][0101] | [Symmetric Tree](<.2021-082021-08-11%20(day24)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 025 | [49][0049] | [Group Anagrams](<.2021-082021-08-12%20(day25)>) | ![Medium][Medium] | Hash Table; String; Sorting | 
+| 026 | [141][0141] | [Linked List Cycle](<.2021-082021-08-13%20(day26)>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
+| 027 | [22][0022] | [Generate Parentheses](<.2021-082021-08-14%20(day27)>) | ![Medium][Medium] | String; Dynamic Programming; Backtracking | 
+| 028 | [26][0026] | [Remove Duplicates from Sorted Array](<.2021-082021-08-15%20(day28)>) | ![Easy][Easy] | Array; Two Pointers | 
+| 029 | [94][0094] | [Binary Tree Inorder Traversal](<.2021-082021-08-16%20(day29)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Tree | 
+| 030 | [326][0326] | [Power of Three](<.2021-082021-08-17%20(day30)>) | ![Easy][Easy] | Math; Recursion | 
+| 031 | [136][0136] | [Single Number](<.2021-082021-08-18%20(day31)>) | ![Easy][Easy] | Array; Bit Manipulation | 
+| 032 | [268][0268] | [Missing Number](<.2021-082021-08-19%20(day32)>) | ![Easy][Easy] | Array; Hash Table; Math; Bit Manipulation; Sorting | 
+| 033 | [287][0287] | [Find the Duplicate Number](<.2021-082021-08-20%20(day33)>) | ![Medium][Medium] | Array; Two Pointers; Binary Search; Bit Manipulation | 
+| 034 | [215][0215] | [Kth Largest Element in an Array](<.2021-082021-08-21%20(day34)>) | ![Medium][Medium] | Array; Divide and Conquer; Sorting; Heap (Priority Queue); Quickselect | 
+| 035 | [1039][1039] | [Find the Town Judge](<.2021-082021-08-22%20(day35)>) | ![Easy][Easy] | Array; Hash Table; Graph | 
 
-| Day |    id    | Title                                                                     |    Difficulty     |                                      Related Topics                                       |
-| :-: | :------: | :------------------------------------------------------------------------ | :---------------: | :---------------------------------------------------------------------------------------: |
-| 01  |  [7][7]  | [Reverse Integer](<./2021-07-19%20(day1)>)                                |   ![Easy][easy]   |                                       ![Math][math]                                       |
-| 02  |  [9][9]  | [Palindrome Number](<./2021-07-20%20(day2)>)                              |   ![Easy][easy]   |                                       ![Math][math]                                       |
-| 03  |  [5][5]  | [Longest Palindromic Substring](<./2021-07-21%20(day3)>)                  | ![Medium][medium] |               ![string][string] ![Dynamic Programming][dynamic-programming]               |
-| 04  | [20][20] | [Valid Parentheses](<./2021-07-22%20(day4)>)                              |   ![Easy][easy]   |                             ![string][string] ![Stack][stack]                             |
-| 05  | [35][35] | [Search Insert Position](<./2021-07-23%20(day5)>)                         |   ![Easy][easy]   |                      ![Array][array] ![Binary Search][binary-search]                      |
-| 06  |  [3][3]  | [Longest Substring Without Repeating Characters](<./2021-07-24%20(day6)>) | ![Medium][medium] |       ![Hash Table][hash-table] ![String][string] ![Sliding Window][sliding-window]       |
-| 07  |  [4][4]  | [Median of Two Sorted Arrays](<./2021-07-25%20(day7)>)                    |   ![Hard][hard]   | ![Array][array] ![Binary Search][binary-search] ![Divide and Conquer][divide-and-conquer] |
 
----
-
-#### `Week 2 (2021-07-26 ~ 2021-08-01)`
-
-[13]: https://leetcode.com/problems/roman-to-integer/
-[64]: https://leetcode.com/problems/minimum-path-sum/
-[45]: https://leetcode.com/problems/jump-game-ii/
-[83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-[12]: https://leetcode.com/problems/integer-to-roman/
-[100]: https://leetcode.com/problems/same-tree/
-[104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
-
-| Day |     id     | Title                                                         |    Difficulty     |                                                          Related Topics                                                           |
-| :-: | :--------: | :------------------------------------------------------------ | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| 08  |  [13][13]  | [Roman to Integer](<./2021-07-26%20(day8)>)                   |   ![Easy][easy]   |                                     ![Hash Table][hash-table] ![Math][math] ![String][string]                                     |
-| 09  |  [83][83]  | [Remove Duplicates from Sorted List](<./2021-07-27%20(day9)>) |   ![Easy][easy]   |                                                      ![Link List][link-list]                                                      |
-| 10  |  [12][12]  | [Integer to Roman](<./2021-07-28%20(day10)>)                  | ![Medium][medium] |                                     ![Hash Table][hash-table] ![Math][math] ![String][string]                                     |
-| 11  | [100][100] | [Same Tree](<./2021-07-29%20(day11)>)                         |   ![Easy][easy]   | ![Tree][tree] ![Depth-First search][depth-first-search] ![Breadth-First search][breadth-first-search] ![Binary Tree][binary-tree] |
-| 12  | [104][104] | [Maximum Depth of Binary Tree](<./2021-07-30%20(day12)>)      |   ![Easy][easy]   | ![Tree][tree] ![Depth-First search][depth-first-search] ![Breadth-First search][breadth-first-search] ![Binary Tree][binary-tree] |
-| 13  |  [45][45]  | [Jump Game II](<./2021-07-31%20(day13)>)                      | ![Medium][medium] |                           ![Array][array] ![Dynamic Programming][dynamic-programming] ![Greedy][greedy]                           |
-| 14  |  [64][64]  | [Minimum Path Sum](<./2021-08-01%20(day14)>)                  | ![Medium][medium] |                           ![Array][array] ![Dynamic Programming][dynamic-programming] ![Matrix][matrix]                           |
-
----
-
-#### `Week 3 (2021-08-02 ~ 2021-08-08)`
-
-[1]: https://leetcode.com/problems/two-sum/
-[2]: https://leetcode.com/problems/add-two-numbers/
-[21]: https://leetcode.com/problems/merge-two-sorted-lists/
-[48]: https://leetcode.com/problems/rotate-image/
-[23]: https://leetcode.com/problems/merge-k-sorted-lists/
-[341]: https://leetcode.com/problems/flatten-nested-list-iterator/
-[387]: https://leetcode.com/problems/first-unique-character-in-a-string/
-
-| Day |     id     | Title                                                          |    Difficulty     |                                                              Related Topics                                                               |
-| :-: | :--------: | :------------------------------------------------------------- | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| 15  |  [21][21]  | [Merge Two Sorted Lists](<./2021-08-02%20(day15)>)             |   ![Easy][easy]   |                                              ![Link List][link-list] ![Recursion][recursion]                                              |
-| 16  |  [48][48]  | [Rotate Image](<./2021-08-03%20(day16)>)                       | ![Medium][medium] |                                              ![Array][array] ![Math][math] ![Matrix][matrix]                                              |
-| 17  |   [2][2]   | [Add Two Numbers](<./2021-08-04%20(day17)>)                    | ![Medium][medium] |                                       ![Link List][link-list] ![Math][math] ![Recursion][recursion]                                       |
-| 18  |   [1][1]   | [Two Sum](<./2021-08-05%20(day18)>)                            |   ![Easy][easy]   |                                                 ![Array][array] ![Hash Table][hash-table]                                                 |
-| 19  |  [23][23]  | [Merge k Sorted Lists](<./2021-08-06%20(day19)>)               |   ![Hard][hard]   | ![Link List][link-list] ![Divide and Conquer][divide-and-conquer] ![Heap (Priority Queue)][heap-priority-queue] ![Merge Sort][merge-sort] |
-| 20  | [387][387] | [First Unique Character in a String](<./2021-08-07%20(day20)>) |   ![Easy][easy]   |                             ![Hash Table][hash-table] ![string][string] ![Queue][queue] ![Counting][counting]                             |
-| 21  | [341][341] | [Flatten Nested List Iterator](<./2021-08-08%20(day21)>)       | ![Medium][medium] |      ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Design][design] ![Queue][queue] ![Iterator][iterator]      |
 
 ---
-
-#### `Week 4 (2021-08-09 ~ 2021-08-15)`
-
-[148]: https://leetcode.com/problems/sort-list/
-[98]: https://leetcode.com/problems/validate-binary-search-tree/
-[101]: https://leetcode.com/problems/symmetric-tree/
-[49]: https://leetcode.com/problems/group-anagrams/
-[141]: https://leetcode.com/problems/linked-list-cycle/
-[22]: https://leetcode.com/problems/generate-parentheses/
-[26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-
-| Day |     id     | Title                                                           |    Difficulty     |                                                                Related Topics                                                                 |
-| :-: | :--------: | :-------------------------------------------------------------- | :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
-| 22  | [148][148] | [Sort List](<./2021-08-09%20(day22)>)                           | ![Medium][medium] | ![Link List][link-list] ![Two Pointers][two-pointers] ![Divide and Conquer][divide-and-conquer] ![Sorting][sorting] ![Merge Sort][merge-sort] |
-| 23  |  [98][98]  | [Validate Binary Search Tree](<./2021-08-10%20(day23)>)         | ![Medium][medium] |         ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Search Tree][binary-search-tree] ![Binary Tree][binary-tree]         |
-| 24  | [101][101] | [Symmetric Tree](<./2021-08-11%20(day24)>)                      |   ![Easy][easy]   |       ![Tree][tree] ![Depth-First Search][depth-first-search] ![Breadth-First Search][breadth-first-search] ![Binary Tree][binary-tree]       |
-| 25  |  [49][49]  | [Group Anagrams](<./2021-08-12%20(day25)>)                      | ![Medium][medium] |                                        ![Hash Table][hash-table] ![String][string] ![Sorting][sorting]                                        |
-| 26  | [141][141] | [Linked List Cycle](<./2021-08-13%20(day26)>)                   |   ![Easy][easy]   |                              ![Hash Table][hash-table] ![Linked List][linked-list] ![Two Pointers][two-pointers]                              |
-| 27  |  [22][22]  | [Generate Parentheses](<./2021-08-14%20(day27)>)                | ![Medium][medium] |                          ![String][string] ![Dynamic Programming][dynamic-programming] ![Backtracking][backtracking]                          |
-| 28  |  [26][26]  | [Remove Duplicates from Sorted Array](<./2021-08-15%20(day28)>) |   ![Easy][easy]   |                                                 ![Array][array] ![Two Pointers][two-pointers]                                                 |
-
----
-
-#### `Week 5 (2021-08-16 ~ 2021-08-22)`
-
-[94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
-[326]: https://leetcode.com/problems/power-of-three/
-[136]: https://leetcode.com/problems/single-number/
-
-| Day |     id     | Title                                      |  Difficulty   |                                           Related Topics                                            |
-| :-: | :--------: | :----------------------------------------- | :-----------: | :-------------------------------------------------------------------------------------------------: |
-| 29  |  [94][94]  | [Sort List](<./2021-08-16%20(day29)>)      | ![Easy][easy] | ![Stack][stack] ![Tree][tree] ![Depth-First Search][depth-first-search] ![Binary Tree][binary-tree] |
-| 30  | [326][326] | [Power of Three](<./2021-08-17%20(day30)>) | ![Easy][easy] |                                ![Math][math] ![Recursion][recursion]                                |
-| 31  | [136][136] | [Single Number](<./2021-08-18%20(day31)>)  | ![Easy][easy] |                        ![Array][array] ![Bit Manipulation][bit-manipulation]                        |
-|     |            |                                            |               |                                                                                                     |
-|     |            |                                            |               |                                                                                                     |
-|     |            |                                            |               |                                                                                                     |
-|     |            |                                            |               |                                                                                                     |
-
----
-
-[easy]: https://img.shields.io/badge/-Easy-brightgreen
-[medium]: https://img.shields.io/badge/-Medium-orange
-[hard]: https://img.shields.io/badge/-Hard-red
 
 ### Tags
 
-[math]: https://img.shields.io/badge/-Math-FFCDD2
-[string]: https://img.shields.io/badge/-String-F8BBD0
-[dynamic-programming]: https://img.shields.io/badge/-Dynamic%20Programming-E1BEE7
-[stack]: https://img.shields.io/badge/-Stack-D1C4E9
-[array]: https://img.shields.io/badge/-Array-C5CAE9
-[binary-search]: https://img.shields.io/badge/-Binary%20Search-BBDEFB
-[hash-table]: https://img.shields.io/badge/-Hash%20Table-B3E5FC
-[sliding-window]: https://img.shields.io/badge/-Sliding%20Window-B2EBF2
-[divide-and-conquer]: https://img.shields.io/badge/-Divide%20and%20Conquer-B2DFDB
-[link-list]: https://img.shields.io/badge/-Link%20List-C8E6C9
-[tree]: https://img.shields.io/badge/-Tree-DCEDC8
-[depth-first-search]: https://img.shields.io/badge/-Depth%20First%20Search-F0F4C3
-[breadth-first-search]: https://img.shields.io/badge/-Breadth%20First%20Search-FFF9C4
-[binary-tree]: https://img.shields.io/badge/-Binary%20Tree-FFECB3
-[greedy]: https://img.shields.io/badge/-Greedy-FFE0B2
-[matrix]: https://img.shields.io/badge/-Matrix-FFCCBC
-[recursion]: https://img.shields.io/badge/-Recursion-D7CCC8
-[heap-priority-queue]: https://img.shields.io/badge/-Heap%20(Priority%20Queue)-F5F5F5
-[merge-sort]: https://img.shields.io/badge/-Merge%20Sort-CFD8DC
-[queue]: https://img.shields.io/badge/-Queue-FFFFFF
-[counting]: https://img.shields.io/badge/-Counting-EF9A9A
-[design]: https://img.shields.io/badge/-Design-F48FB1
-[iterator]: https://img.shields.io/badge/-Iterator-CE93D8
-[two-pointers]: https://img.shields.io/badge/-Two%20Pointers-B39DDB
-[sorting]: https://img.shields.io/badge/-Sorting-9FA8DA
-[binary-search-tree]: https://img.shields.io/badge/-Binary%20Search%20Tree-90CAF9
-[linked-list]: https://img.shields.io/badge/-Linked%20List-81D4FA
-[backtracking]: https://img.shields.io/badge/-Backtracking-80DEEA
-[bit-manipulation]: https://img.shields.io/badge/-Bit%20Manipulation-80CBC4
-
-![Math][math]
-![String][string]
-![Dynamic Programming][dynamic-programming]
-![Stack][stack]
-![Array][array]
-
-![Binary Search][binary-search]
-![Hash Table][hash-table]
-![Sliding Window][sliding-window]
-![Divide and Conquer][divide-and-conquer]
-![Link List][link-list]
-
-![Tree][tree]
-![Depth-First search][depth-first-search]
-![Breadth-First search][breadth-first-search]
-![Binary Tree][binary-tree]
-![Greedy][greedy]
-
-![Matrix][matrix]
-![Recursion][recursion]
-![Heap (Priority Queue)][heap-priority-queue]
-![Merge Sort][merge-sort]
-![Queue][queue]
-
-![Counting][counting]
-![Design][design]
-![Iterator][iterator]
-![Two Pointers][two-pointers]
-![Sorting][sorting]
-
-![Binary Search Tree][binary-search-tree]
-![Linked List][linked-list]
-![Backtracking][backtracking]
-![Bit Manipulation][bit-manipulation]
+{{tags}}
 
 ---
 
-### Create Daily Task
+[0001]: https://leetcode.com/problems/two-sum/
+[0002]: https://leetcode.com/problems/add-two-numbers/
+[0003]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[0004]: https://leetcode.com/problems/median-of-two-sorted-arrays/
+[0005]: https://leetcode.com/problems/longest-palindromic-substring/
+[0007]: https://leetcode.com/problems/reverse-integer/
+[0009]: https://leetcode.com/problems/palindrome-number/
+[0012]: https://leetcode.com/problems/integer-to-roman/
+[0013]: https://leetcode.com/problems/roman-to-integer/
+[0020]: https://leetcode.com/problems/valid-parentheses/
+[0021]: https://leetcode.com/problems/merge-two-sorted-lists/
+[0022]: https://leetcode.com/problems/generate-parentheses/
+[0023]: https://leetcode.com/problems/merge-k-sorted-lists/
+[0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[0035]: https://leetcode.com/problems/search-insert-position/
+[0045]: https://leetcode.com/problems/jump-game-ii/
+[0048]: https://leetcode.com/problems/rotate-image/
+[0049]: https://leetcode.com/problems/group-anagrams/
+[0064]: https://leetcode.com/problems/minimum-path-sum/
+[0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[0098]: https://leetcode.com/problems/validate-binary-search-tree/
+[0100]: https://leetcode.com/problems/same-tree/
+[0101]: https://leetcode.com/problems/symmetric-tree/
+[0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[0136]: https://leetcode.com/problems/single-number/
+[0141]: https://leetcode.com/problems/linked-list-cycle/
+[0148]: https://leetcode.com/problems/sort-list/
+[0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[0268]: https://leetcode.com/problems/missing-number/
+[0287]: https://leetcode.com/problems/find-the-duplicate-number/
+[0326]: https://leetcode.com/problems/power-of-three/
+[0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
+[0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[1039]: https://leetcode.com/problems/find-the-town-judge/
 
-> if leetcode problems url path is https://leetcode.com/problems/two-sum/<br> > [INPUT] -> "two-sum"
-
-```
-python3 script/createREADME.py [INPUT]
-```
-
-or to [`create daily folder #249`](https://github.com/Rabbittee/leet-codes/issues/249)
-to commented leetcode problems url
+[Easy]: https://img.shields.io/badge/-Easy-brightgreen
+[Medium]: https://img.shields.io/badge/-Medium-orange
+[Hard]: https://img.shields.io/badge/-Hard-red
