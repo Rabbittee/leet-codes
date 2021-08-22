@@ -137,7 +137,10 @@ def make_markdown_table(array):
 
     markdown += '|'
     for i in range(len(array[0])):
-        markdown += str("-------------- | ")
+        if i in [0, 1, 3]:
+            markdown += str(" :--------: | ")
+        else:
+            markdown += str(" --------- | ")
     markdown += "\n"
 
     for entry in array[1:]:
@@ -151,15 +154,14 @@ def make_markdown_table(array):
 
 
 def create_cover_readme(logs) -> None:
-    # first_day = logs[0][3]
     leetcode_url_def = sorted(
         [f'[{int(log[1]):04}]: {log[2]}' for log in logs[1:]])
 
-    # | Day |    id    | Title|    Difficulty     |Related Topics
-    # [Same Tree](<./2021-07-29%20(day11)>)
+    # | Day | id | Title |       | Related Topics |
     daily_table = [['Day', 'Id', 'Title', 'Difficulty', 'Related Topics']] + \
         [[
-            f'{int(log[0]):03}',
+            f'<span style="color: red">Week {int(log[0])//7+1}</span><br><span>{int(log[0]):03}</span>' if int(
+                log[0]) % 7 == 1 else f'<span>{int(log[0]):03}</span>',
             f'[{log[1]}][{int(log[1]):04}]',
             f'[{log[4]}](<./{log[3][:7]}/{log[3]}%20(day{log[0]})>)',
             f'![{log[5]}][{log[5]}]',
@@ -167,9 +169,19 @@ def create_cover_readme(logs) -> None:
         ]
             for log in logs[1:]]
 
+    summary = {
+        'Easy': 0,
+        'Medium': 0,
+        'Hard': 0
+    }
+    for log in logs[1:]:
+        summary[log[5]] += 1
+    summary_str = f'![]({shieldsUrl}Easy-{summary["Easy"]}-brightgreen)\n\n![]({shieldsUrl}Medium-{summary["Medium"]}-orange)\n\n![]({shieldsUrl}Hard-{summary["Hard"]}-red)'
+
     replace_data = {
         'leetcode_url_def': '\n'.join(list(leetcode_url_def)),
-        'daily_table': make_markdown_table(daily_table)
+        'daily_table': make_markdown_table(daily_table),
+        'summary': summary_str
     }
 
     with open('script/COVER_README.template', 'r') as fin:
