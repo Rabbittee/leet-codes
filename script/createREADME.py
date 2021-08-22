@@ -173,7 +173,7 @@ def create_cover_readme(logs) -> None:
             else:
                 week_end = ''
             daily_table += [['', '',
-                             f'Week {int(log[0])//7+1} ({log[3]} ~ {week_end})'], daily_row]
+                             f'Week {int(log[0])//7+1}<br>({log[3]} ~ {week_end})'], daily_row]
         else:
             daily_table += [daily_row]
 
