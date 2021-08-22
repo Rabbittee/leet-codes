@@ -159,7 +159,7 @@ def create_cover_readme(logs) -> None:
 
     # | Day | id | Title |       | Related Topics |
     daily_table = [['Day', 'Id', 'Title', 'Difficulty', 'Related Topics']]
-    for log in logs[1:]:
+    for i, log in enumerate(logs[1:]):
         daily_row = [
             f'{int(log[0]):03}',
             f'[{log[1]}][{int(log[1]):04}]',
@@ -168,8 +168,12 @@ def create_cover_readme(logs) -> None:
             f'{log[6].replace(";", "; ")}'
         ]
         if int(log[0]) % 7 == 1:
-            daily_table += [[f'Week {int(log[0])//7+1}',
-                             '', f'From: {log[3]}'], daily_row]
+            if i + 7 < len(logs):
+                week_end = logs[i + 7][3]
+            else:
+                week_end = ''
+            daily_table += [['', '',
+                             f'Week {int(log[0])//7+1} ({log[3]} ~ {week_end})'], daily_row]
         else:
             daily_table += [daily_row]
 
