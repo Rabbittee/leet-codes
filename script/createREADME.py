@@ -37,7 +37,7 @@ def format_log_list(logs, leetcode_info, y_m_d) -> dict:
     topic_tags = ';'.join([tag['name'] for tag in leetcode_info['topicTags']])
 
     logs.append([len(logs), int(leetcode_info['questionId']),
-                leetcode_url, y_m_d, difficulty, topic_tags])
+                leetcode_url, y_m_d, leetcode_info['title'], difficulty, topic_tags])
 
     # for log in logs[1:]:
     #     info = get_leetcode(get_problem_name(log[2]))
