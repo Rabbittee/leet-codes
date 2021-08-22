@@ -158,16 +158,20 @@ def create_cover_readme(logs) -> None:
         [f'[{int(log[1]):04}]: {log[2]}' for log in logs[1:]])
 
     # | Day | id | Title |       | Related Topics |
-    daily_table = [['Day', 'Id', 'Title', 'Difficulty', 'Related Topics']] + \
-        [[
-            f'<span style="color: red">Week {int(log[0])//7+1}</span><br><span>{int(log[0]):03}</span>' if int(
-                log[0]) % 7 == 1 else f'<span>{int(log[0]):03}</span>',
+    daily_table = [['Day', 'Id', 'Title', 'Difficulty', 'Related Topics']]
+    for log in logs[1:]:
+        daily_row = [
+            f'{int(log[0]):03}',
             f'[{log[1]}][{int(log[1]):04}]',
             f'[{log[4]}](<./{log[3][:7]}/{log[3]}%20(day{log[0]})>)',
             f'![{log[5]}][{log[5]}]',
             f'{log[6].replace(";", "; ")}'
         ]
-            for log in logs[1:]]
+        if int(log[0]) % 7 == 1:
+            daily_table += [[f'Week {int(log[0])//7+1}',
+                             '', f'From: {log[3]}'], daily_row]
+        else:
+            daily_table += [daily_row]
 
     summary = {
         'Easy': 0,
