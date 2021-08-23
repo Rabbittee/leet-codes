@@ -43,6 +43,8 @@
 | 033 | [287][0287] | [Find the Duplicate Number](<./2021-08/2021-08-20%20(day33)>) | ![Medium][Medium] | Array; Two Pointers; Binary Search; Bit Manipulation | 
 | 034 | [215][0215] | [Kth Largest Element in an Array](<./2021-08/2021-08-21%20(day34)>) | ![Medium][Medium] | Array; Divide and Conquer; Sorting; Heap (Priority Queue); Quickselect | 
 | 035 | [1039][1039] | [Find the Town Judge](<./2021-08/2021-08-22%20(day35)>) | ![Easy][Easy] | Array; Hash Table; Graph | 
+|  |  | Week 6<br>(2021-08-23 ~ ) | 
+| 036 | [121][0121] | [Best Time to Buy and Sell Stock](<./2021-08/2021-08-23%20(day36)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 
 
 
@@ -50,7 +52,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-19-brightgreen)
+![](https://img.shields.io/badge/Easy-20-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-14-orange)
 
@@ -83,6 +85,7 @@
 [0100]: https://leetcode.com/problems/same-tree/
 [0101]: https://leetcode.com/problems/symmetric-tree/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [0136]: https://leetcode.com/problems/single-number/
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0148]: https://leetcode.com/problems/sort-list/
