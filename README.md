@@ -45,6 +45,7 @@
 | 035 | [1039][1039] | [Find the Town Judge](<./2021-08/2021-08-22%20(day35)>) | ![Easy][Easy] | Array; Hash Table; Graph | 
 |  |  | Week 6<br>(2021-08-23 ~ ) | 
 | 036 | [121][0121] | [Best Time to Buy and Sell Stock](<./2021-08/2021-08-23%20(day36)>) | ![Easy][Easy] | Array; Dynamic Programming | 
+| 037 | [122][0122] | [Best Time to Buy and Sell Stock II](<./2021-08/2021-08-24%20(day37)>) | ![Easy][Easy] | Array; Dynamic Programming; Greedy | 
 
 
 
@@ -52,7 +53,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-20-brightgreen)
+![](https://img.shields.io/badge/Easy-21-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-14-orange)
 
@@ -86,6 +87,7 @@
 [0101]: https://leetcode.com/problems/symmetric-tree/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[0122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [0136]: https://leetcode.com/problems/single-number/
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0148]: https://leetcode.com/problems/sort-list/
