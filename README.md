@@ -46,6 +46,8 @@
 |  |  | Week 6<br>(2021-08-23 ~ ) | 
 | 036 | [121][0121] | [Best Time to Buy and Sell Stock](<./2021-08/2021-08-23%20(day36)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 037 | [122][0122] | [Best Time to Buy and Sell Stock II](<./2021-08/2021-08-24%20(day37)>) | ![Easy][Easy] | Array; Dynamic Programming; Greedy | 
+| 038 | [123][0123] | [Best Time to Buy and Sell Stock III](<./2021-08/2021-08-25%20(day38)>) | ![Hard][Hard] | Array; Dynamic Programming | 
+| 039 | [70][0070] | [Climbing Stairs](<./2021-08/2021-08-26%20(day39)>) | ![Easy][Easy] | Math; Dynamic Programming; Memoization | 
 
 
 
@@ -53,11 +55,11 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-21-brightgreen)
+![](https://img.shields.io/badge/Easy-22-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-14-orange)
 
-![](https://img.shields.io/badge/Hard-2-red)
+![](https://img.shields.io/badge/Hard-3-red)
 
 ---
 
@@ -80,6 +82,7 @@
 [0048]: https://leetcode.com/problems/rotate-image/
 [0049]: https://leetcode.com/problems/group-anagrams/
 [0064]: https://leetcode.com/problems/minimum-path-sum/
+[0070]: https://leetcode.com/problems/climbing-stairs/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [0098]: https://leetcode.com/problems/validate-binary-search-tree/
@@ -88,6 +91,7 @@
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [0122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+[0123]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 [0136]: https://leetcode.com/problems/single-number/
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0148]: https://leetcode.com/problems/sort-list/
