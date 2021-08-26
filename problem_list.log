@@ -37,3 +37,4 @@
 36,121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,2021-08-23,Best Time to Buy and Sell Stock,Easy,Array;Dynamic Programming
 37,122,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,2021-08-24,Best Time to Buy and Sell Stock II,Easy,Array;Dynamic Programming;Greedy
 38,123,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,2021-08-25,Best Time to Buy and Sell Stock III,Hard,Array;Dynamic Programming
+39,70,https://leetcode.com/problems/climbing-stairs/,2021-08-26,Climbing Stairs,Easy,Math;Dynamic Programming;Memoization
