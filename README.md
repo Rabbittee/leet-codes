@@ -48,6 +48,7 @@
 | 037 | [122][0122] | [Best Time to Buy and Sell Stock II](<./2021-08/2021-08-24%20(day37)>) | ![Easy][Easy] | Array; Dynamic Programming; Greedy | 
 | 038 | [123][0123] | [Best Time to Buy and Sell Stock III](<./2021-08/2021-08-25%20(day38)>) | ![Hard][Hard] | Array; Dynamic Programming | 
 | 039 | [70][0070] | [Climbing Stairs](<./2021-08/2021-08-26%20(day39)>) | ![Easy][Easy] | Math; Dynamic Programming; Memoization | 
+| 040 | [747][0747] | [Min Cost Climbing Stairs](<./2021-08/2021-08-27%20(day40)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 
 
 
@@ -55,7 +56,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-22-brightgreen)
+![](https://img.shields.io/badge/Easy-23-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-14-orange)
 
@@ -101,6 +102,7 @@
 [0326]: https://leetcode.com/problems/power-of-three/
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
