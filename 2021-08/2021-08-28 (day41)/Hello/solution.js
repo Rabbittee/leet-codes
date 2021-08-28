@@ -2,14 +2,14 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-function canJump(nums) {
-  let dp = nums.length - 1;
+function canJump(nums, current = nums.length - 1, dp = nums.length - 1) {
+  if (current === 0) return dp === 0;
 
-  for (let index = dp - 1; index >= 0; index--) {
-    if (index + nums[index] >= dp) {
-      dp = index;
-    }
+  current -= 1;
+
+  if (current + nums[current] >= dp) {
+    dp = current;
   }
 
-  return dp === 0;
+  return canJump(nums, current, dp);
 }
