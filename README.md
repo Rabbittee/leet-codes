@@ -49,6 +49,7 @@
 | 038 | [123][0123] | [Best Time to Buy and Sell Stock III](<./2021-08/2021-08-25%20(day38)>) | ![Hard][Hard] | Array; Dynamic Programming | 
 | 039 | [70][0070] | [Climbing Stairs](<./2021-08/2021-08-26%20(day39)>) | ![Easy][Easy] | Math; Dynamic Programming; Memoization | 
 | 040 | [747][0747] | [Min Cost Climbing Stairs](<./2021-08/2021-08-27%20(day40)>) | ![Easy][Easy] | Array; Dynamic Programming | 
+| 041 | [55][0055] | [Jump Game](<./2021-08/2021-08-28%20(day41)>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
 
 
 
@@ -58,7 +59,7 @@
 
 ![](https://img.shields.io/badge/Easy-23-brightgreen)
 
-![](https://img.shields.io/badge/Medium-14-orange)
+![](https://img.shields.io/badge/Medium-15-orange)
 
 ![](https://img.shields.io/badge/Hard-3-red)
 
@@ -82,6 +83,7 @@
 [0045]: https://leetcode.com/problems/jump-game-ii/
 [0048]: https://leetcode.com/problems/rotate-image/
 [0049]: https://leetcode.com/problems/group-anagrams/
+[0055]: https://leetcode.com/problems/jump-game/
 [0064]: https://leetcode.com/problems/minimum-path-sum/
 [0070]: https://leetcode.com/problems/climbing-stairs/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
