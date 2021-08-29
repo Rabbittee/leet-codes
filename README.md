@@ -50,7 +50,7 @@
 | 039 | [70][0070] | [Climbing Stairs](<./2021-08/2021-08-26%20(day39)>) | ![Easy][Easy] | Math; Dynamic Programming; Memoization | 
 | 040 | [747][0747] | [Min Cost Climbing Stairs](<./2021-08/2021-08-27%20(day40)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 041 | [55][0055] | [Jump Game](<./2021-08/2021-08-28%20(day41)>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
-
+| 042 |   | [Binary Heap](<./2021-08/2021-08-29%20(day42)>) | ![Medium][Medium] | Heap; Priority Queue; | 
 
 
 ---

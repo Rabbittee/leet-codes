@@ -14,3 +14,4 @@ function canJump(nums: number[]): boolean {
     }  
     return zeroIndex == -1;
 };
+
