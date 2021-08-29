@@ -6,7 +6,8 @@ Extend and implement a bianry heap class below.
 abstract class BinaryHeap{
     // type: true is max heap, false is min heap
     // default min heap
-    constructor(heap:number[], type?: bool = false);
+    constructor(type: bool = false);
+    constructor(heap:number[], type: bool = false);
 
     private heap: number[]; // store value inside heap
     private type: bool;
