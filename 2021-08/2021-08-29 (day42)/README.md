@@ -13,8 +13,8 @@ abstract class BinaryHeap{
     private heapify(): void; // sort heap
 
     public IsEmpty(): bool; // if heap is empty, return true
-    public root(): number; // return value of root
-    public pop(): number; // pop root value and remove from heap
+    public top(): number; // return max/min value in heap
+    public pop(): number; // pop  max/min value and remove from heap
     public push(value: number); // insert a value into heap and call heapify to sort
 }
 ```
