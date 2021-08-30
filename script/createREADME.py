@@ -155,16 +155,16 @@ def make_markdown_table(array):
 
 def create_cover_readme(logs) -> None:
     leetcode_url_def = sorted(
-        [f'[{int(log[1]):04}]: {log[2]}' for log in logs[1:]])
+        [f'[{int(log[1]):04}]: {log[2]}' for log in logs[1:] if log[1] != ''])
 
     # | Day | id | Title |       | Related Topics |
     daily_table = [['Day', 'Id', 'Title', 'Difficulty', 'Related Topics']]
     for i, log in enumerate(logs[1:]):
         daily_row = [
             f'{int(log[0]):03}',
-            f'[{log[1]}][{int(log[1]):04}]',
+            f'[{log[1]}][{int(log[1]):04}]' if log[1] != '' else '',
             f'[{log[4]}](<./{log[3][:7]}/{log[3]}%20(day{log[0]})>)',
-            f'![{log[5]}][{log[5]}]',
+            f'![{log[5]}][{log[5]}]' if log[1] != '' else '',
             f'{log[6].replace(";", "; ")}'
         ]
         if int(log[0]) % 7 == 1:
@@ -183,7 +183,8 @@ def create_cover_readme(logs) -> None:
         'Hard': 0
     }
     for log in logs[1:]:
-        summary[log[5]] += 1
+        if log[5] in summary:
+            summary[log[5]] += 1
     summary_str = f'![]({shieldsUrl}Easy-{summary["Easy"]}-brightgreen)\n\n![]({shieldsUrl}Medium-{summary["Medium"]}-orange)\n\n![]({shieldsUrl}Hard-{summary["Hard"]}-red)'
 
     replace_data = {
