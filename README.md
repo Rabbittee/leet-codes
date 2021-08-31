@@ -53,6 +53,7 @@
 | 042 |  | [Binary Heap](<./2021-08/2021-08-29%20(day42)>) |  |  | 
 |  |  | Week 7<br>(2021-08-30 ~ ) | 
 | 043 | [118][0118] | [Pascal's Triangle](<./2021-08/2021-08-30%20(day43)>) | ![Easy][Easy] | Array; Dynamic Programming | 
+| 044 | [119][0119] | [Pascal's Triangle II](<./2021-08/2021-08-31%20(day44)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 
 
 
@@ -60,7 +61,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-24-brightgreen)
+![](https://img.shields.io/badge/Easy-25-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-15-orange)
 
@@ -96,6 +97,7 @@
 [0101]: https://leetcode.com/problems/symmetric-tree/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [0118]: https://leetcode.com/problems/pascals-triangle/
+[0119]: https://leetcode.com/problems/pascals-triangle-ii/
 [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [0122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [0123]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
