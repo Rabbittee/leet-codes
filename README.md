@@ -54,6 +54,7 @@
 |  |  | Week 7<br>(2021-08-30 ~ ) | 
 | 043 | [118][0118] | [Pascal's Triangle](<./2021-08/2021-08-30%20(day43)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 044 | [119][0119] | [Pascal's Triangle II](<./2021-08/2021-08-31%20(day44)>) | ![Easy][Easy] | Array; Dynamic Programming | 
+| 045 | [1086][1086] | [Divisor Game](<./2021-09/2021-09-01%20(day45)>) | ![Easy][Easy] | Math; Dynamic Programming; Brainteaser; Game Theory | 
 
 
 
@@ -61,7 +62,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-25-brightgreen)
+![](https://img.shields.io/badge/Easy-26-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-15-orange)
 
@@ -112,6 +113,7 @@
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
+[1086]: https://leetcode.com/problems/divisor-game/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
 [Medium]: https://img.shields.io/badge/-Medium-orange
