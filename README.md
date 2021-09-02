@@ -55,6 +55,7 @@
 | 043 | [118][0118] | [Pascal's Triangle](<./2021-08/2021-08-30%20(day43)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 044 | [119][0119] | [Pascal's Triangle II](<./2021-08/2021-08-31%20(day44)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 045 | [1086][1086] | [Divisor Game](<./2021-09/2021-09-01%20(day45)>) | ![Easy][Easy] | Math; Dynamic Programming; Brainteaser; Game Theory | 
+| 046 | [242][0242] | [Valid Anagram](<./2021-09/2021-09-02%20(day46)>) | ![Easy][Easy] | Hash Table; String; Sorting | 
 
 
 
@@ -62,7 +63,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-26-brightgreen)
+![](https://img.shields.io/badge/Easy-27-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-15-orange)
 
@@ -106,6 +107,7 @@
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0148]: https://leetcode.com/problems/sort-list/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[0242]: https://leetcode.com/problems/valid-anagram/
 [0268]: https://leetcode.com/problems/missing-number/
 [0287]: https://leetcode.com/problems/find-the-duplicate-number/
 [0326]: https://leetcode.com/problems/power-of-three/
