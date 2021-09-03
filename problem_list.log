@@ -45,3 +45,4 @@
 44,119,https://leetcode.com/problems/pascals-triangle-ii/,2021-08-31,Pascal's Triangle II,Easy,Array;Dynamic Programming
 45,1086,https://leetcode.com/problems/divisor-game/,2021-09-01,Divisor Game,Easy,Math;Dynamic Programming;Brainteaser;Game Theory
 46,242,https://leetcode.com/problems/valid-anagram/,2021-09-02,Valid Anagram,Easy,Hash Table;String;Sorting
+47,160,https://leetcode.com/problems/intersection-of-two-linked-lists/,2021-09-03,Intersection of Two Linked Lists,Easy,Hash Table;Linked List;Two Pointers
