@@ -57,6 +57,7 @@
 | 045 | [1086][1086] | [Divisor Game](<./2021-09/2021-09-01%20(day45)>) | ![Easy][Easy] | Math; Dynamic Programming; Brainteaser; Game Theory | 
 | 046 | [242][0242] | [Valid Anagram](<./2021-09/2021-09-02%20(day46)>) | ![Easy][Easy] | Hash Table; String; Sorting | 
 | 047 | [160][0160] | [Intersection of Two Linked Lists](<./2021-09/2021-09-03%20(day47)>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
+| 048 | [205][0205] | [Isomorphic Strings](<./2021-09/2021-09-04%20(day48)>) | ![Easy][Easy] | Hash Table; String | 
 
 
 
@@ -64,7 +65,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-28-brightgreen)
+![](https://img.shields.io/badge/Easy-29-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-15-orange)
 
@@ -108,6 +109,7 @@
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0148]: https://leetcode.com/problems/sort-list/
 [0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[0205]: https://leetcode.com/problems/isomorphic-strings/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [0242]: https://leetcode.com/problems/valid-anagram/
 [0268]: https://leetcode.com/problems/missing-number/
