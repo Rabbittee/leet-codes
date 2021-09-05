@@ -47,3 +47,4 @@
 46,242,https://leetcode.com/problems/valid-anagram/,2021-09-02,Valid Anagram,Easy,Hash Table;String;Sorting
 47,160,https://leetcode.com/problems/intersection-of-two-linked-lists/,2021-09-03,Intersection of Two Linked Lists,Easy,Hash Table;Linked List;Two Pointers
 48,205,https://leetcode.com/problems/isomorphic-strings/,2021-09-04,Isomorphic Strings,Easy,Hash Table;String
+49,290,https://leetcode.com/problems/word-pattern/,2021-09-05,Word Pattern,Easy,Hash Table;String

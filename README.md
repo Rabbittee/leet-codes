@@ -51,13 +51,14 @@
 | 040 | [747][0747] | [Min Cost Climbing Stairs](<./2021-08/2021-08-27%20(day40)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 041 | [55][0055] | [Jump Game](<./2021-08/2021-08-28%20(day41)>) | ![Medium][Medium] | Array; Dynamic Programming; Greedy | 
 | 042 |  | [Binary Heap](<./2021-08/2021-08-29%20(day42)>) |  |  | 
-|  |  | Week 7<br>(2021-08-30 ~ ) | 
+|  |  | Week 7<br>(2021-08-30 ~ 2021-09-05) | 
 | 043 | [118][0118] | [Pascal's Triangle](<./2021-08/2021-08-30%20(day43)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 044 | [119][0119] | [Pascal's Triangle II](<./2021-08/2021-08-31%20(day44)>) | ![Easy][Easy] | Array; Dynamic Programming | 
 | 045 | [1086][1086] | [Divisor Game](<./2021-09/2021-09-01%20(day45)>) | ![Easy][Easy] | Math; Dynamic Programming; Brainteaser; Game Theory | 
 | 046 | [242][0242] | [Valid Anagram](<./2021-09/2021-09-02%20(day46)>) | ![Easy][Easy] | Hash Table; String; Sorting | 
 | 047 | [160][0160] | [Intersection of Two Linked Lists](<./2021-09/2021-09-03%20(day47)>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
 | 048 | [205][0205] | [Isomorphic Strings](<./2021-09/2021-09-04%20(day48)>) | ![Easy][Easy] | Hash Table; String | 
+| 049 | [290][0290] | [Word Pattern](<./2021-09/2021-09-05%20(day49)>) | ![Easy][Easy] | Hash Table; String | 
 
 
 
@@ -65,7 +66,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-29-brightgreen)
+![](https://img.shields.io/badge/Easy-30-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-15-orange)
 
@@ -114,6 +115,7 @@
 [0242]: https://leetcode.com/problems/valid-anagram/
 [0268]: https://leetcode.com/problems/missing-number/
 [0287]: https://leetcode.com/problems/find-the-duplicate-number/
+[0290]: https://leetcode.com/problems/word-pattern/
 [0326]: https://leetcode.com/problems/power-of-three/
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
