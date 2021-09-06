@@ -59,6 +59,8 @@
 | 047 | [160][0160] | [Intersection of Two Linked Lists](<./2021-09/2021-09-03%20(day47)>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
 | 048 | [205][0205] | [Isomorphic Strings](<./2021-09/2021-09-04%20(day48)>) | ![Easy][Easy] | Hash Table; String | 
 | 049 | [290][0290] | [Word Pattern](<./2021-09/2021-09-05%20(day49)>) | ![Easy][Easy] | Hash Table; String | 
+|  |  | Week 8<br>(2021-09-06 ~ ) | 
+| 050 | [169][0169] | [Majority Element](<./2021-09/2021-09-06%20(day50)>) | ![Easy][Easy] | Array; Hash Table; Divide and Conquer; Sorting; Counting | 
 
 
 
@@ -66,7 +68,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-30-brightgreen)
+![](https://img.shields.io/badge/Easy-31-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-15-orange)
 
@@ -110,6 +112,7 @@
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0148]: https://leetcode.com/problems/sort-list/
 [0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[0169]: https://leetcode.com/problems/majority-element/
 [0205]: https://leetcode.com/problems/isomorphic-strings/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [0242]: https://leetcode.com/problems/valid-anagram/
