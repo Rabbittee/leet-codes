@@ -61,6 +61,7 @@
 | 049 | [290][0290] | [Word Pattern](<./2021-09/2021-09-05%20(day49)>) | ![Easy][Easy] | Hash Table; String | 
 |  |  | Week 8<br>(2021-09-06 ~ ) | 
 | 050 | [169][0169] | [Majority Element](<./2021-09/2021-09-06%20(day50)>) | ![Easy][Easy] | Array; Hash Table; Divide and Conquer; Sorting; Counting | 
+| 051 | [350][0350] | [Intersection of Two Arrays II](<./2021-09/2021-09-07%20(day51)>) | ![Easy][Easy] | Array; Hash Table; Two Pointers; Binary Search; Sorting | 
 
 
 
@@ -68,7 +69,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-31-brightgreen)
+![](https://img.shields.io/badge/Easy-32-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-15-orange)
 
@@ -121,6 +122,7 @@
 [0290]: https://leetcode.com/problems/word-pattern/
 [0326]: https://leetcode.com/problems/power-of-three/
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
+[0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [1039]: https://leetcode.com/problems/find-the-town-judge/

@@ -49,3 +49,4 @@
 48,205,https://leetcode.com/problems/isomorphic-strings/,2021-09-04,Isomorphic Strings,Easy,Hash Table;String
 49,290,https://leetcode.com/problems/word-pattern/,2021-09-05,Word Pattern,Easy,Hash Table;String
 50,169,https://leetcode.com/problems/majority-element/,2021-09-06,Majority Element,Easy,Array;Hash Table;Divide and Conquer;Sorting;Counting
+51,350,https://leetcode.com/problems/intersection-of-two-arrays-ii/,2021-09-07,Intersection of Two Arrays II,Easy,Array;Hash Table;Two Pointers;Binary Search;Sorting
