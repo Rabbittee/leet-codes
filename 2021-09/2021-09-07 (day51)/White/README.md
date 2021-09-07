@@ -1,5 +1,5 @@
 # 解題想法
-分別統計兩個list裡元素的數量，最後傳回數量相同的list。
+分別統計兩個list裡元素的數量，最後傳回交集的list。
 
 # leetcode
 Runtime: 36 ms, faster than 99.03% of Python3 online submissions for Intersection of Two Arrays II.
