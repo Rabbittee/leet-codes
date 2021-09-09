@@ -51,3 +51,4 @@
 50,169,https://leetcode.com/problems/majority-element/,2021-09-06,Majority Element,Easy,Array;Hash Table;Divide and Conquer;Sorting;Counting
 51,350,https://leetcode.com/problems/intersection-of-two-arrays-ii/,2021-09-07,Intersection of Two Arrays II,Easy,Array;Hash Table;Two Pointers;Binary Search;Sorting
 52,105,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,2021-09-08,Construct Binary Tree from Preorder and Inorder Traversal,Medium,Array;Hash Table;Divide and Conquer;Tree;Binary Tree
+53,66,https://leetcode.com/problems/plus-one/,2021-09-09,Plus One,Easy,Array;Math
