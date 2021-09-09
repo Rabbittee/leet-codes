@@ -62,6 +62,8 @@
 |  |  | Week 8<br>(2021-09-06 ~ ) | 
 | 050 | [169][0169] | [Majority Element](<./2021-09/2021-09-06%20(day50)>) | ![Easy][Easy] | Array; Hash Table; Divide and Conquer; Sorting; Counting | 
 | 051 | [350][0350] | [Intersection of Two Arrays II](<./2021-09/2021-09-07%20(day51)>) | ![Easy][Easy] | Array; Hash Table; Two Pointers; Binary Search; Sorting | 
+| 052 | [105][0105] | [Construct Binary Tree from Preorder and Inorder Traversal](<./2021-09/2021-09-08%20(day52)>) | ![Medium][Medium] | Array; Hash Table; Divide and Conquer; Tree; Binary Tree | 
+| 053 | [66][0066] | [Plus One](<./2021-09/2021-09-09%20(day53)>) | ![Easy][Easy] | Array; Math | 
 
 
 
@@ -69,9 +71,9 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-32-brightgreen)
+![](https://img.shields.io/badge/Easy-33-brightgreen)
 
-![](https://img.shields.io/badge/Medium-15-orange)
+![](https://img.shields.io/badge/Medium-16-orange)
 
 ![](https://img.shields.io/badge/Hard-3-red)
 
@@ -97,6 +99,7 @@
 [0049]: https://leetcode.com/problems/group-anagrams/
 [0055]: https://leetcode.com/problems/jump-game/
 [0064]: https://leetcode.com/problems/minimum-path-sum/
+[0066]: https://leetcode.com/problems/plus-one/
 [0070]: https://leetcode.com/problems/climbing-stairs/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
@@ -104,6 +107,7 @@
 [0100]: https://leetcode.com/problems/same-tree/
 [0101]: https://leetcode.com/problems/symmetric-tree/
 [0104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[0105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [0118]: https://leetcode.com/problems/pascals-triangle/
 [0119]: https://leetcode.com/problems/pascals-triangle-ii/
 [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
