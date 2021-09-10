@@ -6,11 +6,17 @@ var MinStack = function() {
 };
 
 MinStack.prototype.push = function(val) {
-    this.answer.push(val);
+    // without push
+    this.answer = [...this.answer, val];
 };
 
 MinStack.prototype.pop = function() {
-    this.answer.pop();
+    // whitout pop or splice
+    let newAnswer = [];
+    for (let i = 0 ; i < this.answer.length - 1 ; i++) {
+        newAnswer[i] = this.answer[i];
+    }
+    this.answer = newAnswer;
 };
 
 MinStack.prototype.top = function() {
