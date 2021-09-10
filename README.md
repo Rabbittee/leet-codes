@@ -64,6 +64,7 @@
 | 051 | [350][0350] | [Intersection of Two Arrays II](<./2021-09/2021-09-07%20(day51)>) | ![Easy][Easy] | Array; Hash Table; Two Pointers; Binary Search; Sorting | 
 | 052 | [105][0105] | [Construct Binary Tree from Preorder and Inorder Traversal](<./2021-09/2021-09-08%20(day52)>) | ![Medium][Medium] | Array; Hash Table; Divide and Conquer; Tree; Binary Tree | 
 | 053 | [66][0066] | [Plus One](<./2021-09/2021-09-09%20(day53)>) | ![Easy][Easy] | Array; Math | 
+| 054 | [155][0155] | [Min Stack](<./2021-09/2021-09-10%20(day54)>) | ![Easy][Easy] | Stack; Design | 
 
 
 
@@ -71,7 +72,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-33-brightgreen)
+![](https://img.shields.io/badge/Easy-34-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-16-orange)
 
@@ -116,6 +117,7 @@
 [0136]: https://leetcode.com/problems/single-number/
 [0141]: https://leetcode.com/problems/linked-list-cycle/
 [0148]: https://leetcode.com/problems/sort-list/
+[0155]: https://leetcode.com/problems/min-stack/
 [0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [0169]: https://leetcode.com/problems/majority-element/
 [0205]: https://leetcode.com/problems/isomorphic-strings/
