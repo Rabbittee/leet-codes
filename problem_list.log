@@ -53,3 +53,4 @@
 52,105,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,2021-09-08,Construct Binary Tree from Preorder and Inorder Traversal,Medium,Array;Hash Table;Divide and Conquer;Tree;Binary Tree
 53,66,https://leetcode.com/problems/plus-one/,2021-09-09,Plus One,Easy,Array;Math
 54,155,https://leetcode.com/problems/min-stack/,2021-09-10,Min Stack,Easy,Stack;Design
+55,150,https://leetcode.com/problems/evaluate-reverse-polish-notation/,2021-09-11,Evaluate Reverse Polish Notation,Medium,Array;Math;Stack
