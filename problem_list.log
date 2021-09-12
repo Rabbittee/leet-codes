@@ -54,3 +54,4 @@
 53,66,https://leetcode.com/problems/plus-one/,2021-09-09,Plus One,Easy,Array;Math
 54,155,https://leetcode.com/problems/min-stack/,2021-09-10,Min Stack,Easy,Stack;Design
 55,150,https://leetcode.com/problems/evaluate-reverse-polish-notation/,2021-09-11,Evaluate Reverse Polish Notation,Medium,Array;Math;Stack
+56,227,https://leetcode.com/problems/basic-calculator-ii/,2021-09-12,Basic Calculator II,Medium,Math;String;Stack

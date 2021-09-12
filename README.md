@@ -59,13 +59,14 @@
 | 047 | [160][0160] | [Intersection of Two Linked Lists](<./2021-09/2021-09-03%20(day47)>) | ![Easy][Easy] | Hash Table; Linked List; Two Pointers | 
 | 048 | [205][0205] | [Isomorphic Strings](<./2021-09/2021-09-04%20(day48)>) | ![Easy][Easy] | Hash Table; String | 
 | 049 | [290][0290] | [Word Pattern](<./2021-09/2021-09-05%20(day49)>) | ![Easy][Easy] | Hash Table; String | 
-|  |  | Week 8<br>(2021-09-06 ~ ) | 
+|  |  | Week 8<br>(2021-09-06 ~ 2021-09-12) | 
 | 050 | [169][0169] | [Majority Element](<./2021-09/2021-09-06%20(day50)>) | ![Easy][Easy] | Array; Hash Table; Divide and Conquer; Sorting; Counting | 
 | 051 | [350][0350] | [Intersection of Two Arrays II](<./2021-09/2021-09-07%20(day51)>) | ![Easy][Easy] | Array; Hash Table; Two Pointers; Binary Search; Sorting | 
 | 052 | [105][0105] | [Construct Binary Tree from Preorder and Inorder Traversal](<./2021-09/2021-09-08%20(day52)>) | ![Medium][Medium] | Array; Hash Table; Divide and Conquer; Tree; Binary Tree | 
 | 053 | [66][0066] | [Plus One](<./2021-09/2021-09-09%20(day53)>) | ![Easy][Easy] | Array; Math | 
 | 054 | [155][0155] | [Min Stack](<./2021-09/2021-09-10%20(day54)>) | ![Easy][Easy] | Stack; Design | 
 | 055 | [150][0150] | [Evaluate Reverse Polish Notation](<./2021-09/2021-09-11%20(day55)>) | ![Medium][Medium] | Array; Math; Stack | 
+| 056 | [227][0227] | [Basic Calculator II](<./2021-09/2021-09-12%20(day56)>) | ![Medium][Medium] | Math; String; Stack | 
 
 
 
@@ -75,7 +76,7 @@
 
 ![](https://img.shields.io/badge/Easy-34-brightgreen)
 
-![](https://img.shields.io/badge/Medium-17-orange)
+![](https://img.shields.io/badge/Medium-18-orange)
 
 ![](https://img.shields.io/badge/Hard-3-red)
 
@@ -124,6 +125,7 @@
 [0169]: https://leetcode.com/problems/majority-element/
 [0205]: https://leetcode.com/problems/isomorphic-strings/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[0227]: https://leetcode.com/problems/basic-calculator-ii/
 [0242]: https://leetcode.com/problems/valid-anagram/
 [0268]: https://leetcode.com/problems/missing-number/
 [0287]: https://leetcode.com/problems/find-the-duplicate-number/
