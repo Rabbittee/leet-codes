@@ -67,6 +67,8 @@
 | 054 | [155][0155] | [Min Stack](<./2021-09/2021-09-10%20(day54)>) | ![Easy][Easy] | Stack; Design | 
 | 055 | [150][0150] | [Evaluate Reverse Polish Notation](<./2021-09/2021-09-11%20(day55)>) | ![Medium][Medium] | Array; Math; Stack | 
 | 056 | [227][0227] | [Basic Calculator II](<./2021-09/2021-09-12%20(day56)>) | ![Medium][Medium] | Math; String; Stack | 
+|  |  | Week 9<br>(2021-09-13 ~ ) | 
+| 057 | [1802][1802] | [Number of Students Unable to Eat Lunch](<./2021-09/2021-09-13%20(day57)>) | ![Easy][Easy] | Array; Stack; Queue; Simulation | 
 
 
 
@@ -74,7 +76,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-34-brightgreen)
+![](https://img.shields.io/badge/Easy-35-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-18-orange)
 
@@ -137,6 +139,7 @@
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
 [1086]: https://leetcode.com/problems/divisor-game/
+[1802]: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
 [Medium]: https://img.shields.io/badge/-Medium-orange
