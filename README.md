@@ -69,6 +69,7 @@
 | 056 | [227][0227] | [Basic Calculator II](<./2021-09/2021-09-12%20(day56)>) | ![Medium][Medium] | Math; String; Stack | 
 |  |  | Week 9<br>(2021-09-13 ~ ) | 
 | 057 | [1802][1802] | [Number of Students Unable to Eat Lunch](<./2021-09/2021-09-13%20(day57)>) | ![Easy][Easy] | Array; Stack; Queue; Simulation | 
+| 058 | [234][0234] | [Palindrome Linked List](<./2021-09/2021-09-14%20(day58)>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
 
 
 
@@ -76,7 +77,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-35-brightgreen)
+![](https://img.shields.io/badge/Easy-36-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-18-orange)
 
@@ -128,6 +129,7 @@
 [0205]: https://leetcode.com/problems/isomorphic-strings/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [0227]: https://leetcode.com/problems/basic-calculator-ii/
+[0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0242]: https://leetcode.com/problems/valid-anagram/
 [0268]: https://leetcode.com/problems/missing-number/
 [0287]: https://leetcode.com/problems/find-the-duplicate-number/

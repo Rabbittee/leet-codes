@@ -56,3 +56,4 @@
 55,150,https://leetcode.com/problems/evaluate-reverse-polish-notation/,2021-09-11,Evaluate Reverse Polish Notation,Medium,Array;Math;Stack
 56,227,https://leetcode.com/problems/basic-calculator-ii/,2021-09-12,Basic Calculator II,Medium,Math;String;Stack
 57,1802,https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/,2021-09-13,Number of Students Unable to Eat Lunch,Easy,Array;Stack;Queue;Simulation
+58,234,https://leetcode.com/problems/palindrome-linked-list/,2021-09-14,Palindrome Linked List,Easy,Linked List;Two Pointers;Stack;Recursion
