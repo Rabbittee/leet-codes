@@ -70,6 +70,7 @@
 |  |  | Week 9<br>(2021-09-13 ~ ) | 
 | 057 | [1802][1802] | [Number of Students Unable to Eat Lunch](<./2021-09/2021-09-13%20(day57)>) | ![Easy][Easy] | Array; Stack; Queue; Simulation | 
 | 058 | [234][0234] | [Palindrome Linked List](<./2021-09/2021-09-14%20(day58)>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
+| 059 | [71][0071] | [Simplify Path](<./2021-09/2021-09-15%20(day59)>) | ![Medium][Medium] | String; Stack | 
 
 
 
@@ -79,7 +80,7 @@
 
 ![](https://img.shields.io/badge/Easy-36-brightgreen)
 
-![](https://img.shields.io/badge/Medium-18-orange)
+![](https://img.shields.io/badge/Medium-19-orange)
 
 ![](https://img.shields.io/badge/Hard-3-red)
 
@@ -107,6 +108,7 @@
 [0064]: https://leetcode.com/problems/minimum-path-sum/
 [0066]: https://leetcode.com/problems/plus-one/
 [0070]: https://leetcode.com/problems/climbing-stairs/
+[0071]: https://leetcode.com/problems/simplify-path/
 [0083]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [0094]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [0098]: https://leetcode.com/problems/validate-binary-search-tree/
