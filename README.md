@@ -71,7 +71,7 @@
 | 057 | [1802][1802] | [Number of Students Unable to Eat Lunch](<./2021-09/2021-09-13%20(day57)>) | ![Easy][Easy] | Array; Stack; Queue; Simulation | 
 | 058 | [234][0234] | [Palindrome Linked List](<./2021-09/2021-09-14%20(day58)>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
 | 059 | [71][0071] | [Simplify Path](<./2021-09/2021-09-15%20(day59)>) | ![Medium][Medium] | String; Stack | 
-| 060 | [969][0969] | [Number of Recent Calls](<./2021-09/2021-09-16%20(day60)>) | ![Easy][Easy] | Design; Queue; Data Stream | 
+| 060 | [28][0028] | [Implement strStr()](<./2021-09/2021-09-16%20(day60)>) | ![Easy][Easy] | Two Pointers; String; String Matching | 
 
 
 
@@ -101,6 +101,7 @@
 [0022]: https://leetcode.com/problems/generate-parentheses/
 [0023]: https://leetcode.com/problems/merge-k-sorted-lists/
 [0026]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[0028]: https://leetcode.com/problems/implement-strstr/
 [0035]: https://leetcode.com/problems/search-insert-position/
 [0045]: https://leetcode.com/problems/jump-game-ii/
 [0048]: https://leetcode.com/problems/rotate-image/
@@ -142,7 +143,6 @@
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
-[0969]: https://leetcode.com/problems/number-of-recent-calls/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
 [1086]: https://leetcode.com/problems/divisor-game/
 [1802]: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
