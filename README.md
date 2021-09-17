@@ -72,6 +72,7 @@
 | 058 | [234][0234] | [Palindrome Linked List](<./2021-09/2021-09-14%20(day58)>) | ![Easy][Easy] | Linked List; Two Pointers; Stack; Recursion | 
 | 059 | [71][0071] | [Simplify Path](<./2021-09/2021-09-15%20(day59)>) | ![Medium][Medium] | String; Stack | 
 | 060 | [28][0028] | [Implement strStr()](<./2021-09/2021-09-16%20(day60)>) | ![Easy][Easy] | Two Pointers; String; String Matching | 
+| 061 | [168][0168] | [Excel Sheet Column Title](<./2021-09/2021-09-17%20(day61)>) | ![Easy][Easy] | Math; String | 
 
 
 
@@ -79,7 +80,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-37-brightgreen)
+![](https://img.shields.io/badge/Easy-38-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-19-orange)
 
@@ -129,6 +130,7 @@
 [0150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [0155]: https://leetcode.com/problems/min-stack/
 [0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[0168]: https://leetcode.com/problems/excel-sheet-column-title/
 [0169]: https://leetcode.com/problems/majority-element/
 [0205]: https://leetcode.com/problems/isomorphic-strings/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
