@@ -8,7 +8,9 @@ var convertToTitle = function(columnNumber) {
         
         answerStr = String.fromCharCode(pushNumber + 64) + answerStr;
         
-        columnNumber = columnNumber - pushNumber;
+        if (pushNumber === 26) {
+            columnNumber = columnNumber - 26;   
+        }
         
         columnNumber = Math.trunc((columnNumber) / 26);
         
