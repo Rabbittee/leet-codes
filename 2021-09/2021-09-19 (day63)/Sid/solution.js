@@ -64,25 +64,3 @@ function MyCircularQueue(k) {
     isFull,
   }
 }
-
-/**
- * Your MyCircularQueue object will be instantiated and called as such:
- * var obj = new MyCircularQueue(k)
- * var param_1 = obj.enQueue(value)
- * var param_2 = obj.deQueue()
- * var param_3 = obj.Front()
- * var param_4 = obj.Rear()
- * var param_5 = obj.isEmpty()
- * var param_6 = obj.isFull()
- */
-
-var circularQueue = new MyCircularQueue(3) // 設置長度為 3
-console.log('true : ', circularQueue.enQueue(1)) // 返回 true
-console.log('true : ', circularQueue.enQueue(2)) // 返回 true
-console.log('true : ', circularQueue.enQueue(3)) // 返回 true
-console.log('false : ', circularQueue.enQueue(4)) // 隊列已滿返回 false
-console.log('3 : ', circularQueue.Rear()) // 返回 3
-console.log('true : ', circularQueue.isFull()) // 返回 true
-console.log('true : ', circularQueue.deQueue()) // 返回 true
-console.log('true : ', circularQueue.enQueue(4)) // 返回 true
-console.log('4 : ', circularQueue.Rear()) // 返回 4
