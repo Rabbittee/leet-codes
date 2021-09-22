@@ -77,6 +77,7 @@
 | 063 | [860][0860] | [Design Circular Queue](<./2021-09/2021-09-19%20(day63)>) | ![Medium][Medium] | Array; Linked List; Design; Queue | 
 |  |  | Week 10<br>(2021-09-20 ~ ) | 
 | 064 | [239][0239] | [Sliding Window Maximum](<./2021-09/2021-09-20%20(day64)>) | ![Hard][Hard] | Array; Queue; Sliding Window; Heap (Priority Queue); Monotonic Queue | 
+| 065 | [338][0338] | [Counting Bits](<./2021-09/2021-09-22%20(day65)>) | ![Easy][Easy] | Dynamic Programming; Bit Manipulation | 
 
 
 
@@ -84,7 +85,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-39-brightgreen)
+![](https://img.shields.io/badge/Easy-40-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-20-orange)
 
@@ -146,6 +147,7 @@
 [0287]: https://leetcode.com/problems/find-the-duplicate-number/
 [0290]: https://leetcode.com/problems/word-pattern/
 [0326]: https://leetcode.com/problems/power-of-three/
+[0338]: https://leetcode.com/problems/counting-bits/
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
