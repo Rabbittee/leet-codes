@@ -6,11 +6,11 @@
 var isSubsequence = function(s, t) {
     // use queue to store the s string
     let queue = s.split("");
-    let compareElement = queue.shift("");
+    let compareElement = queue.shift();
     
     for (let i = 0 ; i < t.length ; i++) {
         if (compareElement === t[i]) {
-            compareElement = queue.shift("");
+            compareElement = queue.shift();
         }
     }
     // if queue is empty and final compareElement is be compared
