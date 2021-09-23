@@ -78,6 +78,7 @@
 |  |  | Week 10<br>(2021-09-20 ~ ) | 
 | 064 | [239][0239] | [Sliding Window Maximum](<./2021-09/2021-09-20%20(day64)>) | ![Hard][Hard] | Array; Queue; Sliding Window; Heap (Priority Queue); Monotonic Queue | 
 | 065 | [338][0338] | [Counting Bits](<./2021-09/2021-09-22%20(day65)>) | ![Easy][Easy] | Dynamic Programming; Bit Manipulation | 
+| 066 | [392][0392] | [Is Subsequence](<./2021-09/2021-09-23%20(day66)>) | ![Easy][Easy] | Two Pointers; String; Dynamic Programming | 
 
 
 
@@ -85,7 +86,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-40-brightgreen)
+![](https://img.shields.io/badge/Easy-41-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-20-orange)
 
@@ -151,6 +152,7 @@
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[0392]: https://leetcode.com/problems/is-subsequence/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [0860]: https://leetcode.com/problems/design-circular-queue/
 [0933]: https://leetcode.com/problems/number-of-recent-calls/

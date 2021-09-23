@@ -64,3 +64,4 @@
 63,860,https://leetcode.com/problems/design-circular-queue/,2021-09-19,Design Circular Queue,Medium,Array;Linked List;Design;Queue
 64,239,https://leetcode.com/problems/sliding-window-maximum/,2021-09-20,Sliding Window Maximum,Hard,Array;Queue;Sliding Window;Heap (Priority Queue);Monotonic Queue
 65,338,https://leetcode.com/problems/counting-bits/,2021-09-22,Counting Bits,Easy,Dynamic Programming;Bit Manipulation
+66,392,https://leetcode.com/problems/is-subsequence/,2021-09-23,Is Subsequence,Easy,Two Pointers;String;Dynamic Programming
