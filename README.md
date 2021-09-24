@@ -79,6 +79,7 @@
 | 064 | [239][0239] | [Sliding Window Maximum](<./2021-09/2021-09-20%20(day64)>) | ![Hard][Hard] | Array; Queue; Sliding Window; Heap (Priority Queue); Monotonic Queue | 
 | 065 | [338][0338] | [Counting Bits](<./2021-09/2021-09-22%20(day65)>) | ![Easy][Easy] | Dynamic Programming; Bit Manipulation | 
 | 066 | [392][0392] | [Is Subsequence](<./2021-09/2021-09-23%20(day66)>) | ![Easy][Easy] | Two Pointers; String; Dynamic Programming | 
+| 067 | [1769][1769] | [Get Maximum in Generated Array](<./2021-09/2021-09-24%20(day67)>) | ![Easy][Easy] | Array; Dynamic Programming; Simulation | 
 
 
 
@@ -86,7 +87,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-41-brightgreen)
+![](https://img.shields.io/badge/Easy-42-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-20-orange)
 
@@ -158,6 +159,7 @@
 [0933]: https://leetcode.com/problems/number-of-recent-calls/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
 [1086]: https://leetcode.com/problems/divisor-game/
+[1769]: https://leetcode.com/problems/get-maximum-in-generated-array/
 [1802]: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
