@@ -7,11 +7,13 @@ const recursive = (n) => {
     if (n <= 1) {
         return n;
     }
-    if (n % 2 === 0) {
-        return recursive(n/2);
-    }
     
     let halfElement = Math.trunc(n/2);
+    
+    if (n % 2 === 0) {
+        return recursive(halfElement);
+    }
+    
     return recursive(halfElement) + recursive(halfElement + 1)
 };
 var getMaximumGenerated = function(n) {
@@ -25,5 +27,5 @@ var getMaximumGenerated = function(n) {
     return maxNum;
 };
 
-// Runtime: 72 ms, faster than 80.27% of JavaScript online submissions for Get Maximum in Generated Array.
-// Memory Usage: 38.7 MB, less than 78.92% of JavaScript online submissions for Get Maximum in Generated Array.
+// Runtime: 64 ms, faster than 99.10% of JavaScript online submissions for Get Maximum in Generated Array.
+// Memory Usage: 38.6 MB, less than 78.92% of JavaScript online submissions for Get Maximum in Generated Array.
