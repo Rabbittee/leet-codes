@@ -80,6 +80,7 @@
 | 065 | [338][0338] | [Counting Bits](<./2021-09/2021-09-22%20(day65)>) | ![Easy][Easy] | Dynamic Programming; Bit Manipulation | 
 | 066 | [392][0392] | [Is Subsequence](<./2021-09/2021-09-23%20(day66)>) | ![Easy][Easy] | Two Pointers; String; Dynamic Programming | 
 | 067 | [1769][1769] | [Get Maximum in Generated Array](<./2021-09/2021-09-24%20(day67)>) | ![Easy][Easy] | Array; Dynamic Programming; Simulation | 
+| 068 | [62][0062] | [Unique Paths](<./2021-09/2021-09-25%20(day68)>) | ![Medium][Medium] | Math; Dynamic Programming; Combinatorics | 
 
 
 
@@ -89,7 +90,7 @@
 
 ![](https://img.shields.io/badge/Easy-42-brightgreen)
 
-![](https://img.shields.io/badge/Medium-20-orange)
+![](https://img.shields.io/badge/Medium-21-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -115,6 +116,7 @@
 [0048]: https://leetcode.com/problems/rotate-image/
 [0049]: https://leetcode.com/problems/group-anagrams/
 [0055]: https://leetcode.com/problems/jump-game/
+[0062]: https://leetcode.com/problems/unique-paths/
 [0064]: https://leetcode.com/problems/minimum-path-sum/
 [0066]: https://leetcode.com/problems/plus-one/
 [0070]: https://leetcode.com/problems/climbing-stairs/
