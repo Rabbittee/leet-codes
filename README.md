@@ -81,6 +81,7 @@
 | 066 | [392][0392] | [Is Subsequence](<./2021-09/2021-09-23%20(day66)>) | ![Easy][Easy] | Two Pointers; String; Dynamic Programming | 
 | 067 | [1769][1769] | [Get Maximum in Generated Array](<./2021-09/2021-09-24%20(day67)>) | ![Easy][Easy] | Array; Dynamic Programming; Simulation | 
 | 068 | [62][0062] | [Unique Paths](<./2021-09/2021-09-25%20(day68)>) | ![Medium][Medium] | Math; Dynamic Programming; Combinatorics | 
+| 069 | [120][0120] | [Triangle](<./2021-09/2021-09-26%20(day69)>) | ![Medium][Medium] | Array; Dynamic Programming | 
 
 
 
@@ -90,7 +91,7 @@
 
 ![](https://img.shields.io/badge/Easy-42-brightgreen)
 
-![](https://img.shields.io/badge/Medium-21-orange)
+![](https://img.shields.io/badge/Medium-22-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -130,6 +131,7 @@
 [0105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [0118]: https://leetcode.com/problems/pascals-triangle/
 [0119]: https://leetcode.com/problems/pascals-triangle-ii/
+[0120]: https://leetcode.com/problems/triangle/
 [0121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [0122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [0123]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/

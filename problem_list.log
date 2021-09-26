@@ -67,3 +67,4 @@
 66,392,https://leetcode.com/problems/is-subsequence/,2021-09-23,Is Subsequence,Easy,Two Pointers;String;Dynamic Programming
 67,1769,https://leetcode.com/problems/get-maximum-in-generated-array/,2021-09-24,Get Maximum in Generated Array,Easy,Array;Dynamic Programming;Simulation
 68,62,https://leetcode.com/problems/unique-paths/,2021-09-25,Unique Paths,Medium,Math;Dynamic Programming;Combinatorics
+69,120,https://leetcode.com/problems/triangle/,2021-09-26,Triangle,Medium,Array;Dynamic Programming
