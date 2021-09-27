@@ -75,13 +75,14 @@
 | 061 | [168][0168] | [Excel Sheet Column Title](<./2021-09/2021-09-17%20(day61)>) | ![Easy][Easy] | Math; String | 
 | 062 | [933][0933] | [Number of Recent Calls](<./2021-09/2021-09-18%20(day62)>) | ![Easy][Easy] | Design;  Queue;  Data Stream | 
 | 063 | [860][0860] | [Design Circular Queue](<./2021-09/2021-09-19%20(day63)>) | ![Medium][Medium] | Array; Linked List; Design; Queue | 
-|  |  | Week 10<br>(2021-09-20 ~ ) | 
+|  |  | Week 10<br>(2021-09-20 ~ 2021-09-27) | 
 | 064 | [239][0239] | [Sliding Window Maximum](<./2021-09/2021-09-20%20(day64)>) | ![Hard][Hard] | Array; Queue; Sliding Window; Heap (Priority Queue); Monotonic Queue | 
 | 065 | [338][0338] | [Counting Bits](<./2021-09/2021-09-22%20(day65)>) | ![Easy][Easy] | Dynamic Programming; Bit Manipulation | 
 | 066 | [392][0392] | [Is Subsequence](<./2021-09/2021-09-23%20(day66)>) | ![Easy][Easy] | Two Pointers; String; Dynamic Programming | 
 | 067 | [1769][1769] | [Get Maximum in Generated Array](<./2021-09/2021-09-24%20(day67)>) | ![Easy][Easy] | Array; Dynamic Programming; Simulation | 
 | 068 | [62][0062] | [Unique Paths](<./2021-09/2021-09-25%20(day68)>) | ![Medium][Medium] | Math; Dynamic Programming; Combinatorics | 
 | 069 | [120][0120] | [Triangle](<./2021-09/2021-09-26%20(day69)>) | ![Medium][Medium] | Array; Dynamic Programming | 
+| 070 | [53][0053] | [Maximum Subarray](<./2021-09/2021-09-27%20(day70)>) | ![Easy][Easy] | Array; Divide and Conquer; Dynamic Programming | 
 
 
 
@@ -89,7 +90,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-42-brightgreen)
+![](https://img.shields.io/badge/Easy-43-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-22-orange)
 
@@ -116,6 +117,7 @@
 [0045]: https://leetcode.com/problems/jump-game-ii/
 [0048]: https://leetcode.com/problems/rotate-image/
 [0049]: https://leetcode.com/problems/group-anagrams/
+[0053]: https://leetcode.com/problems/maximum-subarray/
 [0055]: https://leetcode.com/problems/jump-game/
 [0062]: https://leetcode.com/problems/unique-paths/
 [0064]: https://leetcode.com/problems/minimum-path-sum/
