@@ -69,3 +69,4 @@
 68,62,https://leetcode.com/problems/unique-paths/,2021-09-25,Unique Paths,Medium,Math;Dynamic Programming;Combinatorics
 69,120,https://leetcode.com/problems/triangle/,2021-09-26,Triangle,Medium,Array;Dynamic Programming
 70,53,https://leetcode.com/problems/maximum-subarray/,2021-09-27,Maximum Subarray,Easy,Array;Divide and Conquer;Dynamic Programming
+71,561,https://leetcode.com/problems/array-partition-i/,2021-09-28,Array Partition I,Easy,Array;Greedy;Sorting;Counting Sort

@@ -83,6 +83,8 @@
 | 068 | [62][0062] | [Unique Paths](<./2021-09/2021-09-25%20(day68)>) | ![Medium][Medium] | Math; Dynamic Programming; Combinatorics | 
 | 069 | [120][0120] | [Triangle](<./2021-09/2021-09-26%20(day69)>) | ![Medium][Medium] | Array; Dynamic Programming | 
 | 070 | [53][0053] | [Maximum Subarray](<./2021-09/2021-09-27%20(day70)>) | ![Easy][Easy] | Array; Divide and Conquer; Dynamic Programming | 
+|  |  | Week 11<br>(2021-09-28 ~ ) | 
+| 071 | [561][0561] | [Array Partition I](<./2021-09/2021-09-28%20(day71)>) | ![Easy][Easy] | Array; Greedy; Sorting; Counting Sort | 
 
 
 
@@ -90,7 +92,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-43-brightgreen)
+![](https://img.shields.io/badge/Easy-44-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-22-orange)
 
@@ -160,6 +162,7 @@
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [0392]: https://leetcode.com/problems/is-subsequence/
+[0561]: https://leetcode.com/problems/array-partition-i/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [0860]: https://leetcode.com/problems/design-circular-queue/
 [0933]: https://leetcode.com/problems/number-of-recent-calls/
