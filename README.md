@@ -85,6 +85,7 @@
 | 070 | [53][0053] | [Maximum Subarray](<./2021-09/2021-09-27%20(day70)>) | ![Easy][Easy] | Array; Divide and Conquer; Dynamic Programming | 
 |  |  | Week 11<br>(2021-09-28 ~ ) | 
 | 071 | [561][0561] | [Array Partition I](<./2021-09/2021-09-28%20(day71)>) | ![Easy][Easy] | Array; Greedy; Sorting; Counting Sort | 
+| 072 | [46][0046] | [Permutations](<./2021-09/2021-09-29%20(day72)>) | ![Medium][Medium] | Array; Backtracking | 
 
 
 
@@ -94,7 +95,7 @@
 
 ![](https://img.shields.io/badge/Easy-44-brightgreen)
 
-![](https://img.shields.io/badge/Medium-22-orange)
+![](https://img.shields.io/badge/Medium-23-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -117,6 +118,7 @@
 [0028]: https://leetcode.com/problems/implement-strstr/
 [0035]: https://leetcode.com/problems/search-insert-position/
 [0045]: https://leetcode.com/problems/jump-game-ii/
+[0046]: https://leetcode.com/problems/permutations/
 [0048]: https://leetcode.com/problems/rotate-image/
 [0049]: https://leetcode.com/problems/group-anagrams/
 [0053]: https://leetcode.com/problems/maximum-subarray/
