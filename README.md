@@ -86,6 +86,7 @@
 |  |  | Week 11<br>(2021-09-28 ~ ) | 
 | 071 | [561][0561] | [Array Partition I](<./2021-09/2021-09-28%20(day71)>) | ![Easy][Easy] | Array; Greedy; Sorting; Counting Sort | 
 | 072 | [46][0046] | [Permutations](<./2021-09/2021-09-29%20(day72)>) | ![Medium][Medium] | Array; Backtracking | 
+| 073 | [800][0800] | [Letter Case Permutation](<./2021-09/2021-09-30%20(day73)>) | ![Medium][Medium] | String; Backtracking; Bit Manipulation | 
 
 
 
@@ -95,7 +96,7 @@
 
 ![](https://img.shields.io/badge/Easy-44-brightgreen)
 
-![](https://img.shields.io/badge/Medium-23-orange)
+![](https://img.shields.io/badge/Medium-24-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -166,6 +167,7 @@
 [0392]: https://leetcode.com/problems/is-subsequence/
 [0561]: https://leetcode.com/problems/array-partition-i/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[0800]: https://leetcode.com/problems/letter-case-permutation/
 [0860]: https://leetcode.com/problems/design-circular-queue/
 [0933]: https://leetcode.com/problems/number-of-recent-calls/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
