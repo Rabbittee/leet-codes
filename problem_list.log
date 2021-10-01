@@ -72,3 +72,4 @@
 71,561,https://leetcode.com/problems/array-partition-i/,2021-09-28,Array Partition I,Easy,Array;Greedy;Sorting;Counting Sort
 72,46,https://leetcode.com/problems/permutations/,2021-09-29,Permutations,Medium,Array;Backtracking
 73,800,https://leetcode.com/problems/letter-case-permutation/,2021-09-30,Letter Case Permutation,Medium,String;Backtracking;Bit Manipulation
+74,813,https://leetcode.com/problems/all-paths-from-source-to-target/,2021-10-01,All Paths From Source to Target,Medium,Backtracking;Depth-First Search;Breadth-First Search;Graph
