@@ -83,13 +83,14 @@
 | 068 | [62][0062] | [Unique Paths](<./2021-09/2021-09-25%20(day68)>) | ![Medium][Medium] | Math; Dynamic Programming; Combinatorics | 
 | 069 | [120][0120] | [Triangle](<./2021-09/2021-09-26%20(day69)>) | ![Medium][Medium] | Array; Dynamic Programming | 
 | 070 | [53][0053] | [Maximum Subarray](<./2021-09/2021-09-27%20(day70)>) | ![Easy][Easy] | Array; Divide and Conquer; Dynamic Programming | 
-|  |  | Week 11<br>(2021-09-28 ~ ) | 
+|  |  | Week 11<br>(2021-09-28 ~ 2021-10-04) | 
 | 071 | [561][0561] | [Array Partition I](<./2021-09/2021-09-28%20(day71)>) | ![Easy][Easy] | Array; Greedy; Sorting; Counting Sort | 
 | 072 | [46][0046] | [Permutations](<./2021-09/2021-09-29%20(day72)>) | ![Medium][Medium] | Array; Backtracking | 
 | 073 | [800][0800] | [Letter Case Permutation](<./2021-09/2021-09-30%20(day73)>) | ![Medium][Medium] | String; Backtracking; Bit Manipulation | 
 | 074 | [813][0813] | [All Paths From Source to Target](<./2021-10/2021-10-01%20(day74)>) | ![Medium][Medium] | Backtracking; Depth-First Search; Breadth-First Search; Graph | 
 | 075 | [1160][1160] | [Letter Tile Possibilities](<./2021-10/2021-10-02%20(day75)>) | ![Medium][Medium] | String; Backtracking | 
 | 076 | [1211][1211] | [Iterator for Combination](<./2021-10/2021-10-03%20(day76)>) | ![Medium][Medium] | String; Backtracking; Design; Iterator | 
+| 077 | [1516][1516] | [The k-th Lexicographical String of All Happy Strings of Length n](<./2021-10/2021-10-04%20(day77)>) | ![Medium][Medium] | String; Backtracking | 
 
 
 
@@ -99,7 +100,7 @@
 
 ![](https://img.shields.io/badge/Easy-44-brightgreen)
 
-![](https://img.shields.io/badge/Medium-27-orange)
+![](https://img.shields.io/badge/Medium-28-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -178,6 +179,7 @@
 [1086]: https://leetcode.com/problems/divisor-game/
 [1160]: https://leetcode.com/problems/letter-tile-possibilities/
 [1211]: https://leetcode.com/problems/iterator-for-combination/
+[1516]: https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 [1769]: https://leetcode.com/problems/get-maximum-in-generated-array/
 [1802]: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 

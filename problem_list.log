@@ -75,3 +75,4 @@
 74,813,https://leetcode.com/problems/all-paths-from-source-to-target/,2021-10-01,All Paths From Source to Target,Medium,Backtracking;Depth-First Search;Breadth-First Search;Graph
 75,1160,https://leetcode.com/problems/letter-tile-possibilities/,2021-10-02,Letter Tile Possibilities,Medium,String;Backtracking
 76,1211,https://leetcode.com/problems/iterator-for-combination/,2021-10-03,Iterator for Combination,Medium,String;Backtracking;Design;Iterator
+77,1516,https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/,2021-10-04,The k-th Lexicographical String of All Happy Strings of Length n,Medium,String;Backtracking
