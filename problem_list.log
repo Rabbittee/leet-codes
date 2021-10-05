@@ -76,3 +76,4 @@
 75,1160,https://leetcode.com/problems/letter-tile-possibilities/,2021-10-02,Letter Tile Possibilities,Medium,String;Backtracking
 76,1211,https://leetcode.com/problems/iterator-for-combination/,2021-10-03,Iterator for Combination,Medium,String;Backtracking;Design;Iterator
 77,1516,https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/,2021-10-04,The k-th Lexicographical String of All Happy Strings of Length n,Medium,String;Backtracking
+78,455,https://leetcode.com/problems/assign-cookies/,2021-10-05,Assign Cookies,Easy,Array;Greedy;Sorting
