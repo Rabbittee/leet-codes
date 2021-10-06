@@ -93,6 +93,7 @@
 | 077 | [1516][1516] | [The k-th Lexicographical String of All Happy Strings of Length n](<./2021-10/2021-10-04%20(day77)>) | ![Medium][Medium] | String; Backtracking | 
 |  |  | Week 12<br>(2021-10-05 ~ ) | 
 | 078 | [455][0455] | [Assign Cookies](<./2021-10/2021-10-05%20(day78)>) | ![Easy][Easy] | Array; Greedy; Sorting | 
+| 079 | [605][0605] | [Can Place Flowers](<./2021-10/2021-10-06%20(day79)>) | ![Easy][Easy] | Array; Greedy | 
 
 
 
@@ -100,7 +101,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-45-brightgreen)
+![](https://img.shields.io/badge/Easy-46-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-28-orange)
 
@@ -173,6 +174,7 @@
 [0392]: https://leetcode.com/problems/is-subsequence/
 [0455]: https://leetcode.com/problems/assign-cookies/
 [0561]: https://leetcode.com/problems/array-partition-i/
+[0605]: https://leetcode.com/problems/can-place-flowers/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [0800]: https://leetcode.com/problems/letter-case-permutation/
 [0813]: https://leetcode.com/problems/all-paths-from-source-to-target/
