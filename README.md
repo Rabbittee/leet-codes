@@ -94,6 +94,7 @@
 |  |  | Week 12<br>(2021-10-05 ~ ) | 
 | 078 | [455][0455] | [Assign Cookies](<./2021-10/2021-10-05%20(day78)>) | ![Easy][Easy] | Array; Greedy; Sorting | 
 | 079 | [605][0605] | [Can Place Flowers](<./2021-10/2021-10-06%20(day79)>) | ![Easy][Easy] | Array; Greedy | 
+| 080 | [409][0409] | [Longest Palindrome](<./2021-10/2021-10-07%20(day80)>) | ![Easy][Easy] | Hash Table; String; Greedy | 
 
 
 
@@ -101,7 +102,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-46-brightgreen)
+![](https://img.shields.io/badge/Easy-47-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-28-orange)
 
@@ -172,6 +173,7 @@
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [0392]: https://leetcode.com/problems/is-subsequence/
+[0409]: https://leetcode.com/problems/longest-palindrome/
 [0455]: https://leetcode.com/problems/assign-cookies/
 [0561]: https://leetcode.com/problems/array-partition-i/
 [0605]: https://leetcode.com/problems/can-place-flowers/

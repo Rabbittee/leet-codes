@@ -78,3 +78,4 @@
 77,1516,https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/,2021-10-04,The k-th Lexicographical String of All Happy Strings of Length n,Medium,String;Backtracking
 78,455,https://leetcode.com/problems/assign-cookies/,2021-10-05,Assign Cookies,Easy,Array;Greedy;Sorting
 79,605,https://leetcode.com/problems/can-place-flowers/,2021-10-06,Can Place Flowers,Easy,Array;Greedy
+80,409,https://leetcode.com/problems/longest-palindrome/,2021-10-07,Longest Palindrome,Easy,Hash Table;String;Greedy
