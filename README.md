@@ -95,6 +95,7 @@
 | 078 | [455][0455] | [Assign Cookies](<./2021-10/2021-10-05%20(day78)>) | ![Easy][Easy] | Array; Greedy; Sorting | 
 | 079 | [605][0605] | [Can Place Flowers](<./2021-10/2021-10-06%20(day79)>) | ![Easy][Easy] | Array; Greedy | 
 | 080 | [409][0409] | [Longest Palindrome](<./2021-10/2021-10-07%20(day80)>) | ![Easy][Easy] | Hash Table; String; Greedy | 
+| 081 | [1341][1341] | [Split a String in Balanced Strings](<./2021-10/2021-10-08%20(day81)>) | ![Easy][Easy] | String; Greedy; Counting | 
 
 
 
@@ -102,7 +103,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-47-brightgreen)
+![](https://img.shields.io/badge/Easy-48-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-28-orange)
 
@@ -186,6 +187,7 @@
 [1086]: https://leetcode.com/problems/divisor-game/
 [1160]: https://leetcode.com/problems/letter-tile-possibilities/
 [1211]: https://leetcode.com/problems/iterator-for-combination/
+[1341]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
 [1516]: https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 [1769]: https://leetcode.com/problems/get-maximum-in-generated-array/
 [1802]: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
