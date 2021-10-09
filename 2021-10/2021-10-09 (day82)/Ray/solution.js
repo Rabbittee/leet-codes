@@ -1,3 +1,4 @@
+// method 1
 var maxArea = function(height) {
     let maxContains = 0;
     let containsLength = height.length;
@@ -23,6 +24,32 @@ var maxArea = function(height) {
                 maxContains = tmpContains;
             }
         }
+    }
+    
+    return maxContains;
+};
+
+// method 2 (Better)
+var maxArea = function(height) {
+    
+    let left = 0;
+    let right = height.length - 1;
+    let maxContains = 0;
+    
+    while(left < right) {
+        let lowerSide = height[left] > height[right] ? height[right] : height[left];
+        let tmpContains = (right - left) * lowerSide;
+        maxContains = tmpContains > maxContains ? tmpContains : maxContains;
+        
+        if (height[left] <= height[right]) {
+            left++;
+            continue;
+        }
+        if (height[left] > height[right]) {
+            right--;
+            continue;
+        }
+       
     }
     
     return maxContains;
