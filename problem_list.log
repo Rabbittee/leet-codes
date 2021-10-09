@@ -80,3 +80,4 @@
 79,605,https://leetcode.com/problems/can-place-flowers/,2021-10-06,Can Place Flowers,Easy,Array;Greedy
 80,409,https://leetcode.com/problems/longest-palindrome/,2021-10-07,Longest Palindrome,Easy,Hash Table;String;Greedy
 81,1341,https://leetcode.com/problems/split-a-string-in-balanced-strings/,2021-10-08,Split a String in Balanced Strings,Easy,String;Greedy;Counting
+82,11,https://leetcode.com/problems/container-with-most-water/,2021-10-09,Container With Most Water,Medium,Array;Two Pointers;Greedy

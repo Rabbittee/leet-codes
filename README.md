@@ -96,6 +96,7 @@
 | 079 | [605][0605] | [Can Place Flowers](<./2021-10/2021-10-06%20(day79)>) | ![Easy][Easy] | Array; Greedy | 
 | 080 | [409][0409] | [Longest Palindrome](<./2021-10/2021-10-07%20(day80)>) | ![Easy][Easy] | Hash Table; String; Greedy | 
 | 081 | [1341][1341] | [Split a String in Balanced Strings](<./2021-10/2021-10-08%20(day81)>) | ![Easy][Easy] | String; Greedy; Counting | 
+| 082 | [11][0011] | [Container With Most Water](<./2021-10/2021-10-09%20(day82)>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
 
 
 
@@ -105,7 +106,7 @@
 
 ![](https://img.shields.io/badge/Easy-48-brightgreen)
 
-![](https://img.shields.io/badge/Medium-28-orange)
+![](https://img.shields.io/badge/Medium-29-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -118,6 +119,7 @@
 [0005]: https://leetcode.com/problems/longest-palindromic-substring/
 [0007]: https://leetcode.com/problems/reverse-integer/
 [0009]: https://leetcode.com/problems/palindrome-number/
+[0011]: https://leetcode.com/problems/container-with-most-water/
 [0012]: https://leetcode.com/problems/integer-to-roman/
 [0013]: https://leetcode.com/problems/roman-to-integer/
 [0020]: https://leetcode.com/problems/valid-parentheses/
