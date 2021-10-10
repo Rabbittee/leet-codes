@@ -97,6 +97,7 @@
 | 080 | [409][0409] | [Longest Palindrome](<./2021-10/2021-10-07%20(day80)>) | ![Easy][Easy] | Hash Table; String; Greedy | 
 | 081 | [1341][1341] | [Split a String in Balanced Strings](<./2021-10/2021-10-08%20(day81)>) | ![Easy][Easy] | String; Greedy; Counting | 
 | 082 | [11][0011] | [Container With Most Water](<./2021-10/2021-10-09%20(day82)>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
+| 083 | [179][0179] | [Largest Number](<./2021-10/2021-10-10%20(day83)>) | ![Medium][Medium] | String; Greedy; Sorting | 
 
 
 
@@ -106,7 +107,7 @@
 
 ![](https://img.shields.io/badge/Easy-48-brightgreen)
 
-![](https://img.shields.io/badge/Medium-29-orange)
+![](https://img.shields.io/badge/Medium-30-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -161,6 +162,7 @@
 [0160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [0168]: https://leetcode.com/problems/excel-sheet-column-title/
 [0169]: https://leetcode.com/problems/majority-element/
+[0179]: https://leetcode.com/problems/largest-number/
 [0205]: https://leetcode.com/problems/isomorphic-strings/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [0227]: https://leetcode.com/problems/basic-calculator-ii/
