@@ -82,3 +82,4 @@
 81,1341,https://leetcode.com/problems/split-a-string-in-balanced-strings/,2021-10-08,Split a String in Balanced Strings,Easy,String;Greedy;Counting
 82,11,https://leetcode.com/problems/container-with-most-water/,2021-10-09,Container With Most Water,Medium,Array;Two Pointers;Greedy
 83,179,https://leetcode.com/problems/largest-number/,2021-10-10,Largest Number,Medium,String;Greedy;Sorting
+84,1062,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/,2021-10-12,Partition Array Into Three Parts With Equal Sum,Easy,Array;Greedy

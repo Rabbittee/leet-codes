@@ -91,13 +91,14 @@
 | 075 | [1160][1160] | [Letter Tile Possibilities](<./2021-10/2021-10-02%20(day75)>) | ![Medium][Medium] | String; Backtracking | 
 | 076 | [1211][1211] | [Iterator for Combination](<./2021-10/2021-10-03%20(day76)>) | ![Medium][Medium] | String; Backtracking; Design; Iterator | 
 | 077 | [1516][1516] | [The k-th Lexicographical String of All Happy Strings of Length n](<./2021-10/2021-10-04%20(day77)>) | ![Medium][Medium] | String; Backtracking | 
-|  |  | Week 12<br>(2021-10-05 ~ ) | 
+|  |  | Week 12<br>(2021-10-05 ~ 2021-10-12) | 
 | 078 | [455][0455] | [Assign Cookies](<./2021-10/2021-10-05%20(day78)>) | ![Easy][Easy] | Array; Greedy; Sorting | 
 | 079 | [605][0605] | [Can Place Flowers](<./2021-10/2021-10-06%20(day79)>) | ![Easy][Easy] | Array; Greedy | 
 | 080 | [409][0409] | [Longest Palindrome](<./2021-10/2021-10-07%20(day80)>) | ![Easy][Easy] | Hash Table; String; Greedy | 
 | 081 | [1341][1341] | [Split a String in Balanced Strings](<./2021-10/2021-10-08%20(day81)>) | ![Easy][Easy] | String; Greedy; Counting | 
 | 082 | [11][0011] | [Container With Most Water](<./2021-10/2021-10-09%20(day82)>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
 | 083 | [179][0179] | [Largest Number](<./2021-10/2021-10-10%20(day83)>) | ![Medium][Medium] | String; Greedy; Sorting | 
+| 084 | [1062][1062] | [Partition Array Into Three Parts With Equal Sum](<./2021-10/2021-10-12%20(day84)>) | ![Easy][Easy] | Array; Greedy | 
 
 
 
@@ -105,7 +106,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-48-brightgreen)
+![](https://img.shields.io/badge/Easy-49-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -188,6 +189,7 @@
 [0860]: https://leetcode.com/problems/design-circular-queue/
 [0933]: https://leetcode.com/problems/number-of-recent-calls/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
+[1062]: https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 [1086]: https://leetcode.com/problems/divisor-game/
 [1160]: https://leetcode.com/problems/letter-tile-possibilities/
 [1211]: https://leetcode.com/problems/iterator-for-combination/
