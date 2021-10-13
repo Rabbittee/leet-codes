@@ -99,6 +99,8 @@
 | 082 | [11][0011] | [Container With Most Water](<./2021-10/2021-10-09%20(day82)>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
 | 083 | [179][0179] | [Largest Number](<./2021-10/2021-10-10%20(day83)>) | ![Medium][Medium] | String; Greedy; Sorting | 
 | 084 | [1062][1062] | [Partition Array Into Three Parts With Equal Sum](<./2021-10/2021-10-12%20(day84)>) | ![Easy][Easy] | Array; Greedy | 
+|  |  | Week 13<br>(2021-10-13 ~ ) | 
+| 085 | [404][0404] | [Sum of Left Leaves](<./2021-10/2021-10-13%20(day85)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 
 
 
@@ -106,7 +108,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-49-brightgreen)
+![](https://img.shields.io/badge/Easy-50-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -179,6 +181,7 @@
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [0392]: https://leetcode.com/problems/is-subsequence/
+[0404]: https://leetcode.com/problems/sum-of-left-leaves/
 [0409]: https://leetcode.com/problems/longest-palindrome/
 [0455]: https://leetcode.com/problems/assign-cookies/
 [0561]: https://leetcode.com/problems/array-partition-i/
