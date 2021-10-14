@@ -101,6 +101,7 @@
 | 084 | [1062][1062] | [Partition Array Into Three Parts With Equal Sum](<./2021-10/2021-10-12%20(day84)>) | ![Easy][Easy] | Array; Greedy | 
 |  |  | Week 13<br>(2021-10-13 ~ ) | 
 | 085 | [404][0404] | [Sum of Left Leaves](<./2021-10/2021-10-13%20(day85)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 086 | [257][0257] | [Binary Tree Paths](<./2021-10/2021-10-14%20(day86)>) | ![Easy][Easy] | String; Tree; Depth-First Search; Binary Tree | 
 
 
 
@@ -108,7 +109,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-50-brightgreen)
+![](https://img.shields.io/badge/Easy-51-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -172,6 +173,7 @@
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0239]: https://leetcode.com/problems/sliding-window-maximum/
 [0242]: https://leetcode.com/problems/valid-anagram/
+[0257]: https://leetcode.com/problems/binary-tree-paths/
 [0268]: https://leetcode.com/problems/missing-number/
 [0287]: https://leetcode.com/problems/find-the-duplicate-number/
 [0290]: https://leetcode.com/problems/word-pattern/
