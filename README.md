@@ -102,6 +102,7 @@
 |  |  | Week 13<br>(2021-10-13 ~ ) | 
 | 085 | [404][0404] | [Sum of Left Leaves](<./2021-10/2021-10-13%20(day85)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 086 | [257][0257] | [Binary Tree Paths](<./2021-10/2021-10-14%20(day86)>) | ![Easy][Easy] | String; Tree; Depth-First Search; Binary Tree | 
+| 087 | [904][0904] | [Leaf-Similar Trees](<./2021-10/2021-10-16%20(day87)>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
 
 
 
@@ -109,7 +110,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-51-brightgreen)
+![](https://img.shields.io/badge/Easy-52-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -192,6 +193,7 @@
 [0800]: https://leetcode.com/problems/letter-case-permutation/
 [0813]: https://leetcode.com/problems/all-paths-from-source-to-target/
 [0860]: https://leetcode.com/problems/design-circular-queue/
+[0904]: https://leetcode.com/problems/leaf-similar-trees/
 [0933]: https://leetcode.com/problems/number-of-recent-calls/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
 [1062]: https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
