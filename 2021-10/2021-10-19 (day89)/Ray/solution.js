@@ -18,9 +18,6 @@ var isUnivalTree = function(root) {
             result = false;
             return;
         }
-        if (!nowNode.left && !nowNode.right) {
-            return;
-        }
         if (nowNode.left) {
             recursive(nowNode.left);
         }
