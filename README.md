@@ -104,6 +104,7 @@
 | 086 | [257][0257] | [Binary Tree Paths](<./2021-10/2021-10-14%20(day86)>) | ![Easy][Easy] | String; Tree; Depth-First Search; Binary Tree | 
 | 087 | [904][0904] | [Leaf-Similar Trees](<./2021-10/2021-10-16%20(day87)>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
 | 088 | [563][0563] | [Binary Tree Tilt](<./2021-10/2021-10-18%20(day88)>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
+| 089 | [1005][1005] | [Univalued Binary Tree](<./2021-10/2021-10-19%20(day89)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 
 
 
@@ -111,7 +112,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-53-brightgreen)
+![](https://img.shields.io/badge/Easy-54-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -197,6 +198,7 @@
 [0860]: https://leetcode.com/problems/design-circular-queue/
 [0904]: https://leetcode.com/problems/leaf-similar-trees/
 [0933]: https://leetcode.com/problems/number-of-recent-calls/
+[1005]: https://leetcode.com/problems/univalued-binary-tree/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
 [1062]: https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 [1086]: https://leetcode.com/problems/divisor-game/
