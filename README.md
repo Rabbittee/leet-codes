@@ -105,6 +105,7 @@
 | 087 | [904][0904] | [Leaf-Similar Trees](<./2021-10/2021-10-16%20(day87)>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
 | 088 | [563][0563] | [Binary Tree Tilt](<./2021-10/2021-10-18%20(day88)>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
 | 089 | [1005][1005] | [Univalued Binary Tree](<./2021-10/2021-10-19%20(day89)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
+| 090 | [783][0783] | [Search in a Binary Search Tree](<./2021-10/2021-10-20%20(day90)>) | ![Easy][Easy] | Tree; Binary Search Tree; Binary Tree | 
 
 
 
@@ -112,7 +113,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-54-brightgreen)
+![](https://img.shields.io/badge/Easy-55-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -193,6 +194,7 @@
 [0563]: https://leetcode.com/problems/binary-tree-tilt/
 [0605]: https://leetcode.com/problems/can-place-flowers/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[0783]: https://leetcode.com/problems/search-in-a-binary-search-tree/
 [0800]: https://leetcode.com/problems/letter-case-permutation/
 [0813]: https://leetcode.com/problems/all-paths-from-source-to-target/
 [0860]: https://leetcode.com/problems/design-circular-queue/
