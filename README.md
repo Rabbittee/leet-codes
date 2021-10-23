@@ -1,4 +1,4 @@
-ㄏㄛ# Leet Rabbits Codes
+# Leet Rabbits Codes
 
 
 |  Day | Id | Title | Difficulty | Related Topics |
@@ -99,13 +99,14 @@
 | 082 | [11][0011] | [Container With Most Water](<./2021-10/2021-10-09%20(day82)>) | ![Medium][Medium] | Array; Two Pointers; Greedy | 
 | 083 | [179][0179] | [Largest Number](<./2021-10/2021-10-10%20(day83)>) | ![Medium][Medium] | String; Greedy; Sorting | 
 | 084 | [1062][1062] | [Partition Array Into Three Parts With Equal Sum](<./2021-10/2021-10-12%20(day84)>) | ![Easy][Easy] | Array; Greedy | 
-|  |  | Week 13<br>(2021-10-13 ~ ) | 
+|  |  | Week 13<br>(2021-10-13 ~ 2021-10-23) | 
 | 085 | [404][0404] | [Sum of Left Leaves](<./2021-10/2021-10-13%20(day85)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 086 | [257][0257] | [Binary Tree Paths](<./2021-10/2021-10-14%20(day86)>) | ![Easy][Easy] | String; Tree; Depth-First Search; Binary Tree | 
 | 087 | [904][0904] | [Leaf-Similar Trees](<./2021-10/2021-10-16%20(day87)>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
 | 088 | [563][0563] | [Binary Tree Tilt](<./2021-10/2021-10-18%20(day88)>) | ![Easy][Easy] | Tree; Depth-First Search; Binary Tree | 
 | 089 | [1005][1005] | [Univalued Binary Tree](<./2021-10/2021-10-19%20(day89)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 090 | [783][0783] | [Search in a Binary Search Tree](<./2021-10/2021-10-20%20(day90)>) | ![Easy][Easy] | Tree; Binary Search Tree; Binary Tree | 
+| 091 | [775][0775] | [N-ary Tree Preorder Traversal](<./2021-10/2021-10-23%20(day91)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search | 
 
 
 
@@ -113,7 +114,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-55-brightgreen)
+![](https://img.shields.io/badge/Easy-56-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -194,6 +195,7 @@
 [0563]: https://leetcode.com/problems/binary-tree-tilt/
 [0605]: https://leetcode.com/problems/can-place-flowers/
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[0775]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [0783]: https://leetcode.com/problems/search-in-a-binary-search-tree/
 [0800]: https://leetcode.com/problems/letter-case-permutation/
 [0813]: https://leetcode.com/problems/all-paths-from-source-to-target/
