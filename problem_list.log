@@ -90,4 +90,4 @@
 89,1005,https://leetcode.com/problems/univalued-binary-tree/,2021-10-19,Univalued Binary Tree,Easy,Tree;Depth-First Search;Breadth-First Search;Binary Tree
 90,783,https://leetcode.com/problems/search-in-a-binary-search-tree/,2021-10-20,Search in a Binary Search Tree,Easy,Tree;Binary Search Tree;Binary Tree
 91,775,https://leetcode.com/problems/n-ary-tree-preorder-traversal/,2021-10-23,N-ary Tree Preorder Traversal,Easy,Stack;Tree;Depth-First Search
-92,799,https://leetcode.com/problems/minimum-distance-between-bst-nodes/,2021-10-26,Minimum Distance Between BST Nodes,Easy,Tree;Depth-First Search;Breadth-First Search;Binary Search Tree;Binary Tree
+92,799,https://leetcode.com/problems/minimum-distance-between-bst-nodes/,2021-10-25,Minimum Distance Between BST Nodes,Easy,Tree;Depth-First Search;Breadth-First Search;Binary Search Tree;Binary Tree

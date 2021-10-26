@@ -107,8 +107,8 @@
 | 089 | [1005][1005] | [Univalued Binary Tree](<./2021-10/2021-10-19%20(day89)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 090 | [783][0783] | [Search in a Binary Search Tree](<./2021-10/2021-10-20%20(day90)>) | ![Easy][Easy] | Tree; Binary Search Tree; Binary Tree | 
 | 091 | [775][0775] | [N-ary Tree Preorder Traversal](<./2021-10/2021-10-23%20(day91)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search | 
-|  |  | Week 14<br>(2021-10-26 ~ ) | 
-| 092 | [799][0799] | [Minimum Distance Between BST Nodes](<./2021-10/2021-10-26%20(day92)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Search Tree; Binary Tree | 
+|  |  | Week 14<br>(2021-10-25 ~ ) | 
+| 092 | [799][0799] | [Minimum Distance Between BST Nodes](<./2021-10/2021-10-25%20(day92)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Search Tree; Binary Tree | 
 
 
 
