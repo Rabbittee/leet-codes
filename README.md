@@ -107,6 +107,8 @@
 | 089 | [1005][1005] | [Univalued Binary Tree](<./2021-10/2021-10-19%20(day89)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 090 | [783][0783] | [Search in a Binary Search Tree](<./2021-10/2021-10-20%20(day90)>) | ![Easy][Easy] | Tree; Binary Search Tree; Binary Tree | 
 | 091 | [775][0775] | [N-ary Tree Preorder Traversal](<./2021-10/2021-10-23%20(day91)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search | 
+|  |  | Week 14<br>(2021-10-26 ~ ) | 
+| 092 | [799][0799] | [Minimum Distance Between BST Nodes](<./2021-10/2021-10-26%20(day92)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Search Tree; Binary Tree | 
 
 
 
@@ -114,7 +116,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-56-brightgreen)
+![](https://img.shields.io/badge/Easy-57-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -197,6 +199,7 @@
 [0747]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [0775]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [0783]: https://leetcode.com/problems/search-in-a-binary-search-tree/
+[0799]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [0800]: https://leetcode.com/problems/letter-case-permutation/
 [0813]: https://leetcode.com/problems/all-paths-from-source-to-target/
 [0860]: https://leetcode.com/problems/design-circular-queue/
