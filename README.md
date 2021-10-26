@@ -109,6 +109,7 @@
 | 091 | [775][0775] | [N-ary Tree Preorder Traversal](<./2021-10/2021-10-23%20(day91)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search | 
 |  |  | Week 14<br>(2021-10-25 ~ ) | 
 | 092 | [799][0799] | [Minimum Distance Between BST Nodes](<./2021-10/2021-10-25%20(day92)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Search Tree; Binary Tree | 
+| 093 | [933][0933] | [Increasing Order Search Tree](<./2021-10/2021-10-26%20(day93)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 
 
 
@@ -116,7 +117,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-57-brightgreen)
+![](https://img.shields.io/badge/Easy-58-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -204,6 +205,7 @@
 [0813]: https://leetcode.com/problems/all-paths-from-source-to-target/
 [0860]: https://leetcode.com/problems/design-circular-queue/
 [0904]: https://leetcode.com/problems/leaf-similar-trees/
+[0933]: https://leetcode.com/problems/increasing-order-search-tree/
 [0933]: https://leetcode.com/problems/number-of-recent-calls/
 [1005]: https://leetcode.com/problems/univalued-binary-tree/
 [1039]: https://leetcode.com/problems/find-the-town-judge/
