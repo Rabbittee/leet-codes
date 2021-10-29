@@ -111,6 +111,7 @@
 | 092 | [799][0799] | [Minimum Distance Between BST Nodes](<./2021-10/2021-10-25%20(day92)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Search Tree; Binary Tree | 
 | 093 | [933][0933] | [Increasing Order Search Tree](<./2021-10/2021-10-26%20(day93)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 | 094 | [1916][1916] | [Find Center of Star Graph](<./2021-10/2021-10-28%20(day94)>) | ![Easy][Easy] | Graph | 
+| 095 | [2121][2121] | [Find if Path Exists in Graph](<./2021-10/2021-10-29%20(day95)>) | ![Easy][Easy] | Depth-First Search; Breadth-First Search; Graph | 
 
 
 
@@ -118,7 +119,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-59-brightgreen)
+![](https://img.shields.io/badge/Easy-60-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -219,6 +220,7 @@
 [1769]: https://leetcode.com/problems/get-maximum-in-generated-array/
 [1802]: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 [1916]: https://leetcode.com/problems/find-center-of-star-graph/
+[2121]: https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 [Easy]: https://img.shields.io/badge/-Easy-brightgreen
 [Medium]: https://img.shields.io/badge/-Medium-orange
