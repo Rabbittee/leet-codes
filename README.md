@@ -112,6 +112,7 @@
 | 093 | [933][0933] | [Increasing Order Search Tree](<./2021-10/2021-10-26%20(day93)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 | 094 | [1916][1916] | [Find Center of Star Graph](<./2021-10/2021-10-28%20(day94)>) | ![Easy][Easy] | Graph | 
 | 095 | [2121][2121] | [Find if Path Exists in Graph](<./2021-10/2021-10-29%20(day95)>) | ![Easy][Easy] | Depth-First Search; Breadth-First Search; Graph | 
+| 096 | [389][0389] | [Find the Difference](<./2021-11/2021-11-01%20(day96)>) | ![Easy][Easy] | Hash Table; String; Bit Manipulation; Sorting | 
 
 
 
@@ -119,7 +120,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-60-brightgreen)
+![](https://img.shields.io/badge/Easy-61-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -192,6 +193,7 @@
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[0389]: https://leetcode.com/problems/find-the-difference/
 [0392]: https://leetcode.com/problems/is-subsequence/
 [0404]: https://leetcode.com/problems/sum-of-left-leaves/
 [0409]: https://leetcode.com/problems/longest-palindrome/

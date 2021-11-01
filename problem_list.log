@@ -94,3 +94,4 @@
 93,933,https://leetcode.com/problems/increasing-order-search-tree/,2021-10-26,Increasing Order Search Tree,Easy,Stack;Tree;Depth-First Search;Binary Search Tree;Binary Tree
 94,1916,https://leetcode.com/problems/find-center-of-star-graph/,2021-10-28,Find Center of Star Graph,Easy,Graph
 95,2121,https://leetcode.com/problems/find-if-path-exists-in-graph/,2021-10-29,Find if Path Exists in Graph,Easy,Depth-First Search;Breadth-First Search;Graph
+96,389,https://leetcode.com/problems/find-the-difference/,2021-11-01,Find the Difference,Easy,Hash Table;String;Bit Manipulation;Sorting
