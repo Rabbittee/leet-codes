@@ -113,6 +113,7 @@
 | 094 | [1916][1916] | [Find Center of Star Graph](<./2021-10/2021-10-28%20(day94)>) | ![Easy][Easy] | Graph | 
 | 095 | [2121][2121] | [Find if Path Exists in Graph](<./2021-10/2021-10-29%20(day95)>) | ![Easy][Easy] | Depth-First Search; Breadth-First Search; Graph | 
 | 096 | [389][0389] | [Find the Difference](<./2021-11/2021-11-01%20(day96)>) | ![Easy][Easy] | Hash Table; String; Bit Manipulation; Sorting | 
+| 097 | [383][0383] | [Ransom Note](<./2021-11/2021-11-03%20(day97)>) | ![Easy][Easy] | Hash Table; String; Counting | 
 
 
 
@@ -120,7 +121,7 @@
 
 ### Summary
 
-![](https://img.shields.io/badge/Easy-61-brightgreen)
+![](https://img.shields.io/badge/Easy-62-brightgreen)
 
 ![](https://img.shields.io/badge/Medium-30-orange)
 
@@ -192,6 +193,7 @@
 [0338]: https://leetcode.com/problems/counting-bits/
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
 [0350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[0383]: https://leetcode.com/problems/ransom-note/
 [0387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [0389]: https://leetcode.com/problems/find-the-difference/
 [0392]: https://leetcode.com/problems/is-subsequence/
