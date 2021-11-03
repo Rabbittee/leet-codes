@@ -113,7 +113,7 @@
 | 094 | [1916][1916] | [Find Center of Star Graph](<./2021-10/2021-10-28%20(day94)>) | ![Easy][Easy] | Graph | 
 | 095 | [2121][2121] | [Find if Path Exists in Graph](<./2021-10/2021-10-29%20(day95)>) | ![Easy][Easy] | Depth-First Search; Breadth-First Search; Graph | 
 | 096 | [389][0389] | [Find the Difference](<./2021-11/2021-11-01%20(day96)>) | ![Easy][Easy] | Hash Table; String; Bit Manipulation; Sorting | 
-| 097 | [383][0383] | [Ransom Note](<./2021-11/2021-11-03%20(day97)>) | ![Easy][Easy] | Hash Table; String; Counting | 
+| 097 | [383][0383] | [Ransom Note](<./2021-11/2021-11-02%20(day97)>) | ![Easy][Easy] | Hash Table; String; Counting | 
 
 
 
