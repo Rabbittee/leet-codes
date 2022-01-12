@@ -96,3 +96,4 @@
 95,2121,https://leetcode.com/problems/find-if-path-exists-in-graph/,2021-10-29,Find if Path Exists in Graph,Easy,Depth-First Search;Breadth-First Search;Graph
 96,389,https://leetcode.com/problems/find-the-difference/,2021-11-01,Find the Difference,Easy,Hash Table;String;Bit Manipulation;Sorting
 97,383,https://leetcode.com/problems/ransom-note/,2021-11-02,Ransom Note,Easy,Hash Table;String;Counting
+98,322,https://leetcode.com/problems/coin-change/,2022-01-12,Coin Change,Medium,Array;Dynamic Programming;Breadth-First Search

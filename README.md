@@ -107,13 +107,14 @@
 | 089 | [1005][1005] | [Univalued Binary Tree](<./2021-10/2021-10-19%20(day89)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Tree | 
 | 090 | [783][0783] | [Search in a Binary Search Tree](<./2021-10/2021-10-20%20(day90)>) | ![Easy][Easy] | Tree; Binary Search Tree; Binary Tree | 
 | 091 | [775][0775] | [N-ary Tree Preorder Traversal](<./2021-10/2021-10-23%20(day91)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search | 
-|  |  | Week 14<br>(2021-10-25 ~ ) | 
+|  |  | Week 14<br>(2021-10-25 ~ 2022-01-12) | 
 | 092 | [799][0799] | [Minimum Distance Between BST Nodes](<./2021-10/2021-10-25%20(day92)>) | ![Easy][Easy] | Tree; Depth-First Search; Breadth-First Search; Binary Search Tree; Binary Tree | 
 | 093 | [933][0933] | [Increasing Order Search Tree](<./2021-10/2021-10-26%20(day93)>) | ![Easy][Easy] | Stack; Tree; Depth-First Search; Binary Search Tree; Binary Tree | 
 | 094 | [1916][1916] | [Find Center of Star Graph](<./2021-10/2021-10-28%20(day94)>) | ![Easy][Easy] | Graph | 
 | 095 | [2121][2121] | [Find if Path Exists in Graph](<./2021-10/2021-10-29%20(day95)>) | ![Easy][Easy] | Depth-First Search; Breadth-First Search; Graph | 
 | 096 | [389][0389] | [Find the Difference](<./2021-11/2021-11-01%20(day96)>) | ![Easy][Easy] | Hash Table; String; Bit Manipulation; Sorting | 
 | 097 | [383][0383] | [Ransom Note](<./2021-11/2021-11-02%20(day97)>) | ![Easy][Easy] | Hash Table; String; Counting | 
+| 098 | [322][0322] | [Coin Change](<./2022-01/2022-01-12%20(day98)>) | ![Medium][Medium] | Array; Dynamic Programming; Breadth-First Search | 
 
 
 
@@ -123,7 +124,7 @@
 
 ![](https://img.shields.io/badge/Easy-62-brightgreen)
 
-![](https://img.shields.io/badge/Medium-30-orange)
+![](https://img.shields.io/badge/Medium-31-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -189,6 +190,7 @@
 [0268]: https://leetcode.com/problems/missing-number/
 [0287]: https://leetcode.com/problems/find-the-duplicate-number/
 [0290]: https://leetcode.com/problems/word-pattern/
+[0322]: https://leetcode.com/problems/coin-change/
 [0326]: https://leetcode.com/problems/power-of-three/
 [0338]: https://leetcode.com/problems/counting-bits/
 [0341]: https://leetcode.com/problems/flatten-nested-list-iterator/
