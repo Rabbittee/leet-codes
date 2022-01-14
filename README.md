@@ -115,6 +115,8 @@
 | 096 | [389][0389] | [Find the Difference](<./2021-11/2021-11-01%20(day96)>) | ![Easy][Easy] | Hash Table; String; Bit Manipulation; Sorting | 
 | 097 | [383][0383] | [Ransom Note](<./2021-11/2021-11-02%20(day97)>) | ![Easy][Easy] | Hash Table; String; Counting | 
 | 098 | [322][0322] | [Coin Change](<./2022-01/2022-01-12%20(day98)>) | ![Medium][Medium] | Array; Dynamic Programming; Breadth-First Search | 
+|  |  | Week 15<br>(2022-01-14 ~ ) | 
+| 099 | [221][0221] | [Maximal Square](<./2022-01/2022-01-14%20(day99)>) | ![Medium][Medium] | Array; Dynamic Programming; Matrix | 
 
 
 
@@ -124,7 +126,7 @@
 
 ![](https://img.shields.io/badge/Easy-62-brightgreen)
 
-![](https://img.shields.io/badge/Medium-31-orange)
+![](https://img.shields.io/badge/Medium-32-orange)
 
 ![](https://img.shields.io/badge/Hard-4-red)
 
@@ -182,6 +184,7 @@
 [0179]: https://leetcode.com/problems/largest-number/
 [0205]: https://leetcode.com/problems/isomorphic-strings/
 [0215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[0221]: https://leetcode.com/problems/maximal-square/
 [0227]: https://leetcode.com/problems/basic-calculator-ii/
 [0234]: https://leetcode.com/problems/palindrome-linked-list/
 [0239]: https://leetcode.com/problems/sliding-window-maximum/
