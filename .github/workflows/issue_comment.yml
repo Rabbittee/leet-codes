@@ -22,8 +22,8 @@ jobs:
           python script/createREADME.py "${{ github.event.comment.body }}"
       - name: Git Commit and Push
         run: |
-          git config --global user.email "rabbittee@github.com"
-          git config --global user.name "rabbittee"
+          git config --global user.email "rabbitteetw@gmail.com"
+          git config --global user.name "Rabbittee"
           git add .
           git commit -m "create daily folder $(date +%Y-%m-%d)"
           git push
