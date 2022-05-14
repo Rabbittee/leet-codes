@@ -37,7 +37,7 @@ func Constructor(homepage string) BrowserHistory {
 }
 ```
 To back to the previous page or forward to the next page, there had already defined function interface, and we need to write the code inside.
-For the back and forward function, the input is steps which means the page should go back to forward how many pages.
+For the back and forward function, the input is steps which mean the page should go back or forward how many pages.
 We use a for loop to get the next page and current page to it, and in each step we also need to check if the next pointer is nil, if true, we stop the iteration and return the URL of the current page.
 `For back, we check if the prev pointer is nil.`
 `For forward, we check if the next pointer is nil.`
