@@ -1,42 +1,57 @@
-class Node{
-    constructor({name, url}){
-        this.currentPage = new Node({ name, url});
-        this.nextPage = null;
-        this.previousPage = null;  
-    }
-
-    setCurrentNode(page){
-        this.currentPage = page;
-    }
-
-    setNextNode(page){
-        this.nextPage = page
-    }
-
-    setPreNode(page){
-        this.previousPage = page
-    }
-
-    visit(page){
-        const pageNode = new Node(page);
-        this.currentPage.setNextNode(pageNode);
-    }
-
-    forward(steps){
-        if(Number.isNaN(steps) && this.previousPage === null) return
-        let node = this.currentPage
-        for(let startIndex = steps; startIndex < 1; i--){
-            node = node.nextPage
-        }
-        this.setCurrentNode(node);
-    }
-
-    back(steps){
-        if(Number.isNaN(steps) && this.previousPage === null) return
-        let node = this.currentPage
-        for(let startIndex = steps; startIndex < 1; i--){
-            node = node.previousPage
-        }
-        this.setCurrentNode(node);
+/**
+ * @param {string} homepage
+ */
+ class Node{
+    constructor(url){
+        this.val = url;
+        this.prev = null;
+        this.next = null;
     }
 }
+
+var BrowserHistory = function(homepage) {
+    this.currentPage = new Node(homepage); 
+};
+
+/** 
+ * @param {string} url
+ * @return {void}
+ */
+BrowserHistory.prototype.visit = function(url) {
+    const node = new Node(url)
+    this.currentPage.next = node
+    node.prev = this.currentPage;
+    this.currentPage = node
+};
+
+/** 
+ * @param {number} steps
+ * @return {string}
+ */
+BrowserHistory.prototype.back = function(steps) {
+    while(steps && this.currentPage.prev){
+        steps--
+        this.currentPage = this.currentPage.prev
+    }
+    return this.currentPage.val;
+};
+
+/** 
+ * @param {number} steps
+ * @return {string}
+ */
+BrowserHistory.prototype.forward = function(steps) {
+    while(steps && this.currentPage.next){
+        steps++
+        this.currentPage = this.currentPage.next
+    }
+    return this.currentPage.val;
+};
+
+/** 
+ * Your BrowserHistory object will be instantiated and called as such:
+ * var obj = new BrowserHistory(homepage)
+ * obj.visit(url)
+ * var param_2 = obj.back(steps)
+ * var param_3 = obj.forward(steps)
+ */
