@@ -28,7 +28,7 @@ func dailyTemperatures(temperatures []int) []int {
 
 ### Time complexity
 
-There is a nested for loop inside the for loop, but the inner for loop only pop once, so the time complexity is `O(n)`.
+There is a nested for loop inside the for loop, and in the worst case, every element will be pushed and popped once, so the time complexity is `O(2n)` = `O(n)`.
 
 
 ### Space complexity
