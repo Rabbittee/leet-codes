@@ -1,7 +1,12 @@
-package main
+# 5.Hash Table
 
-import "fmt"
 
+[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+
+We implement a simple Integer HashMap here, and use it the find if the input nums contains duplicate.
+
+```go
 func containsDuplicate(nums []int) bool {
 	myMap := NewMyMap(97) // I hard code a prime number here, cuz I am lazy.
 	for _, num := range nums {
@@ -80,7 +85,4 @@ func (m *DataNode) Add(value int) {
 	}
 	cur.Next = &DataNode{Value: value}
 }
-
-func main() {
-	fmt.Printf("%v", containsDuplicate([]int{1, 2, 3, 1}))
-}
+```
